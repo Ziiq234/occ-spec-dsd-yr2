@@ -23,8 +23,8 @@ Everything for my **T Level Digital Software Development (Gen 2) Occupational Sp
 | [`HANDOFF.md`](HANDOFF.md) | One-page summary of everything worked out so far — paste into a new Claude chat to pick up where we left off |
 | [`CLAUDE.md`](CLAUDE.md) | Instructions Claude reads automatically when working in this repo |
 | [`papers/gen2/`](papers/gen2) | Gen 2 past papers: **SAM** (ToKa Fitness) and **AdSAM** (Netheret IT Support) — task booklets, mark schemes, Word log templates, plus plain-text copies in `text/` |
-| [`papers/gen1/`](papers/gen1) | Gen 1 (Digital Production, Design and Development) papers — *to add* |
-| [`notes/`](notes) | Specification summary, mark scheme breakdown by task, Gen 1 vs Gen 2, lessons from a past project, database plan |
+| [`papers/gen1/`](papers/gen1) | Gen 1 papers 2022/2023/2025, mark schemes, **graded Pass and Distinction exemplars**, lead examiner reports, admin guide |
+| [`notes/`](notes) | **What gets a Distinction**, past briefs and patterns, specification summary, mark scheme by task, lessons from a past project, database plan |
 | [`templates/`](templates) | Markdown starters for requirements, data dictionary, style guide, AI log, test log, change and source log, plus file naming rules |
 | [`checklists/`](checklists) | Tick-lists for each task, built from the mark scheme |
 | [`docker/`](docker) | Practice database setup (SQL Server / PostgreSQL in Docker) with a SQLite fallback plan |
@@ -35,9 +35,16 @@ Everything for my **T Level Digital Software Development (Gen 2) Occupational Sp
 
 The **requirements, KPIs and user acceptance criteria written in Task 1** are what Task 3 is marked against. Make them specific and measurable in March, or they cost marks again in May.
 
+## Start here
+
+1. `notes/what-gets-a-distinction.md` — what examiners reward and what lost marks
+2. `notes/past-briefs-and-patterns.md` — every past client and the features they keep asking for
+3. `notes/mark-scheme-by-task.md` — Gen 2 marks task by task
+4. `checklists/task-checklists.md`
+
 ## To do
 
-- [ ] Add Gen 1 past papers to `papers/gen1/`
+- [x] Add Gen 1 past papers to `papers/gen1/`
 - [ ] Confirm with college: languages/IDEs, design tools, hosting, Docker on college PCs, Task 3 start date
 - [ ] Practise ERDs, data dictionary, wireframes and a style guide on a past brief
 - [ ] Practise an AI log (prompts → critical review → refinement)

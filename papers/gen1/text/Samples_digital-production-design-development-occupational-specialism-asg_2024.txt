@@ -1,0 +1,532 @@
+Administrative Support Guide
+
+
+
+T Level Technical Qualification in
+Digital: Digital Production, Design
+and Development
+
+
+
+Occupational Specialism
+
+Summer 2024
+  Table of Contents
+Contents
+  Occupational Specialism Specific Information .......................................................... 3
+    This assessment contains: ........................................................................................................................ 3
+    Supervised conditions and control definitions:...................................................................................... 4
+    Before the assessment: ............................................................................................................................ 5
+    During the assessment: ............................................................................................................................ 5
+  Set Tasks......................................................................................................................... 6
+    Task 1 .......................................................................................................................................................... 6
+    Task 2 .......................................................................................................................................................... 8
+    Task 3a...................................................................................................................................................... 10
+    Task 3b ..................................................................................................................................................... 12
+    Attendance Register ................................................................................................................................ 14
+    After the assessment: ............................................................................................................................. 14
+  General Information ................................................................................................... 15
+    Key Links:.................................................................................................................................................. 16
+
+
+
+
+                                                                               2
+       Occupational Specialism Specific Information
+This assessment contains:
+Material          Release date   Learner sub-  Level of supervision and control        Dispatch
+                                 mission dead-                                         Method
+                                 line*
+Task 1: Analys-                                 Supervised, medium control: 20 hours   Secure Web Re-
+                     th             nd
+ing the prob-      11 March       22 March                                             lease
+lem and de-           2024        2024
+signing a solu-
+tion
+
+Task 2: Devel-                                  Supervised, medium control: 30 hours   Secure Web Re-
+                                    th
+oping the solu-    25th March     26 April                                             lease
+tion                  2024           2024
+
+
+
+
+Task 3a: Gath-                                  Supervised, medium control: 15 hours   Secure Web Re-
+                     th            th
+ering feedback     29 April       8 May 2024                                           lease
+to inform fu-         2024
+ture develop-
+ment
+
+Task 3b: Evalu-                                 Supervised, medium control: 2 hours    Secure Web Re-
+                    th              th
+ating feedback     9 May 2024     10 May                                               lease
+to inform fur-                       2024
+ther develop-
+ment
+
+
+
+
+Secure material will be released on our website here.
+
+Note: Level of supervision and control is defined on the next page.
+
+Centre submission deadlines: All learner work must be uploaded to the OneDrive links by 12 midday
+on the next working day from the submission deadline. You must inform Pearson immediately if any
+submission deadline is going to be missed.
+
+
+
+
+                                                   3
+Supervised conditions and control definitions:
+Below are the definitions of supervised and medium control.
+
+All the tasks in this Occupational Specialism are to be sat under supervised condi-
+tions with medium control.
+
+Supervised conditions:
+
+                                   Supervised Conditions
+  Authenticity                        •   Students complete work under direct supervision
+                                      •   Students are within direct sight of the supervisor(s) throughout
+                                          the assessment
+  Time                                •   Students have a limited amount of time in which to complete
+                                          all work; the duration is specified by Pearson
+  Resource                            •   Permitted resources are clearly specified on the task paper
+                                      •   The provider must ensure that students only have access to
+                                          the materials and resources as defined in the task paper
+                                      •   Display materials which might provide assistance must be re-
+                                          moved or covered
+  Collaboration                       •   Students complete their work independently; there is no in-
+                                          teraction with other students
+  Feedback                            •   There must be no assistance of any description provided to the
+                                          student during the assessment
+
+
+Medium control: supervision which can be done by the teacher
+
+This is the completion of assessment, usually over a longer period, which may include a period of
+controlled conditions. The controlled conditions may allow students to access resources, prepared
+notes or the internet to help them complete the task.
+
+
+
+
+                                                    4
+Before the assessment:
+Providers must ensure that:
+       They have read the instructions for delivery provided on the live assessment material,
+        as well as any publication or communication from Pearson, to ensure you have the
+        most relevant guidance to deliver this unit.
+       They have understood the delivery of the assessment and read General Administra-
+        tive Support Guide document.
+       Materials received from Pearson are kept secure by the provider until the
+        start of the assessment window.
+       Providers must not discuss the details of the examination content with students.
+       Students have been registered onto the correct course and entered for the
+        correct assessment and series.
+       Students due to sit the assessment are made aware of the timetabled ses-
+        sions for the preparatory work and the supervised assessment.
+
+
+
+During the assessment:
+
+To maintain security during the formal supervised assessment period:
+    •    The assessment areas must only be accessible to the individual learner and named mem-
+         bers of staff
+    •    Students can only access their work under supervision
+    •    Any work Students produce under supervision must be kept securely
+    •    During any permitted break at the end of the session materials must be
+         kept securely and no items removed from the supervised environment
+    •    Students are permitted to have access to the internet during some of
+         the supervised assessment periods and this is specified within each
+         Task description in this document
+
+
+
+
+                                                     5
+Set Tasks
+
+Task 1
+For the Task:
+   •   Students must complete all parts of the activity within the assessment.
+   •   Students will complete the task in 20 supervised hours that are to be scheduled during the
+       three week window.
+   •   Students should complete it under supervised conditions.
+
+Use of Internet for this Task:
+   • Monitored access to the internet is allowed during the supervised sessions for this Task. The
+       internet may be used by the student to:
+       -   Carry out the research detailed in Activity A
+       -   Investigate similar products to the one they are proposing
+       -   Gather information (to be kept in their Appendices) that can be referred to when provid-
+           ing a rational for their chose design e.g., identification of common design features, identi-
+           fying ‘gaps in the market’, key technologies, etc.
+   •   When using the internet students must not:
+       -  Share their work with others
+       -  Transfer any work relating to the supervised tasks to external sources including
+          (but not limited to):
+          o Personal cloud-based file storage
+          o Community knowledge bases, discussion groups, social media or any other website
+          o Removable storage media
+       - Communicate with other students
+       - Collaborate in the production of any evidence of solution
+       - Access and download large sections of code and/or complete solutions which are
+          then presented as the student’s own work (plagiarism)
+   •   Student work and any material provided must be kept securely at all times.
+
+
+For this Task Students will need access to:
+   •   Internet
+   •   Set Task Booklet (Task1)
+   •   Template provided by Pearson: ‘Task1_Test_Strategy_Template.doc’
+
+                                                     6
+Outside of the supervised session students are permitted to:
+  • Carry out research
+   •   Produce notes containing the facts and figures related to their research
+
+Note: Any notes students wish to take into their supervised session must be submitted as part
+of the assessment so they can be checked by a teacher or tutor, and they must confirm that the
+notes contain only facts and figures related to their research.
+
+
+Notes that Students are permitted to bring into their supervised sessions must:
+   •   Not contain attempts to interpret, analyse or evaluate the research in the context of the sce-
+       nario
+   •   Not contain any other context that has not been specified in these instructions
+   •   Be submitted as an appendix to the task and retained by the Provider until after
+       the end of the post-results service period.
+
+Submitting Task 1:
+
+At the end of the session, Students should:
+     Save all the following files to their folder for submission:
+       - Task1_Proposal (pdf file) and any relevant appendices
+       - Task1_DesignDocs (multiple files including ‘test strategy’)
+      Use the naming conventions detailed on the Set Task Brief.
+
+Note: Students must not make any further changes to the outcomes for this task once the window
+has concluded.
+
+At the end of the session, the Provider should:
+     Copy all Student files to a secure area ready for submission to Pearson.
+     Submit these versions of Task 1 outcomes by the submission deadline given.
+
+
+Suggested practice:
+
+   •   Providers to set up individual Task 1 user profiles only accessible during the supervised ses-
+       sions
+   •   At the end of the 20 hours these should be locked and not accessible to student
+   •   The user areas should be archived for each candidate
+   •   Outcome materials for each candidate should be zipped and held until af-
+       ter appeals are concluded
+   •   Each Student materials zip file should be named Task1_StudentID_ProviderNum_Year.zip
+
+
+                                                        7
+Task 2
+For the Task:
+   •   Students must complete all parts of the activity within the assessment.
+   •   Students will complete the task in 30 supervised hours that are to be scheduled during the
+       four week window.
+   •   Students should complete it under supervised conditions.
+
+Use of Internet for this Task:
+Monitored access to the internet is allowed during the supervised sessions for this Task. The
+internet may be used by the students to:
+   •   Gather digital assets such as layout templates, images, sounds and videos for
+       use in the prototype
+   •   Gather small sections of pre-written code that can be adapted for inclusion in the prototype
+   •   Access online knowledge bases to check syntax, interpret error messages etc. such as:
+   -   User guides for the chosen programming languages
+   -   Community maintained wikis and forums for third-party libraries and frameworks
+   -   Download publicly available datasets to populate and test back-end solutions
+It is important to note that when gathering assets and code snippets the Student MUST record
+the sources used in assets log. This includes the use of any AI tool in the provision of any code
+repurposed in the development of the task solution. The log must:
+   •   Record all sources used
+   •   Describe the content and its intended purpose
+   •   Log the date and location on which the information was retrieved
+
+
+When using the internet students must not:
+   •   Share their work with others
+   •   Transfer any work relating to the supervised tasks to external sources including (but
+       not limited to):
+   -   Personal cloud-based file storage
+   -   Community knowledge bases, discussion groups, social media or any other website
+   -   Removable storage media
+   •   Communicate with other students
+   •   Collaborate in the production of any evidence of solution
+   •   Access and download large sections of code and/or complete solutions which are then
+       presented as the student’s own work (plagiarism)
+
+
+                                                    8
+For this Task Students will need access to:
+   • Set Task Booklet (Task 2)
+   • The templates provided by Pearson: ‘Task_2_Test_Log_Template.doc’
+   •    And the following files checked and provided by the Provider (pdf/ read only copies of):
+        - Task1_Proposal (pdf file) and any relevant appendices
+        - Task1_DesignDocs (multiple files including ‘test strategy’)
+
+Submitting Task 2:
+At the end of the session, Students should:
+     Save all their work to their folder for submission
+     Use the naming conventions details on the Set Task Brief
+
+Note: Students must not make any further changes to the outcomes for this task once the window
+has concluded.
+
+At the end of the session, the Provider should:
+       Copy the following files to a secure area ready for submission to Pearson:
+        -   The functional prototype (varying folder structure and file types)
+        -   Task2 Development documents (multiple pdf files)
+        -   Task2 Content Assets Log (pdf file)
+        -   Task2_Test_Log (pdf file)
+        -   Task2 Code (pdf and txt files)
+       Submit these versions of Task 2 outcomes by the submission deadline given.
+
+
+Suggested practice:
+
+    •   Providers to set up individual Task 2 user profiles only accessible during the supervised ses-
+        sions
+    •   At the end of the 30 hours these exam accounts should be locked and not accessible to stu-
+        dents
+    •   The user areas should be archived for each candidate
+    •   Outcome materials for each candidate should be zipped and held until af-
+        ter appeals are concluded
+    •   Each Student materials zip file should be named Task2_StudentID_ProviderNum_Year.zip
+
+
+
+
+                                                     9
+Task 3a
+For the Task:
+   •   Students must complete all parts of the activity within the assessment.
+   •   Students will complete the task in 15 supervised hours that are to be scheduled during the
+       two week window.
+   •   Students should complete it under supervised conditions.
+
+Use of Internet for this Task:
+Monitored access to the internet is allowed during the supervised sessions for the Task.
+The internet may be used by the Students to:
+   •   Access tools to support the presentation of their prototype to others (e.g. text-to-
+       speech tools to support a functionality demonstration, video compression tools, online
+       meeting tools)
+   •   Create and distribute questionnaires/forms to gather feedback on the prototype
+   •   Provide test users with access to a copy of the prototype
+
+When using the internet in the Task Students must not:
+  • Make further changes to their evidence/outcomes from Tasks 1 and 2
+  • Access and download the work of others with the intention of being presented as the stu-
+     dent’s own work (plagiarism)
+  • Communicate with others beyond the requirements of the activity (i.e., present the prototype
+     and gain feedback
+
+For this Task Students will need access to:
+   • The Set Task Booklet (Task 3a) and the following files checked and provided by the Provider
+       (pdf/ read only copies):
+       - Task1_Proposal (pdf file) and any relevant appendices
+       - Task1_DesignDocs (multiple files including ‘test strategy’
+       - The functional prototype (varying folder structure and file types)
+       - Task2 Development documents (multiple pdf files)
+       - Task2 Content Assets Log (pdf file)
+       - Task2_Test_Log (pdf file)
+       - Task2 Code (pdf and txt files)
+
+
+
+
+                                                  10
+Submitting Task 3a:
+
+At the end of the session, Students should:
+     Save all their work to their folder for submission.
+     Use the following naming convention: Task3_PartA_[Document name] (varying folders and
+        document types)
+
+
+Note: Students must not make any further changes to the outcomes for this task once the
+window has concluded. Students are permitted to produce evidence for this task during un-
+supervised time, as long as this occurs within the assessment window.
+
+At the end of the session, the Provider should:
+     Copy the Student files to a secure area ready for submission to Pearson.
+     Submit these versions of Task 3 outcomes by the submission deadline given.
+
+
+Suggested practice:
+
+   •   Providers to set up individual Task 3a user profiles only accessible during supervised sessions
+   •   At the end of the 15 hours these exam accounts should be locked and not accessible to Stu-
+       dents
+   •   The user areas should be archived for each Student
+   •   Outcome materials for each candidate should be zipped and held until af-
+       ter appeals are concluded
+   •   Each Student materials zip file should be named Task3PartA_StudentID_ProviderNum_Year.zip
+
+
+
+
+                                                  11
+Task 3b
+
+For this Task:
+   • Students must complete all parts of the activity within the assessment.
+   • Students will complete the task in 2 supervised hours that are to be scheduled on the day
+       given.
+   • Students should complete it under supervised conditions.
+
+
+Access to the internet is not permitted during the supervised session for this Task.
+
+For this Task Students will need access to:
+   • The Set Task Booklet (Task 3b) and the following files checked and provided by the
+       Provider (pdf/ read only copies):
+       - Task1_Proposal (pdf file) and any relevant appendices
+       - Task1_DesignDocs (multiple files including ‘test strategy
+       - The functional prototype (varying folder structure and file types)
+       - Task2 Development documents (multiple pdf files)
+       - Task2 Content Assets Log (pdf file)
+       - Task2_Test_Log (pdf file)
+       - Task2 Code (pdf and txt files)
+       - Task3_PartA_[Document name] (varying folders and document types)
+
+Submitting Task 3b:
+
+At the end of the session, Students should:
+     Save all their work to their folder for submission.
+     Use the following naming convention: Task3_PartA_[Document name] (varying folders and
+        document types)
+
+Note: Students must not make any further changes to the outcomes for this task once the window
+has concluded.
+
+
+At the end of the session, Providers should:
+     Copy the student files to a secure area ready for submission to Pearson
+     Submit these versions of Task 3b outcomes by the submission deadline given.
+
+
+
+
+                                                   12
+Suggested practice:
+
+   •   Provider to set up individual Task 3b user profiles only accessible during the supervised ses-
+       sion
+   •   At the end of the 2 hours these exam accounts should be locked sown and not accessible to
+       students
+   •   The user areas should be archived for each Student
+   •   Outcome materials for each candidate should be zipped and held until af-
+       ter appeals are concluded
+   •   Each Student materials zip file should be named Task3PartB_StudentID_ProviderNum_Year.zip
+
+
+
+
+                                                  13
+Attendance Register
+
+
+The attendance register can be accessed online and will be available to providers with their
+OneDrive link that they will get 48 hours before Task 1 submission deadline. This will be sent
+to Providers via email.
+
+If a student is absent or has been withdrawn from the assessment, you must mark the student
+as ‘Absent’ on the attendance register. All students who complete work should be marked as ‘Pre-
+sent’.
+
+If a student is absent from a task, the correct process is to mark them as ‘Absent’ to indicate that
+they did not complete that part of the assessment.
+
+
+
+
+After the assessment:
+
+Submission of work
+Students’ work will be externally assessed and marked. You will be provided with a se-
+cure OneDrive link to submit student work 48 hours before the submission deadline.
+
+Submission deadlines can be found in your exam timetable.
+
+Please ensure the following are submitted for each student who sat this task.
+
+
+
+    Item                                                                    Number to be sent
+
+
+
+1   Student evidence upload via OneDrive link provided                      One per student
+
+2   Attendance register                                                     One copy per cohort
+
+
+
+
+                                                    14
+General Information
+
+This Administrative Support Guide (ASG) should be read in conjunction with the General
+Administrative Support Guide document.
+
+
+
+If you have any further queries regarding this administrative support guide, please visit the
+contact pages below for:
+
+       -   Exams Officers
+       -   Teachers
+
+
+
+
+                                                    15
+                                                                                           Key Links:
+
+                                       Visit here for information on entry deadlines and results dates
+                                                Visit here for information on exam timetables
+
+                                                                         Post Results Services (PRS)
+
+                                                                   Visit here for information on:
+                                                         •     Review of Marking and Moderation (RoMMs)
+                                                                               • Appeals
+
+                                                                              Special Requirements
+
+                                                  Visit here for information on special considerations
+                                                  Visit here for information on access arrangements
+
+                                                         Training from Pearson
+                                 Visit here to register your interest for our upcoming training events.
+
+                                         Support Materials for Occupational Specialism
+                            Please visit your qualification page to find the following support materials:
+                                                                        •  Past papers and mark schemes
+                                                                            • Lead examiner reports
+                                                                         • Sample Assessment Materials
+
+
+
+
+‘T Level’ is a registered trade mark of the Institute for Apprenticeships and Technical Education. ‘T-LEVELS’ is a registered trade mark of the Department for Educa-
+tion. ‘Institute for Apprenticeships & Technical Education’ and logo are registered trade marks of the Institute for Apprenticeships and Technical Education. Copy-
+right in this document belongs to, and is used under licence from, Pearson Education Limited, © 2023. Pearson and logo are registered trade marks of Pearson
+
+
+
+                                                                                                    16
+

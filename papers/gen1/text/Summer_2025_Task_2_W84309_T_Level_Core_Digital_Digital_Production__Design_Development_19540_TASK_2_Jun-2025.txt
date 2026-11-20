@@ -1,0 +1,144 @@
+          T Level Technical Qualification in Digital Production, Design and
+          Development (Level 3)
+          Monday 24 March 2025 – Friday 25 April 2025
+          Time 30 hours                                                                                  Paper
+                                                                                                         reference                                  19540
+          Occupational Specialism
+          Task 2: Developing the solution
+
+
+
+          You must have:
+          Task2_Test_Log_Template.doc
+
+
+
+          Instructions
+          •• The  total mark for this task is 48.
+             This booklet contains material for the completion of the set task under
+             supervised conditions.
+           • This booklet is specific to each series and this material must only be issued to
+             students who have been entered to undertake the task in the relevant series.
+           • This booklet should be kept securely until the start of the assessment window.
+
+
+
+
+W84309A
+©2025 Pearson Education Ltd.
+1/1/1/1/1                                                                                                                                                                      Continue
+                            The T Level Technical Qualification is a qualification approved and managed by the Institute for Apprenticeships and Technical Education, and
+                    Pearson’s development and delivery of the qualification and use of the mark is under the authority of the Institute for Apprenticeships and Technical Education
+  Instructions for students
+ You must complete ALL activities within the assessment.
+ This task is to be completed under supervised conditions during a window of
+ four weeks.
+ Your centre will schedule 30 supervised hours during the window in which you will
+ produce the outcomes for this task.
+ During this task, you are allowed:
+ •   monitored access to the internet
+ •   access to a copy of your proposal and designs produced in Task 1.
+ You are not allowed to make changes to the evidence produced in Task 1.
+ Your work will be kept securely during any breaks and between scheduled sessions.
+ Templates provided for use during this task:
+ •   Task2_Test_Log_Template.doc
+ During this task, your tutor is permitted to provide general feedback about:
+ •   the appropriateness of the solution you designed in Task 1
+ •   whether the solution you are developing will function as intended.
+ Your tutor is not permitted to provide guidance on how to improve your solution.
+
+
+
+
+W84309A                                                                                  2
+
+                                                                                     Continue
+  Set Task Brief
+ You work for a software development company. The company has secured a contract
+ to develop a solution for a local green technology company, Rolsa Technologies. Rolsa
+ Technologies specialises in:
+ •   solar panel installation and maintenance
+ •   electric vehicle (EV) charging stations
+ •   smart home energy management systems.
+ The clients (owners of Rolsa Technologies) would like to develop a digital solution
+ that will:
+ •   provide customers with information about:
+     –    green energy products currently on the market
+     –    how to reduce their carbon footprint
+ •   allow customers to:
+     –    schedule consultations and installations
+     –    calculate their carbon footprint.
+ The client has conducted market research with existing customers to identify features
+ that could be included in the digital solution. The suggested features by the client are:
+ •   account registration to allow customers to manage their consultations and data
+ •   accessibility features to support a wide range of users
+ •   a tool for calculating and tracking energy usage.
+
+
+
+
+W84309A                                                                                          3
+
+                                                                                             Continue
+  Activity
+ Developing the prototype
+ Develop a functional prototype of your proposed digital solution to meet the
+ client’s needs.
+ During development, make sure you:
+ •   implement secure code in at least two appropriate languages to implement front-
+     end and back-end processes
+ •   gather and prepare appropriate assets to be used in the development of your
+     digital solution
+ •   make use of, and document, iterative testing
+ •   document the iterative development process, including changes made to the
+     solution during development
+ •   produce code that can be maintained by a third party
+ •   ensure a high-quality user experience
+ •   follow legal and regulatory guidelines and standards.
+ When gathering assets, you need to record the sources you use in an assets log.
+ Your log must:
+ •   record all the sources you have used
+ •   describe the content and its intended purpose
+ •   log the date on which you retrieved the information.
+ Your testing documentation does not need to include details of every test carried out.
+ However, it should demonstrate:
+ •   an iterative approach to testing
+ •   understanding of how to test inputs, calculations, validation and processes using
+     appropriate test data.
+                                                                                          (48)
+
+
+
+
+W84309A                                                                                          4
+
+                                                                                          Continue
+  Outcomes for submission
+ Prototype
+ Save copies of key versions of your functional prototype in your folder for submission.
+ Use any sensible folder structure and naming convention.
+ Development documentation
+ Save your development documents as PDF files in your folder for submission. Use this
+ naming convention:
+ •   Task2[Document name]_[Registration number]_[Surname]_[First letter of first name]
+ Save your content and assets log as a PDF in your folder for submission. Use this
+ naming convention:
+ •   Task2ContentAssetsLog_[Registration number]_[Surname]_[First letter of first name]
+ Test log
+ Save your test log as a PDF file in your folder for submission. Use this
+ naming convention:
+ •   Task2_Test_Log_[Registration number]_[Surname]_[First letter of first name]
+ Code for prototype solution
+ Save copies of key versions of the source code for your prototype in your folder
+ for submission.
+ Use any sensible folder structure and naming convention.
+ Note: Ensure you submit your source code files in the original file format, and not as
+ PDF files.
+
+                                                                TOTAL FOR TASK = 48 MARKS
+
+
+
+
+W84309A                                                                                     5
+

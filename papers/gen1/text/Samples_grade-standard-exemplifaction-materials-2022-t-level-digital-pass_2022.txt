@@ -1,0 +1,1122 @@
+Grade Standard Exemplification Materials
+Summer 2022
+Occupational Specialism:
+Digital Production, Design and Development
+Pass
+Version 1.0
+  Digital Production, Design and Development
+
+
+
+Contents
+ Introduction                                                                                      page 2
+
+
+ Task 1 Activity A (ii)                                                                            pages 3-6
+ (* Activity A(i) research task not included)
+
+
+ Task 1 Activity B Visual/Interface Design                                                         pages 7-9
+
+
+ Task 1 Activity B Algorithm Design                                                                pages 10-11
+
+
+ Task 1 Activity B The Data Requirements                                                           pages 12-13
+
+
+ Task 1 Activity B The Design Test Strategy                                                        page 14
+
+
+ Task 2 The Solution Functionality                                                                 pages 15-16
+
+
+ Task 2 The Solution-Code Organisation                                                             page 17
+
+
+ Task 2 Testing                                                                                    page 18
+
+
+ Task 2 Documentation                                                                              page 19
+
+
+ Task 3 Activity A Gathering Feedback to Inform Future                                             pages 20-21
+ Development
+
+ Task 3 Activity B Evaluating Feedback to Inform Future                                            pages 22-23
+ Development
+
+ Student work                                                                                      pages 23-52
+
+
+
+NOTE: These Grade Standard Exemplification Materials are based on the 2022 summer assessment
+series, during which Ofqual asked awarding organisations’ awarding committees to award more
+generously given the context of the pandemic and because these are new qualifications.
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   1
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+Introduction
+The assessment for the Digital Occupational Specialism is based around a
+scenario-based project. The scenario was to develop a digital solution for a
+tutoring company.
+
+Students completed the assessment in 87 hours of supervised sessions spread
+over a period covering 14 weeks. The assessment is split into four tasks covering
+a range of topics. These are summarised below:
+
+ Task       Topic                                        Evidence                                      Time
+ 1          Analysing the problem and                    Proposal of the designed 20 hours
+            designing a solution                         solution and a set of design
+                                                         documents
+ 2          Developing the solution                      Prototype,      development 30 hours
+                                                         documents, test log and code
+                                                         for prototype solution
+ 3a         Gathering feedback to                        Plan and report on gathering 15 hours
+            inform future development                    feedback
+ 3b         Evaluating feedback to                       Feedback evaluation report                    2 hours
+            inform future development
+
+In the assessment for the Digital Production, Design and Development
+Occupational Specialism scenario, which is completed over several months, four
+tasks need to be individually completed where the student will demonstrate many
+of the Pass performance characteristics detailed in the grade descriptors.
+However, grade threshold performance will demonstrate these characteristics less
+consistently. Some key aspects of performance include:
+
+     •   adequately analysing a problem
+     •   solving problems by decomposing, providing virtualisation
+     •   producing simple designs for artefacts that will provide basic functionality
+     •   superficial and limited use of technical language
+     •   limited evaluative processes.
+
+The portfolio selected for this report was assessed at Pass grade. This is the
+assessed grade of the portfolio as a whole and not the grade of each individual
+piece of work submitted as part of the portfolio. Comment will be made where the
+student work does not fully meet the Pass grade descriptors and will suggest the
+evidence that is not included and should have been included.
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   2
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Task 1 Activity A (ii)
+Student Evidence Review:
+The student presented two pieces of work in respect of the task, each task has
+sub-tasks as follows:
+   • proposal
+   • wider issues
+   • business context
+   • visual/interface
+   • algorithm design
+   • data requirements
+   • test strategy.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   3
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   4
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   5
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+Lead Examiner Commentary:
+A reasonable attempt to identify the problems in the scenario:
+   • solution is organised logically
+   • should consider clients and users
+   • the risk associated
+   • comment on legal aspects.
+
+Appreciation of broader issues in the context
+The student has considered broader issues but again needs to relate to the
+scenario and be less generic, and they should address how to mitigate risk. They
+do make some good points like SQL injection and consider how to reduce the risk,
+but what is the actual risk and what impact could this have and the legal issues
+need to be considered. It is important that the student does not digress and
+describe or explain what the legislation is. This is time wasted and not applicable
+if they do not discuss the relevance to the scenario.
+
+Appreciation of the business context
+There are well-reasoned functional and non-functional requirements; some are
+generic but applicable to the scenario. The student has included some content on
+KPI and user criteria, but this should be related to the scenario.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   6
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+Task 1 Activity B Visual/Interface Design
+Student Evidence Review:
+In this area, the student needs to demonstrate their understanding by providing
+reasoned justifications for the approaches used to create the stages of
+development. The student provides evidence including:
+    • considerations such as their approach to a solution
+    • justifications and depth are essential
+    • security controls
+    • naming convention
+    • comprehensive design.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   7
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   8
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   9
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Lead Examiner Commentary:
+Effectiveness of the design interface
+The student has provided web structure and has shown designs visually. What the
+student has omitted are the finer details. The design should be detailed enough
+for a third party to create the artefact knowing the exact positioning of the objects
+and specific content. Navigation is confusing. There is no indication of contrast,
+making the content readable and easy for the eye. The student should have
+considered background colour, text sizes and type.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   10
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Task 1 Activity B Algorithm Design
+Student Evidence Review:
+In this area, the student demonstrates their understanding by providing reasoned
+justifications for the approaches used to create the stages of development:
+    • considerations such as their approach to a solution
+    • justifications and depth are essential
+    • flowcharts or pseudocode
+    • precise and logical
+    • security controls
+    • naming convention
+    • comprehensive design.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   11
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Lead Examiner Commentary:
+
+The student has provided algorithms in the form of flowcharts. The student hasn’t
+provided a more detailed and effective representation of the intended solution
+and doesn’t cover the logic and structure of the solution. For example, their
+solution may show how they would meet each functional requirement, but this is
+not precise and is missing conditions. We are looking for the logic of the solution
+based on the full decomposition that has taken place. It would be useful to see a
+stepwise refinement method or similar. Taking a few aspects of the subsystems
+and providing a detailed algorithm which is tested, e.g. dry run, the idea that
+software is developed by moving through the levels of abstraction.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   12
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Task 1 Activity B The Data Requirements
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   13
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+Lead Examiner Commentary:
+There has been some reasonable attempt at creating data dictionaries or ERD, the
+student has included correct model diagrams, examples of sensible names for
+variables, and a clear set of data structure which can form part of the data
+dictionaries. The student should stick to conventions such as variable names,
+attributes etc. The code conventions improve the readability of the software,
+allowing others to understand it more quickly and thoroughly.
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   14
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+Task 1 Activity B The Design Test Strategy
+Student Evidence Review:
+The student provides a test strategy including:
+      • white box testing
+      • black box testing
+      • others
+      • justification.
+
+
+
+
+Lead Examiner Commentary:
+The student has not explained the test strategy for the testing phase, they must
+consider a comprehensive range of tests such as Whitebox and Blackbox testing.
+This weaker example has little consideration of the impact of any decisions that
+might have been made, with apparent omissions of any contextual data.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   15
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Task 2 The Solution Functionality
+Student Evidence Review:
+The student has provided the following as required to demonstrate a working
+prototype:
+      • two different paradigms
+      • efficient constructs
+      • robust structure
+      • user friendly
+      • security.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   16
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   17
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Task 2 The Solution-Code Organisation
+
+
+
+
+Lead Examiner Commentary:
+The student has demonstrated functional code using two paradigms and tested
+the solution as they provided the correct files. This helped us test the input
+handling, error messages and outputs.
+Lower marks were awarded for lack of detail or no comments. In addition, it lacks
+any consideration for standards and guidelines concerning accessibility and
+compatibility. Recording and and explanation of the artefact would also be helpful.
+This undoubtedly provides evidence of working prototype and also provides
+evidence of error handling.
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   18
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Task 2 Testing
+Student Evidence Review:
+The testing stage required the student to provide a completed:
+      • test plan
+      • range of different types of test.
+
+In this portfolio, no testing was provided.
+
+Lead Examiner Commentary:
+Testing requires students to demonstrate their knowledge of testing and
+debugging code. The student should have used the test plan template provided.
+Although I can see evidence that testing has taken place, the student has not
+provided any evidence and it is a requirement of the program to do this.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   19
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Task 2 Documentation
+Student Evidence Review:
+
+The student provides evidence of the following:
+  • different versions of the prototype
+  • clearly documented changes
+  • how versions demonstrate appropriate changes
+  • user feedback.
+
+
+
+
+Lead Examiner Commentary:
+The student has shown a final version of the artefact but hasn’t done much on
+version control. As result it is hard to identify what improvements have been made
+from the testing strategy. Therefore, we can’t identify the application of agile.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   20
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+Lead Examiner Commentary:
+The student needs to show two different techniques for gathering feedback, e.g.
+surveys and observations, as using two techniques gives a better idea of what has
+worked and what hasn’t, and this will help the development of the prototypes. The
+student has questions which are directed at testers. However, the response is far
+too low to gather any credible evidence. The questions should appropriately use
+data drawn from them to benefit the artefact and the user. The student should
+have provided a detailed visualisation of the data gathered and analysed. This
+offers the opportunity to develop the prototype further.
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   22
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+Task 3 Activity B Evaluating Feedback to
+Inform Future Development
+Student Evidence Review:
+In this task the student provides evidence to evaluate the feedback and discuss
+future developments:
+    • evaluation of the assets and content within their prototype
+    • final product against measurable criteria defined in the proposal
+    • validity and reliability of the sources
+    • legal and ethical implications of using the identified assets.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   23
+Material 2022 – Version 1.0
+  Digital Production, Design and Development
+
+
+
+
+Lead Examiner Commentary:
+The student should provide the assets used and how valid their sources are,
+ensuring that no copyright laws have been broken, and the reason as to why they
+chose them; this should be related to the scenario and why the object was used
+on the website page and how it would help the user.
+Evaluations were appropriate and showed an understanding of the requirements
+of the set task brief. While students typically at this level provide evaluative
+comments concerning the requirements of the task, at the borderline, user needs
+were not effectively considered.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification   24
+Material 2022 – Version 1.0
+Introduction
+
+
+ Interface
+                       Web Structure
+
+
+
+
+Page   Description
+Home   The Home page is accessible by anyone, it contains the method to reach either
+       login or signup
+Login                Allows existing users to Login to their account and be directed to the
+                     appropriate landing page, which is secured
+Signup               Allows new users to create an account and assig n their role (Student or tutor).
+Student Landing      A secure page for student accounts, contains their subjects that they have
+Page                 joined allows the student to access each subjects individual area. Also contains
+                     access to join a subject via a unique code.
+Subject              Specific to the subject chosen by the Student, and will contain their access to
+                     quizzes and the students note board
+Quiz                 The area for students to complete quizzes set by tutor
+Notes                A public notes page for students to attach sticky notes, to act as an aid to their
+                     or others learning
+Tutor Landing Page   A secure page that tutor accounts can access, contains the tutors access to
+                     specific subjects
+Subject              The specific subject area containing quiz results, create a quiz, resources and
+                     notes
+Quiz Result          Area that allows the tutor to view student results within a specific subject
+Create Quiz          Allows the tutor to create quizzes to be accessed by the students
+Create Question      For the creation of question to be added to the quiz
+Notes                Allows the teacher to view the student note area and delete notes
+Resources            Allows the teacher to add links to external resources
+Page Designs
+                                             Database
+
+The solution requires a database to store user information as well as the accessible intreractive and static
+resources of the subjects.
+
+                               Entity-Relationship Diagrams
+Conceptual and physical entity-relationship diagrams have been created to model the relationships
+within the database:
+                                        Data Dictionaries
+
+   Subject
+
+Attribute Name     Data Type   Length       Key   Nullable   Description          Additional Details
+Code               Char        6            PK    No         Unique Code for      Auto Generated
+                                                             joining subject
+Name               Varchar     20                 No         Subjects name
+Tutor_username     Varchar     25           FK    No         Username for the
+                                                             tutor
+
+
+   Score
+
+Attribute Name     Data Type   Length       Key   Nullable   Description          Additional Details
+Id                 Int                      PK    No
+Quiz_id            Int                      FK    No         Unique id for quiz
+Student_username   Varchar     25                 No         Students username
+Score              Int         6                  No         Students overall
+                                                             score
+
+
+   Student
+
+Attribute Name     Data Type   Length       Key   Nullable   Description          Additional Details
+Username           Varchar     25           PK    No         The students saved
+                                                             username for login
+Password           Varchar     255                No         Students Hashed
+                                                             password
+
+
+   Question
+
+Attribute Name     Data Type   Length       Key   Nullable   Description          Additional Details
+Id                 Int                      PK    No
+Quiz_id            Int                      FK    No
+Question           Varchar     50                 No         Quiz question for
+                                                             multiple choice
+Answer             Varchar     40                 No         Multiple choice
+                                                             quiz real answer
+Dummy1             Varchar     40                 No         Dummy answer for
+                                                             multiple choice
+Dummy2             Varchar     40                 No         Dummy answer for
+                                                             multiple choice
+Dummy3             Varchar     40                 No         Dummy answer for
+                                                             multiple choice
+   Quiz
+
+Attribute Name     Data Type   Length   Key   Nullable   Description          Additional Details
+Id                 Int                  PK    No
+Name               Varchar     30             No         Name of the
+                                                         created quiz
+Subject_code       Char        6        FK    No         Unique Code for
+                                                         joining subject
+
+
+   Enrolment
+
+Attribute Name     Data Type   Length   Key   Nullable   Description          Additional Details
+Student_username   Varchar     25       PK    No
+                                        and
+                                        FK
+Subject_code       Char        6        PK    No         Unique Code for
+                                        and              joining subject
+                                        FK
+
+
+   Tutor
+
+Attribute Name     Data Type   Length   Key   Nullable   Description          Additional Details
+Username           Varchar     25       PK    No         Tutor username
+                                                         used for login
+Password           Varchar     255            No         Unique Code for
+                                                         joining subject
+
+
+   Note
+
+Attribute Name     Data Type   Length   Key   Nullable   Description          Additional Details
+Id                 Int                  PK    No
+Subject_code       Char        6        FK    No         Unique Code for
+                                                         joining subject
+Text               Varchar     150            No         The body of the
+                                                         individual notes
+Student_username   Varchar     25       FK    No         The students saved
+                                                         username for login
+
+
+   Resource
+
+Attribute Name     Data Type   Length   Key   Nullable   Description          Additional Details
+Id                 Int                  PK    No
+Subject_code       Char        6        FK    No
+Link_desc          Varchar     50             No         Description of the
+                                                         link to resource
+Link_href          Varchar     100            No         The Link to the
+                                                         resource
+                                        Algorithms
+                                           Login
+INPUT username
+
+INPUT password
+
+GET FROM database
+
+IF username AND password do not match
+
+SEND error
+
+ELSE ALLOW LOGIN
+
+                                          Signup
+                                             Taking a Quiz
+(Outputting the quiz and questions)
+
+
+
+
+                                                  Notes
+ENTER text
+
+SAVE to database
+
+DISPLAY text to note_body
+
+REFRESH
+
+                                                  Home
+SELECT, login OR signup
+
+IF login, GO TO LOGIN
+
+IF signup GO TO signup
+
+
+                                                Testing
+ I will complete functionality testing by inputting data such as extreme data, I will do this to maintain the
+                                    sites data as accurate for reliability.
+
+I will complete usability testing by allowing users access to the site to see how users would utilize the site,
+                                        and ensure error prevention.
+
+   I will complete content and design testing by allowing users on to the site and gathering data on the
+                                   opinions of the users as to the design.
+ I will complete out security testing by attempting to use methods such as sql injection to ensure data is
+                             secured and passwords are appropriately hashed.
+
+
+                                            Conclusion
+This will all result in a product that meets the clients expectations as I have included all the appropriate
+features they requested.
+Proposal For GIBJOHN tutoring system
+    Introduction
+
+This document is the proposal for GibJohns new tutoring system, which I believe will alleviate some
+of their current business concerns.
+
+
+
+
+    Current System
+
+  Currently, GibJohn uses face to face learning to engage with students, this can be detrimental to
+students who may have little access to transport, it can also result in students being late, opposed to
+ online learning which has much more reliable access. If this is not the case, and the tutors travel to
+the students, the impact is that students may have a poor home learning environment particularly if
+ their family is busy or loud. In addition to this, the tutors are using fuel which may be compensated
+  by GibJohn, costing them, and time is wasted for travel. This travel time could prevent additional
+        students from being met, meaning the business loses potential customers and income.
+
+The company is currently providing access to learning resources, although they do not specify how. If
+ they are doing it digitally, digital poverty could have an impact on the students’ ability to access the
+ materials, although this is not an easily rectified problem, as it is societal. Depending on the format
+ of the resources, there could be issues in accessing it as a result of not having the required software
+e.g. the Office suite. Alternatively, they could provide paper-based materials, which could be difficult
+to obtain and distribute to the students. Students could also lose or damage them easily, leading to a
+ need for replacement, which may cost GibJohn Tutoring. Paper-based resources may also not be as
+                                                 engaging.
+
+ Finally, GibJohn tutoring offer support to develop understanding in different subjects. Therefore, it
+ could be assumed that they have many tutors in their employment with their own expertise, which
+   they teach. They provide this support via face-to-face teaching and providing access to learning
+                                resources, as was previously discussed.
+
+  The students and teachers also requested various features, including collaborative teaching and
+learning tools. It is possible that they are somewhat meeting their need of collaboration already via
+group sessions (as opposed to one-to-one) where they can complete activities collectively and work
+towards a common goal. For instance, they could complete projects together. The issue with this is
+      that the parents of the students are paying for face-to-face tutoring sessions, and may be
+ discouraged or feel that the money is not as well spent when spending sessions with other people,
+                                            rather one-to-one.
+
+ The students and teachers have requested accessibility features to support a wide range of users.
+ Therefore, it is likely that they have students who have accessibility needs. The way these could be
+
+
+
+                                                                                                 PAGE 1
+    met in person currently include overlays, type writers, text-to-speech and dictation software,
+ documents with larger fonts etc. GibJohn have a responsibility to provide accessibility measures for
+  customers in accordance with the Equality Act. Providing a multitude of measures of accessibility
+  could be difficult due to the extensive requirements of some impairments, whereas using devices
+                        such as computers can provide many required features.
+
+With regard to reward systems for learning, tutors may reward good work with stickers and stamps,
+ certificates (e.g. student of the week), prizes such as sweets etc. This is a physical reward system.
+
+ They client’s customers have also requested gamified learning, which is an emerging practice within
+  teaching (see appendix 1.) This could already be achieved by turning standard quizzes into game
+shows, which make learning more fun for students. However, these may take a lot of preparation for
+    successful use. General gamified learning features include points systems, leaderboards and
+    achievements, which could be used a variety of methods and settings. These could be easily
+                implemented into a group session if GibJohn Tutoring do group classes.
+
+
+
+
+    Proposed System
+
+GibJohn could benefit from several features which I plan on including. To aid in gamified learning, I
+plane to incorporate quizzes as the primary method of learning, these will be multiple choice
+questions, to simplify the questions for the student whilst also allowing them to develop their
+problem solving further. I believe this to be the best way of learning as it is simple to understand and
+is a format highly accessible to all subjects.
+
+I will implement a learning rewards system. I will achieve this by utilizing a points system, points are
+distributed for correct answers and at point milestones the student will receive account rewards. I
+have chosen to utilize a points based system, in order to also aid in meeting the requirement of
+gamified learning, I believe this is also beneficial for helping engage students with learning.
+
+Other content that will available for learning includes links shared by the tutors. The tutors will have
+the opportunity to share links to external websites for each subject so that learners have extensive
+access to materials. This meets the client requirement of providing access to digital content to
+encourage wider learning.
+
+Another way that I will incorporate the client’s requests is through the use of supported assessment
+and monitoring of learner progress, this can be achieved through automated marking of exams, with
+results being easily displayed to the tutor, with information on which questions were answered
+correctly or incorrectly as appropriate. This could be useful as it allows the tutor to dedicate more
+time to the production of useful resources, rather than marking, this includes examples such as
+quizzes dedicated to topics where marks where lost. This could further the development of student’s
+skills in areas where skillsets may be weaker.
+
+
+
+                                                                                                  PAGE 2
+I hope to allow for collaborative learning and learning resources by including a notes board for each
+subject where learners and tutors can share ideas. This will allow the students to learn from each
+other and will contribute to their progress.
+
+The customers and tutors have requested accessibility features to support a wide range of users. This
+can be partially achieved by ensuring the solution is compatible with multiple devices and resizable if
+necessary. In order to implement a full feature, an overlay system will be developed to ensure that
+people with scotopic sensitivity and other visual impairments can access the materials with ease.
+
+This proposed system successfully meets all of the requirements set out by the client, as well as
+those suggested by the customers/tutors.
+
+
+
+
+    The Risk of Doing This
+Systems Reliability and Maintainability
+The GibJohn Tutoring system will need to achieve high availability. Downtime (or low availability)
+could result in customers (students) having a negative view of the business, and they could
+potentially leave to use the services of competitors. Deadlines could be missed by learners, so their
+academic performance could suffer. This could lead to students being bitter about the service, and
+negative information spreading via word-of-mouth, resulting in fewer customers in the future.
+However, all of this can be avoided by ensuring high availability via having effective cyber security
+measures and choosing a reliable hosting company. The former will be handled by ensuring that SQL
+strings are escaped in order to prevent SQL injection. The latter is the responsibility of GibJohn
+following the solution being provided to them.
+
+In addition to this, the system should be maintainable, so that it can be developed upon in the future
+for extra features and bug fixes, whether this is by the current development company or another.
+This can be achieved by ensuring that code is high quality and easily read/understood. Methods that
+I will utilize in order to do this include: code commenting, meaningful and consistent
+variable/method names and organized file structure.
+
+By performing thorough testing, I can ensure that GibJohn’s tutoring system is reliable, and always
+produces the expected results. In addition to this, validation will be incorporated into the solution to
+ensure that users are corrected upon entering invalid inputs.
+
+
+
+
+                                                                                                 PAGE 3
+Laws and Regulations
+One of the key laws that will affect the project is the Intellectual Property Act, which dictates that
+materials produced by others should not be used without their expressed permission. As a
+developer, it can be ensured that this is not broken by only using external creations when it has been
+approved by the original creator, providing credit when necessary. Aside from this, original assets
+could be used too. However, it is not the developer’s responsibility to police the content that tutors
+and students share on the platform. Therefore, GibJohn Tutoring will need to formulate their own
+methods of ensuring compliance.
+
+Also, the Data Protection Act is a key piece of legislation that will impact the project. As the solution
+will need to store some degree of personal data, as well as passwords, the principles of the law and
+its mitigations will need to be considered. The implications of not doing this could be catastrophic for
+the development company as well as GibJohn. Securing the system using hashed passwords, and
+only collecting information as it is needed will mitigates these risks.
+
+
+
+Ethical Considerations
+Ethical complications can arise when developing websites for the use of the public. For example, not
+following the laws, does not only result in legal ramifications but also causes people to question
+ethics/morals. Providing a good service by maintaining reliability and availability could also be
+viewed in this light.
+
+The implications of not being ethical can be detrimental to a business. It could result in bad press and
+an overall negative reputation, resulting in lost sales from existing customers as well as potential
+future customers.
+
+
+
+
+     Requirements
+Functional Requirements
+
+ #    Requirement                                    Priority    Justification
+ 1    The system will allow tutors to create         HIGH        This is High Priority as it is the core
+      multiple choice quizzes                                    method of educating students on the
+                                                                 website.
+ 2    The system will allow students to              HIGH        This is High Priority as it is the core
+      complete multiple choice quizzes                           method of educating students on the
+                                                                 website.
+ 3    The system will automatically mark             MEDIUM      This is High Priority as it is the core
+      multiple choice quizzes                                    method of educating students on the
+                                                                 website.
+
+
+
+
+                                                                                                 PAGE 4
+ 4    The system will automatically assign          MEDIUM     This is something that will be completed
+      points to students based on their                        via the automated marking, already,
+      performance                                              however this lends to the gamified
+                                                               learning, as requested by the client.
+ 5    The system will allow tutors to share links   HIGH       This is the main way for the tutor(s) to
+      to external web pages                                    share resources with their students,
+                                                               therefore it is my belief that this is a vital
+                                                               piece for a functional tutorial website.
+ 6    The system will allow students to access      HIGH       This is another vital area, as it allows the
+      links shared by tutors                                   students access to the resources
+                                                               uploaded onto the site by their tutors .
+ 7    The system will allow students and tutors     HIGH       This feature enables student
+      to post to a notes board for each subject                collaboration, in an area the tutor can
+                                                               monitor and students can provide
+                                                               resources for themselves and others. This
+                                                               can give students, who are perhaps
+                                                               anxious to ask for help to access more
+                                                               resources as someone else may have
+                                                               solved their issue.
+ 8    The system will allow users to utilize a      MEDIUM     This enables the website to be more
+      digital colored overlay                                  accessible, allowing users to utilize the
+                                                               full potential of their resources.
+ 9    The system will allow students and tutors     HIGH       This is important as it aids in the
+      to login to access secured areas                         protection of data, removing the security
+                                                               risks associated with public access.
+ 10   The system will allow students and tutors     HIGH       Due to the secure login, without
+      to create accounts                                       accounts, students and teachers would
+                                                               be unable to access the site.
+ 11   The system will allow tutors to create        HIGH       This is important as it allows the site to
+      subjects                                                 be accessible to multiple classes of
+                                                               students, if a tutor teaches multiple
+                                                               classes in the same or different areas of
+                                                               expertise.
+ 12   The system will allow students to join        HIGH       Similarly, this allows students to join
+      subjects                                                 multiple classes, in an organized format.
+
+
+
+
+Non-Functional Requirements
+
+ #    Requirement                                   Priority    Justification
+ 1    The system will have 98% availability         HIGH        This KPI will allow for the system to
+                                                                be available to customers.
+                                                                Otherwise, customers may leave
+                                                                due to lack of access.
+ 2    The system will be secured against SQL        MEDIUM      Cybersecurity is an important
+      injections                                                consideration and SQL injection
+
+
+
+
+                                                                                                 PAGE 5
+                                                                     can be easily prevented by
+                                                                     escaping user inputs
+ 3    The system will store hashed passwords          HIGH           Passwords should be secured to
+                                                                     mitigate against hackers obtaining
+                                                                     them and losing the trust of
+                                                                     customers.
+ 4    The system will be accessible                   HIGH           The system should be accessible,
+                                                                     particularly as GibJohn have
+                                                                     customers with accessibility needs,
+                                                                     as is clear from the requests.
+ 5    The system will be reliable                     HIGH           The system should incorporate
+                                                                     validation to ensure it is more
+                                                                     reliable.
+
+
+
+
+The solution contains Key Performance Indicators (KPIs) in the form of non-functional requirement 1
+as it measures against a metric. The benefit of this is that it makes it significantly easier to measure
+its success.
+
+User acceptance has been considered extensively, as the proposed solution details how every
+requirement from the client’s customers (the users) can be met.
+
+
+     Appendices
+Appendix 1- Sumdog
+Sumdog is a company that provides math and spelling-based games, to engage and educate
+students, I believe this to be a great example of gamified learning as it promotes immersive learning
+by engaging students in leaderboard-oriented games/ activities. It can be engaging as it allows users
+to earn coins that they can use to decorate their character or home by completing set tasks, this
+includes the games they play on the site or by completing quizzes.
+
+Sumdog allows students to join via 2 methods, either by
+requesting to join the school or by being invited by the teacher.
+
+The target audience for this is 5 – 14 however much of the
+content could be adapted. Students can also play against other
+students, which promotes competition, which can invigorate
+students to practice more, improving their skills. There is also a
+weekly leaderboard.
+
+
+
+
+                                                                                                  PAGE 6
+Please see form:
+                                                  Feedback Gathered
+                                           See attached spreadsheet. (Raw Feedback)
+
+
+
+
+                                                Analysis of Feedback
+ The common theme I discovered when looking at the data I received, is that the site is short on features but the site was
+ reviewed by this small collection of surveyees is well designed and easy to explore/ manage. The age groups explored in
+           this survey had a large variety, therefore I believe it to be a good representation of public opinion.
+
+ The features a lot of respondents would like to see include overlays, larger text and text to speech. I would prioritise the
+                            priors as text to speech is a feature many browsers already support.
+
+
+
+
+With regards to the design, the results unanimously presented a 7 or higher out of 10 for question 3 which asked users for
+                 a rating for the layout. Which shows me that the design is suitable for a variety of ages.
+
+ All stated the error messaging was strong, therefore I believe only minor changes are needed to that. My site could use a
+        variety of support features such as overlays and bigger font (as stated by people who completed the survey).
+
+    The website was often stated as easy to navigate, which is excellent news, granting a trend where results where as
+   expected during my initial review and backs up statements I have previously made regarding the project. To be more
+ specific, the survey question received several maybes. Though these where due to the lack of content for the site, which
+                                  lacks features that are required upon final development.
+
+For the main completed feature of the website, which is logging in and signing up, I received similarly good responses when
+    I asked about how easy they are to use. As any issues they encountered while signing up were explained, barring an
+                                    exemption with a username that is already taken.
+
+ Many said they would not use this service again and those who said maybe often said it was due to a lack features, as can
+                                                be seen by the responses:
+                                                               Conclusion
+Collecting and analysing feedback has allowed me to learn a lot about the strengths and weaknesses of the prototype, which will allow for
+                                              further development with the users in mind.
+
+                                                       The strengths identified include:
+
+                                                                •    Well Designed
+                                                              •     Easy to navigate
+                                                   •       Easy to understand sign up process
+
+
+                   However, there are also several weaknesses, although I have considered potential improvements:
+
+                             Weakness                                                                 Improvement
+                          Lack of content                                                     More features in the future
+                    Lack of specialized support                                            Addition of larger fonts overlays etc
+              No error message for taken usernames                                            Added to the Table of errors
+ID       Start time              Completion time       Email       Name   What is your name?   What is your age brackeHow would you rate theHow would you rate theIs GobJohn easy to navigWould you use this servIf you answered no, couWhat is one improvemeWhat features of GobJo What support features wHow easy is the login an
+     1            5/5/22 6 50 36        5/5/22 7 46 20 anonymous          Nicola               51+                                        9                    10 Yes                     No                     The site is not finished b More site development Easy to understand Colour overlays and bigg                   10
+     2            5/5/22 7 46 28        5/5/22 8 09 08 anonymous                               27‐35                                      8                     9 Maybe                   Maybe                  With more developmentBuild on what's there. Not sure                Text to Speech                              7
+                                         Evaluation
+
+
+                                            Introduction
+This is the evaluation for GibJohn Tutoring System’s prototype.
+
+                                       Client Expectations
+Initially, the client asked for the following features:
+
+    •   provide interactive teaching and learning resources in a range of subjects
+    •   provide access to digital content to encourage wider learning
+    •   support assessment and monitoring of learner progress.
+
+I set out to meet them by setting several functional requirements.
+
+To provide interactive teaching and learning resources in a range of subjects, I set these
+requirements:
+
+    •   The system will allow tutors to create multiple choice quizzes
+    •   The system will allow students to complete multiple choice quizzes
+    •   The system will automatically mark multiple choice quizzes
+    •   The system will allow students and tutors to post to a notes board for each subject
+
+
+To provide access to digital content to encourage wider learning, I set these requirements:
+
+    •   The system will allow tutors to share links to external web pages
+    •   The system will allow students to access links shared by tutors
+
+Finally, to support the assessment and monitoring of learner progress, I set these requirements:
+
+    •   The system will automatically assign points to students based on their performance
+
+Unfortunately, I was unable to meet any of these requirements due to time constraints within the
+project, but feel that my designs would be effective in assisting the development of these features in
+the future.
+
+With regards to future improvements, all of these features should be implemented to provide a
+well-rounded solution that tutors and students can use to benefit learning. My own performance as
+a solo developer could have been improved as well, as I found it very difficult to manage time to
+complete the prototype in its entirety. I focused too much on perfecting the initial experience
+presented to the user in the homepage with the login and signup features.
+                                    Customer Expectations
+There were also several features suggested by the users:
+
+    •   collaborative teaching and learning tools
+    •   accessibility features to support a wide range of users
+    •   a learning reward system
+    •   gamified learning.
+
+To provide collaborative teaching and learning tools I set the following requirements:
+
+    •   The system will allow students and tutors to post to a notes board for each subject
+
+To provide accessibility features to support a wide range of users, I set these requirements:
+
+    •   The system will allow users to utilize a digital colored overlay
+
+To provide a learning reward system and gamified learning:
+
+    •   The system will automatically assign points to students based on their performance
+
+I set out several goals in order to include these features however I was unfortunately unable to
+achieve these requirements as I was limited by time constraints.
+
+In a future prototype I hope that I could include all these features as well as some of my own in
+order to provide an optimal learning environment.
+
+                                   Additional Requirements
+
+The client and their customers did not mention the creation of accounts or subjects but these are
+important to enable the creation of the other features that they requested.
+
+For the login and signup, I created these requirements:
+
+    •   The system will allow students and tutors to login to access secured areas
+    •   The system will allow students and tutors to create accounts
+
+Due to the investment of time I included in this particular area of the project, I believe that the
+login/ signup creates a nice experience for the user -whether tutor or student- with an easy to follow
+login and signup process. This was reflected in the feedback I received from user during a previous
+stage of the project.
+I believe this to of been an effective strategy because it meets the effective requirements of a good
+logo. The logo I created provides several advantages, such as keeping with the colour scheme of the
+website, I did this to maintain the design I originally intended and uphold a modern aesthetic. The
+lettering is clear and the inclusion of the name helps understand the intention of the brand without
+having to research it. I believe this to be an effective marketing strategy that many modern
+companies employ.
+
+Using original assets allows for me to have a unique brand identity and be easily recognisable to
+potential customers. This would be beneficial as the company has an intended market that relies
+heavily on a professional business environment such as towards schools or colleges. This also avoids
+unnecessary issues that could arise relating to copyright such as private material and research
+around licensing, if these standards were not met it could cost fees and other legal issues. This can
+effect public image and reduce the audience willing to use our resource.
+
+
+
+                                           Conclusion
+Ultimately, the project was successful at designing a brand for my company and with development
+could be very successful however ultimately the lack of features I believe makes this project a
+failure. If I were to attempt this sort of project again better time management would be required.
+
+
+
+The key strengths identified within the prototype are:
+
+    •   Unique sellable design
+    •   Secure login/signup
+    •   Unique assets
+    •   Easy to use
+
+However, there are also several weaknesses that can be improved upon in future updates to
+enhance the service.
+•   More features such as subjects quizzes etc
+•   Student engagement features such as point oriented leader boards
+•   Tutor portal and creation tools
+•   Accessibility features
+Copyright in this document belongs to, and is used under licence from, the Institute for Apprenticeships and Technical
+Education, © 2022. ‘T-LEVELS’ is a registered trade mark of the Department for Education. ‘T Level’ is a registered trade mark of
+the Institute for Apprenticeships and Technical Education. ‘Institute for Apprenticeships & Technical Education’ and logo are
+registered trade marks of the Institute for Apprenticeships and Technical Education.
+The T Level Technical Qualification in Digital Production, Design and Development is a qualification approved and managed by
+the Institute for Apprenticeships and Technical Education.
+Pearson Education Limited is authorised by the Institute for Apprenticeships and Technical Education to develop and deliver
+this Technical Qualification.
+Pearson and logo are registered trade marks of Pearson.
+

@@ -16,11 +16,15 @@
 - SAM and AdSAM are structurally identical; only the client differs.
 - AdSAM AI log template file is named "Task_2_…AI_Log" and headed "Task 1: Activity B" but is used in Task 1 Activity C.
 
+## Gen 1 material (added 2026-11-20)
+- From college SharePoint: 2022 GibJohn, 2023 Health Advice Group, 2025 Rolsa papers; graded Pass/Distinction exemplars 2022 and 2023; lead examiner reports 2022, 2023; 2024 admin guide.
+- Biggest lessons: apply don't define; 2023 Distinction prototype was unfinished but honestly documented; every brief asks for accessibility. See notes/what-gets-a-distinction.md.
+
 ## Open questions
 - Task 3 start: Sat 24 Apr or Mon 26 Apr?
 - College: allowed IDEs, design tools (draw.io / Figma / Lucidchart?), hosting, Docker on college PCs?
 - Tech stack choice (leaning C# or Python + SQL + a JS front end?) — not decided.
-- Gen 1 papers not yet shared.
+- Does Gen 2 allow research notes brought into sessions (Gen 1: facts and figures only, submitted as appendix)?
 
 ## Research doc
 https://claude.ai/artifact/VDVWhnZ2MCrRWJzobVTwSo

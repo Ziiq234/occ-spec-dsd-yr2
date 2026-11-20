@@ -1,0 +1,1275 @@
+Grade Standard Exemplification
+Materials Summer 2023
+Occupational Specialism:
+Digital Production,
+Design and Development
+Pass Version 1.0
+Digital Production, Design and Development
+
+
+
+
+ Content
+
+ Introduction                                                                                page 2
+
+
+ Task 1 Activity A(ii): The Proposal                                                         pages 3-6
+
+
+ Task 1 Activity B: The Visual/Interface Design                                              pages 7-9
+
+
+ Task 1 B Algorithm Design                                                                   pages 10-11
+
+
+ Task 1 Part B The Data Requirements                                                         pages 12-13
+
+
+ Task 1 Activity B The Design Test Strategy                                                  pages 14-15
+
+
+ Task 2: Developing the Solution                                                             page 16-18
+
+
+ Task 3 Part A: Gathering Feedback to Inform Future                                          pages 19-22
+ Development
+
+ Task 3 Part B: Evaluating Feedback to Inform Future                                         page 23-26
+ Development
+
+ Learner work                                                                                page 27-77
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   1
+– Version 1.0
+Digital Production, Design and Development
+
+
+Introduction
+The assessment for the Occupational Specialism in Digital Production, Design and
+Development is based around a scenario-based project. The scenario was to
+develop a digital solution for a tutoring company.
+Students completed the assessment in 87 hours of supervised sessions spread
+over a period covering 14 weeks. The assessment is split into four tasks covering
+a range of topics. These are summarised below:
+
+ Task       Topic                                             Evidence                                       Time
+ 1          Analysing the problem and                         Proposal of the designed                       20 hours
+            designing a solution                              solution and a set of
+                                                              design documents
+ 2          Developing the solution                           Prototype, development                         30 hours
+                                                              documents, test log and
+                                                              code for prototype solution
+ 3a         Gathering feedback to                             Plan and report on                             15 hours
+            inform future development                         gathering feedback                             30 minutes
+ 3b         Evaluating feedback to                                                                           2 hours
+                                                              Feedback evaluation report
+            inform future development
+
+In the assessment for the Digital Production, Design and Development
+Occupational Specialism scenario it is expected that the student will demonstrate
+many of the pass performance characteristics detailed in the grade descriptors.
+However, borderline performance will demonstrate these characteristics less
+consistently. Some key aspects of performance include:
+ •    comprehensive analysis of a problem showing a detailed and perceptive
+      consideration of the factors, solving issues, and fixing obvious or less
+      complex defects
+ •    production of different versions of an artefact that will be primarily
+      functional, efficient, and respond effectively to users
+ •    effective and fluent use of technical language
+ •    effective evaluative processes.
+
+The portfolio selected for this report was assessed at distinction grade. This is the
+assessed grade of the portfolio as a whole and not the grade of each individual
+piece of work submitted as part of the portfolio. Comment will be made where the
+student work does not fully meet the Pass grade descriptors and will suggest the
+evidence that is not included and should have been included.
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   2
+– Version 1.0
+Digital Production, Design and Development
+
+
+Task 1 Activity A(ii): The Proposal
+Key performance indicators:
+     •    The average amount of time users spends on the website
+     •    Keeping track of the average amount of time users spend on Health
+          Advice Group will give the clients an estimate of how well the website is
+          coping in different circumstances
+     •    How many users making accounts after clicking onto Health Advice Group
+     •    Keeping track of this will allow the clients to see how many users are being
+          lost from initial impressions of the website; if there are many users
+          creating accounts then the initial impressions are good, if the users aren’t
+          creating accounts, then the initial impressions are bad. This will be
+          feedback to the clients so they can make improvements.
+     •    Employee productivity
+     •    How many users use the customisable option when it comes to the design
+          of the product
+     •    It's important for Health Advice Group to keep track of this because they’re
+          able to see how effective this feature having, it also shows them if changes
+          are needed.
+     •    If features are popular (if having a personal health tracker is popular) It is
+          important to keep track of this because you as the client can see if it is
+          worth the money to keep this a feature. From this, Health Advice Group
+          can see what is in high demand at that time.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   3
+– Version 1.0
+Digital Production, Design and Development
+
+
+Functional requirements:
+The parts of the product that the user will see and interact with
+ No. Features                                     Priority Justification
+ 1.       Log-in feature                          HIGH           Users will be restricted to certain
+                                                                 functions if they aren't able to sign into
+                                                                 Health Advice Group, they won’t get
+                                                                 the full experience of the digital
+                                                                 solution.
+
+ 2.       Send through an email LOW                              This is to check that the system has the
+          for confirmation of                                    correct credentials for the user.
+          account being made
+
+
+ 3.       Users can sign up                       HIGH           The users won’t have access to all the
+                                                                 features of the website if they aren’t
+                                                                 able to log in.
+
+Non-functional requirements:
+Requirements of the product that make it run effectively
+ No. Features                          Priority          Justification
+ 1.       Use of cookies               MEDIUM            Cookies allow users to be always logged
+                                                         into their account, the use of cookies isn’t a
+                                                         high priority because the user can always
+                                                         log back into the system. This is good for
+                                                         frequent users of the software. The use of
+                                                         cookies also allows our clients to keep track
+                                                         and make personalised adverts to the
+                                                         users.
+
+ 2.       Performance of               HIGH              Performance is a high priority indicator,
+          the software                                   performance has an impact on users
+                                                         experience and digital customer journey. A
+                                                         high-performing website will help my client
+                                                         reduce bounce rate and improve visitor
+                                                         retention.
+
+ 3.       Website capacity HIGH                          Website capacity is a key indicator to test
+                                                         when creating a digital solution, load and
+                                                         stress testing will be done at the end of the
+                                                         project of Health Advice Group. If the
+                                                         website can’t attract a large number of
+                                                         users at the same time then it will crash.
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   4
+– Version 1.0
+Digital Production, Design and Development
+
+
+ 4.       Users’ details               HIGH              Users should be able to trust the service
+          (personal data                                 Health Advice Group is offering, or they will
+          is secure)                                     not use the service.
+ 5.       Website being                HIGH              The website can lose traffic if it’s not
+          always                                         available when the user needs it, the user
+          available                                      may go to a different website if this one isn’t
+                                                         available to them.
+ 6.       Colour                       HIGH              User accessibility is important and if the
+          scheme is                                      user can’t see the website, then the service
+          appropriate                                    won’t be of use to them.
+          for a user
+
+
+
+Guidelines and legal requirements :
+The Data Protection Act will be considered when I create my digital solution for
+Health Advice Group. The Data Protection Act empowers individuals to take
+control of their personal data. Health Advice Group must explicitly disclose that
+they are collecting users’ personal data. Health Advice Group must inform each
+individual user about how, why, and where they process and store users’ data.
+Users have a right to ask for copies of the data collected from them. Users also
+have the right to ask companies to swipe the data they have collected on that
+user.
+
+
+Lead Examiner Commentary:
+
+
+Proposal Assessment:
+The proposal outlines challenges and offers methodical decomposition, alignment
+with client/user needs, proactive risk strategies, and an understanding of
+regulatory standards. Some areas, such as problem breakdown and niche
+requirements, could be refined. The student’s approach is laudable, setting a
+constructive trajectory for subsequent phases.
+
+
+Justifications Review:
+The justification for solution alignment exhibits a basic grasp of client and user
+needs but could benefit from a more detailed rationale to validate the solution's
+effectiveness. The risk mitigation explanations, although present, need more
+profound elaboration to demonstrate thorough preparedness. Similarly, while the
+proposal recognises software and industry standards, a more comprehensive
+justification would bolster its credibility.
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   5
+– Version 1.0
+Digital Production, Design and Development
+
+
+
+Conclusion:
+The student has laid a foundation, showcasing understanding and effort.
+However, more in-depth reasoning and detail are necessary to convince
+stakeholders and ensure the proposal's robustness. Enhancements in these areas
+would significantly elevate the proposal's overall impact.
+
+
+Functional and Non-Functional Requirements:
+The proposal offers rudimentary definitions of both functional and non-functional
+requirements. It lays down the essential groundwork, differentiating between
+what the software is supposed to do (functional) and how it should perform or the
+conditions it should meet (non-functional). However, the definitions could benefit
+from more depth to capture the nuances and complexities associated with each.
+
+
+Key Performance Indicators (KPIs):
+There is a basic explanation of key performance indicators provided in the
+proposal. The student highlights the concept that KPIs are metrics used to evaluate
+the success of an activity or process. While the introductory definition serves its
+purpose, further elaboration on how these KPIs relate specifically to the project at
+hand would be advantageous.
+
+
+User Acceptance Criteria:
+The proposal introduces the concept of user acceptance criteria as standards the
+software must meet for the user to accept it. The definition, though essential,
+offers an insight into the parameters that will be used to judge the software's
+success from a user's perspective. A more detailed breakdown, possibly with
+examples, would make this section more impactful.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   6
+– Version 1.0
+Digital Production, Design and Development
+
+
+Task 1 Activity B: The Design – The
+Visual/Interface Design
+Student Evidence Review:
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   7
+– Version 1.0
+Digital Production, Design and Development
+
+
+
+
+Lead Examiner Commentary:
+
+
+Layout and White Space:
+The design interface proposed demonstrates a good understanding of layout and
+the use of white space. The design doesn't feel crowded, and there is a reasonable
+effort made to give elements enough room to breathe. Although the white space
+is not perfect, it generally helps improve readability and reduce visual clutter.
+
+
+Visual Hierarchies:
+The design attempts to establish visual hierarchies by making essential elements
+more prominent and guiding the user's attention with a visible flow. While the
+hierarchy could be more pronounced in certain places, the basic principles have
+been applied.
+
+
+Common Conventions:
+The interface follows familiar conventions for intuitive use, incorporating
+recognisable symbols, placements and patterns. While not groundbreaking, it
+meets the basic requirements.
+
+
+Conclusion:
+Based on the student’s work, it is evident that they have a reasonable
+understanding of fundamental design principles. The interface layout, visual
+hierarchy and standard conventions are reasonably practical, resulting in a
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   8
+– Version 1.0
+Digital Production, Design and Development
+
+
+satisfactory overall design. Although there is always room for improvement and
+innovation, the design meets its intended purpose and basic user expectations.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   9
+– Version 1.0
+Digital Production, Design and Development
+
+
+Task 1 Activity B: The Design – Algorithm
+Design
+Student Evidence Review:
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   10
+– Version 1.0
+Digital Production, Design and Development
+
+
+Lead Examiner Commentary:
+
+
+Precise Logic:
+The algorithms use precise logic, indicating an understanding of the core problem
+and required logic.
+
+
+Structure and Sequence:
+The algorithms exhibit an appropriate structure, with actions sequenced logically.
+However, there might be potential improvements to be made in terms of
+efficiency. The algorithms work, but they need to do so in a more streamlined or
+optimised manner. Students must also think about useful algorithms other than
+the standard ones, like log-in or registration forms.
+
+
+Use of Accepted Conventions:
+The student has primarily followed established standards in problem-solving and
+algorithm development. Adherence to such standards can improve tracking and
+potentially enhance the students work. While occasional deviations or
+unconventional choices may exist, most of the work aligns with conventional
+practices.
+
+
+In Conclusion:
+The student’s work is satisfactory in breaking down the identified problems and
+creating algorithms to solve them. While the logic and structure are mostly
+accurate and suitable, there is a scope for improvement in algorithmic efficiency.
+Although it is primarily practical, following conventions consistently could lead to
+better results.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   11
+– Version 1.0
+Digital Production, Design and Development
+
+
+Task 1 Activity B: The Design – The Data
+Requirements
+
+Student Evidence Review:
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   12
+– Version 1.0
+Digital Production, Design and Development
+
+
+
+
+Lead Examiner Commentary:
+
+
+Variables:
+The student has primarily identified appropriate variables necessary for the
+proposed solution. These variables are relevant to the problem and contribute to
+the solution's function.
+
+
+Data Structures:
+Data structures are mainly apt. The student understands the importance of
+organising data for efficient access and modification, even if there is potential for
+refining or optimising some choices.
+
+
+Data Types:
+The chosen data types mostly fit the managed data. This shows a foundational
+understanding of how different data types should be handled and stored.
+
+
+Naming Conventions:
+While the naming conventions used in the proposal are mostly appropriate,
+making it easy to understand the purpose and function of variables, data
+structures and data types, there are inconsistencies. These inconsistencies could
+lead to clarity or interpretation issues in later stages of development.
+
+
+Error Handling Procedures:
+The student has identified error handling procedures, showcasing an awareness
+of potential pitfalls and disruptions in the proposed solution's operation. However,
+these procedures only cover some of the inputs/processes. Addressing error
+handling more comprehensively further bolsters the proposal's robustness.
+
+
+In Conclusion:
+The student’s work in understanding and detailing data requirements for the
+proposed solution is commendable. Most choices regarding variables, data
+structures and data types are appropriate. However, more consistent naming
+conventions and a comprehensive approach to error handling would elevate the
+proposal's quality and effectiveness.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   13
+– Version 1.0
+Digital Production, Design and Development
+
+
+Task 1 Activity B: The Design – The Test
+Strategy
+Student Evidence Review:
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   14
+– Version 1.0
+Digital Production, Design and Development
+
+
+Lead Examiner Commentary:
+
+
+Test Strategy Understanding:
+The student has demonstrated a thorough understanding of how each solution
+component is interconnected, ensuring that modifications to one part do not
+adversely affect the others.
+
+
+Order of Testing:
+It is crucial to adhere to the outlined strategy as it encompasses the most critical
+dependencies and logical flow required for effective component testing.
+
+
+Types of Tests Required:
+The student has identified necessary tests for the solution, demonstrating an
+understanding of various testing layers and important aspects crucial to project
+success, although some may require further elaboration.
+
+
+Techniques, Methods and Formats:
+There is some effective use of appropriate techniques and methods in
+communicating the design. While only sometimes applied throughout, their
+instances provide clarity and aid understanding.
+
+
+Technical Language:
+The design employs technical language to ensure stakeholders can comprehend
+the nuances, but inconsistent use hinders accessibility in some sections.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   15
+– Version 1.0
+Digital Production, Design and Development
+
+
+Task 2: Developing the Solution
+Student Evidence Review:
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   16
+– Version 1.0
+Digital Production, Design and Development
+
+
+
+Lead Examiner Commentary:
+
+
+Multilingual Functionality:
+The prototype showcases the student’s versatility by implementing code in
+multiple languages. However, the code's efficiency needs improvement, and
+significant errors may affect the solution's overall performance.
+
+
+Logic & Programming Structures:
+The student has employed precise logic and programming structures that would
+lead to mainly correct outcomes. While the foundation is solid, there might be
+instances where the logic could be further refined for optimal results.
+
+
+Naming Conventions:
+The code follows appropriate naming conventions, although there is room for
+improvement in certain instances where naming could be more precise.
+
+
+Logical Organisations:
+Some organisation is evident in how the code is structured, but there might be
+areas where the flow could be more intuitive.
+
+
+Informative Comments:
+The student has incorporated comments, which aid in understanding the code's
+purpose. However, more consistent commenting would provide greater clarity for
+third-party developers.
+
+
+Input Handling:
+Adequate mechanisms have been implemented for user input, though there is
+room for improvement to ensure more seamless interaction.
+
+
+Guidance and Error Messages:
+The prototype provides user guidance and error messages, ensuring users aren't
+left entirely in the dark when issues arise. Yet, more comprehensive feedback
+could enhance user satisfaction.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   17
+– Version 1.0
+Digital Production, Design and Development
+
+
+Outputs:
+The user receives results that provide feedback on their actions, even if there
+might be potential for a more engaging or informative display.
+
+
+Accessibility, Compatibility, Legal and Ethical Considerations:
+The prototype mostly adheres to essential standards and guidelines. This
+adherence ensures that many users can access and use the system. Legal and
+ethical considerations are also mostly met, though areas need more detailed
+attention.
+
+
+Confidentiality, Integrity and Availability:
+The student has applied procedures and security controls to ensure the system's
+confidentiality, integrity and availability. While these applications are primarily
+practical, continuous updates and refinements will be crucial for optimal security.
+
+
+In Conclusion:
+The prototype developed by the student demonstrates a firm grasp of coding in
+various programming languages, user experience design, and adherence to
+essential standards. However, there is room for improvement in code efficiency,
+user guidance and consistent application of measures. Further refinement in
+these areas can lead to a more polished product.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   18
+– Version 1.0
+Digital Production, Design and Development
+
+
+Task 3 Part A: Gathering Feedback to Inform
+Future Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   19
+– Version 1.0
+Digital Production, Design and Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   20
+– Version 1.0
+Digital Production, Design and Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   21
+– Version 1.0
+Digital Production, Design and Development
+
+
+Lead Examiner Commentary:
+
+
+Quality and Scope:
+The feedback collection materials created by the student play a crucial role in
+evaluating the prototype's performance. However, these materials may only offer
+limited insights into different aspects of the prototype and may have a narrow
+scope, needing more detailed feedback.
+
+
+Use of Tools:
+The student’s choice and use of tools to gather feedback indicate a basic
+understanding of the feedback process. The devices have effectively captured
+feedback that provides insight into the prototype's performance.
+
+
+Evidence-Informed Iteration:
+Based on the feedback collected, several opportunities exist to improve the
+prototype through evidence-based iteration. This indicates that the student is
+gathering feedback and considering utilising it to refine and enhance the
+prototype. Although the depth of these insights may be crucial, there is a clear
+emphasis on iterative development based on user or tester feedback.
+
+
+In Conclusion:
+The student’s approach to feedback gathering and iterative development
+showcases an elementary understanding of the importance of user feedback in
+refining a prototype. The groundwork is set, capturing essential feedback and
+acting upon it. However, more comprehensive tools and methods for feedback
+collection, as well as a deeper dive into iterative refinement based on feedback,
+would enhance the overall development process.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   22
+– Version 1.0
+Digital Production, Design and Development
+
+
+Task 3 Part B: Evaluating Feedback to Inform
+Future Development
+
+Student Evidence Review:
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   23
+– Version 1.0
+Digital Production, Design and Development
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   24
+– Version 1.0
+Digital Production, Design and Development
+
+
+Lead Examiner Commentary:
+
+
+Appropriateness of Assets:
+The student undertook a limited review of the chosen content, assessing the
+assets' suitability for the intended purpose.
+
+
+Source Validity and Reliability:
+There was a cursory examination of the sources for asset derivation. The student
+understood the significance of using valid and dependable sources but may
+benefit from a more thorough assessment.
+
+
+Legal and Ethical Implications:
+The review addressed the legal and ethical considerations of identified assets,
+acknowledging broader implications even at the surface level.
+
+
+Cross-Source Consideration:
+Occasionally, the review benefitted from superficial comparisons and
+corroboration across multiple sources. However, these moments could have been
+more consistent throughout the review.
+
+
+Functional and Non-Functional Requirements:
+The student evaluated how well the prototype aligns with the system's functioning
+and non-functional specifications.
+
+
+KPIs and User Acceptance:
+The evaluation extended to the prototype's adherence to key performance
+indicators and user acceptance criteria. This thorough assessment suggests that
+the student understands the importance of meeting benchmarks and user
+expectations.
+
+
+Future Development Insights:
+The student offered a basic and somewhat simplistic rationale for potential future
+iterations. While it provides a starting point, a deeper exploration of the
+prototype's strengths and weaknesses could lead to more profound insights for
+enhancement.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   25
+– Version 1.0
+Digital Production, Design and Development
+
+
+Use of Examples:
+Selected examples occasionally support points made in the review and evaluation.
+While these give context to some claims, the breadth and depth of examples could
+be broadened for a more compelling argument.
+
+
+Feedback Consideration:
+The student considered feedback in their analysis, though integrating this
+feedback into the review was limited. A more detailed assimilation of user
+feedback would provide a richer perspective on potential improvements and
+validations.
+
+
+In Conclusion:
+The student’s work in content review, prototype evaluation and future iteration
+planning displays foundational comprehension and analysis. While they
+demonstrated a good understanding in evaluating the prototype against set
+criteria, areas such as content source validation, rationale for future changes and
+more robust evidence support could benefit from further depth and consistency.
+
+
+
+
+T Level Technical Qualification in Digital Production, Design and Development – Grade Standard Exemplification Material 2023   26
+– Version 1.0
+Hierarchy diagram
+This hierarchy diagram is to show the hierarchy between Health Advice
+Group and the users, the website consists of 4 pages which is shown,
+there is a health advice page, a weather forecasting page, a customer
+support page and a home page. These pages will be my main focus when
+creating my digital solution, this will ensure that I constantly meet
+requirements of the users.
+
+
+
+
+Health Advice Groups digital solution will consist of 4 main pages: the
+homepage for all users, personal health tracker page, information to form
+health decisions about the weather, customer help support page to ensure
+users can get all the help they need. These pages will be my focus when
+creating my website as they make up the most important features needed in
+order to meet the requirements of both the user and client. There are other
+features involved within the homepage of Health Advice Groups website that I
+will attempt to implement with the other pages of the website, one feature I
+will try to incorporate throughout the rest of the website is hyperlinks, these
+hyperlinks will always link back to the homepage. This is depending on if I have
+enough time after making the main 4 pages I have mentioned.
+  Occupational specialism
+
+I currently work for a software development company. My company has
+secured a new contract to develop a digital solution for a charity called Health
+Advice Group. The charity offers information and support for environmental
+health issues that occur depending on the time of the year; some of the
+information Health Advice Group provide is:
+
+
+   •   Health Advice Group provide information on how to deal with extreme
+       weather temperatures
+When dealing with extreme heat, to cool yourself down you should consume
+cold foods and drinks; this prevents the body from overheating. When dealing
+with extreme heat you should also avoid the consumption of alcohol, alcohol
+can cause Dizziness, Disorientation, Fatigue and impaired judgement. You
+should provide yourself with cold showers or put cold water directly on the
+skin or clothes. You should keep your living space cool, prevent opening your
+windows during the hottest points of the day.
+    • Health Advice Group provide Information on environmental health
+       conditions and seasonal changes (e.g., asthma, and hay fever)
+Environmental changes can cause health conditions such as asthma to become
+worse as seasons change, a wide range of indoor and outdoor allergens,
+irritants, as well as cold temperatures, can exacerbate asthma. Household
+exposure to dust mites and cockroach allergens all contribute to asthma
+morbidity.
+Environmental changes can cause health conditions such as hay fever to
+worsen depending on the time of the year. Most people with hay fever are
+allergic to pollen, but it can also be caused by trees and weeds. Research
+suggests that pollution, such as cigarette smoke or car exhaust fumes, can
+make allergies worse.
+    • Risk assessments for home environments
+Health Advice Group provides home risk assessments to ensure your home
+environment is safe when you have health conditions such as asthma.
+Exposure to things like asbestos can cause asthma to worsen.
+
+Health Advice Group have requested me to develop a digital solution that
+provides:
+   • Weather forecasting to inform health decisions
+   • Access to a dashboard for monitoring air quality data
+   • Advice on how to deal with health matters affected by weather and
+      environmental conditions
+Health Advice Group has done some of their own market research to identify
+features that could potentially be included in the digital solution, the features
+are:
+   • Personalised health advice based on location
+   • Accessibility features to support a wide range of users needs
+   • A personal health tracking app
+
+
+In preparation for developing a proposal for the digital solution, for Health
+Advice Group. I have been asked to carry out research. My research will consist
+of how digital solutions are used to meet the needs of different users within
+the health sector including:
+    • How hardware and software are used within the context of the industry
+    • Newly emerging technologies
+    • How digital solutions could be used to meet different user needs
+    • The industry-specific guidelines and regulations I will need to follow
+
+
+To help with my research, I have found companies that offer similar services to
+Health Advice Group. These companies are The Met Office and the NHS. The
+Met Office offers a range of similar services to Health Advice Group, The Met
+Office gives educational information about dealing with extreme weather
+temperatures. The Met Office makes predictions across all timescales from
+weather forecasting climate change. Climate change is one reason for seasonal
+allergies becoming more common. The NHS provides information on how to
+deal with extreme temperatures and how to help with environmental health
+conditions.
+During the design of Health Advice Groups digital solution, I will be taking into
+consideration the features available to users. The Met Office’s website isn’t
+accessible to all users, it can be hard for older people to navigate where they
+need to go in-order to get the information they are looking for. The NHS shows
+great accessibility when it comes to users’ navigation the information they
+need, all categories are visible for easy use. The NHS has a visible log-in setting
+where (My account is) this is a perfect feature for part of Health Advice Groups
+digital solution. They wish for a personal health tracking tool, allowing the user
+to have an account means they can always have this information provided to
+them, instead of entering the information every time they are on the website.
+
+
+System requirements
+Operating systems for The Met Office and the NHS require Apple or Android
+smartphones with internet access and iOS or Android operating systems.
+(Versions iOS 12 and above, Android 5.0) when creating a digital solution for
+Health Advice Group, I will ensure that the operating system runs correctly on
+the right iOS and Android model.
+
+Minimum requirements for downloading Health Advice Group, these
+requirements need to be met or the system won’t run.
+
+                           website System requirements
+                - Processor: 1 gigahertz (GHz) or faster processor or SoC
+
+                - RAM: 1 gigabyte (GB) for 32-bit or 2 GB for 64-bit
+
+                - Hard disk space: 16 GB for 32-bit OS 20 GB for 64-bit OS
+
+                - Graphics card: DirectX 9 or later with WDDM 1.0 driver
+
+                - Display: 800x600
+            Mobile device
+
+               - 1.3GHz dual-core processor
+
+               - 1GB of RAM
+
+               -iOS 6.1.4
+
+               -1,440mAh battery
+
+How is hardware and software used within the health and weather sector?
+Medical hardware devices include a broad range of products, these products
+include thermometers, blood sugar metres, artificial hearts etc..
+Thermometers are used within the weather sector to accurately measure the
+temperature outside. There is also another use for thermometers,
+thermometers are used within the health sector to accurately read the body
+temperature of both humans and animals. Thermometers allow for people to
+get the correct information on what they need to do (this is determined by the
+user's findings.)
+Smart watches are used in both the weather and health sector. In our current
+day, you’re able to look at your smartwatch to see the most up to date,
+current, and specific to your location weather forecast. Smartwatches have
+built-in sensors and/or software that updates through your phone's connection
+to provide you with instant information on what is happening with the weather
+in your region (where you are at that specific time.)
+Smartwatches are used within the health sector to give alerts out when
+temperatures are too extreme. Smartwatches give Yellow, Amber and Red
+alerts depending on how extreme the weather is, with these warnings come
+some information on how to deal with the weather.
+
+Newly emerging technologies
+Artificial intelligence in healthcare refers to the complex algorithms designed
+to perform certain tasks within the health sector. When doctors inject data
+into computers, the newly built algorithms can review, interpret and suggest
+solutions to complex problems.
+Artificial intelligence has been used with the weather sector to analyse data
+about weather and climate change for years. Scientists are slowly introducing
+artificial intelligence to create forecasts that are more accurate and further
+reaching. Artificial intelligence will allow for the users to get more accurate
+information and stay more educated about complex problems that can occur.
+artificial intelligence allows Health Advice Group to give the right information
+out to its users.
+How digital solutions can be used to meet different users’ needs
+Understanding users and their needs is a huge requirement that needs to be
+met when creating a digital solution. When creating digital solutions there are
+criteria’s that need to be marked off. Criteria 1: Understanding the user’s
+needs, understanding your users’ needs are important because if these needs
+are not met then the website is insufficient, Health Advice Group
+understanding as much as the context as they can give them the best chance at
+meeting the users’ needs in a simple and cost-efficient way. Using digital
+technology to find the solution to a problem can be described as a digital
+solution, the problem and the solution are both in digital format. This can help
+users break complex problems down into more manageable parts. Criteria 2:
+make the digital solution accessible to the user. When a user uses a digital
+solution, they’re able to change the font size, the colour of the background
+(this is for people who may have dyslexia). Users being able to change these
+things allows them to easily access the information they need.
+    • The industry-specific guidelines and regulations I will need to follow
+I will need to provide initial and ongoing training and support with my digital
+solution, before my digital solution is released, I will perform a user acceptance
+testing meeting to ensure all areas of the digital solution are working as they
+should, it also ensures that there is nothing missing from the digital solution.
+The head IT support team for Health Advice Group will be involved in this
+meeting.
+I will then carry out training for employees of the Health Advice Group to
+ensure there are no problems and everyone understands how the new system
+works.
+Focusing on users’ digital skills and competences, accessibility to a big part
+about creating a digital solution, you must ensure that your target audience is
+able to use your digital solution. Having an older target audience may cause
+issues because they aren’t used to certain digital solutions.
+During accessibility I must think of the area my digital solution will be used, if
+my digital solution is being used in a less-educated area then I must use a low-
+skilled and low-literate user interface.
+
+Activity A (ii)
+                   Health Advice Group Proposal
+
+The proposal/justification
+Health Advice Group has requested me to create and develop a digital solution
+that provides:
+   • Weather forecasting to inform health decisions
+   • Access to dashboard for monitoring air quality data
+   • Advice on how to deal with health matters affected by weather and
+     environmental conditions
+Potential features that the clients would like to be included are:
+   • Personalised health advice based on location
+   • Accessibility features to support a wide range of users needs
+   • A personal health tracking tool
+
+
+
+My solution for the client would be to create a website that provides users
+with the relevant information they’re looking for; I would like my solution to be
+easily accessible to existing and potential users. My solution would be to
+create an easy-to-use place for the users to track their personal health. The
+website will allow users to keep track of their calorie intake, my website will
+give advice on how the user can improve their intake to improve their health.
+This website will have two options when logging into the website, the user will
+be able to log into the website or continue to use the website while not being
+logged in. Being able to have both options available is important. However,
+users that don’t log-in won’t have all features available to them. Once the user
+has logged on the website can be more tailored to what the user would be
+using it for.
+The first page, the user will be taken to the home page of Health Advice Group.
+The home page will consist of a short brief of what Health Advice Group have
+to offer, the home page will have a variety of features, one main feature is
+hyperlinks leading to other pages of the website via a navigation bar. This page
+will display where all information is located so the user can easily navigate the
+website. At the bottom of each page, there will be a hyperlink leading back to
+the home page; this will help the user find their way back without any
+difficulty. I’ve come up with this solution after looking at a website called The
+Met Office and the NHS that can be seen in my appendix or in my source table.
+This is what I’m basing the look of my website on.
+Another page of my website will only be accessible to people who have/create
+a log-in. By logging into Health Advice Group, the users have more access to
+the website. This allows the user to ‘monitor their own personal health’ the
+user can track things like their calorie intake, how the users should improve
+when working out, where they should be after a certain period of time. After
+the Health Advice Group gathers this information, they can give appropriate
+advice back to the user. Say for instance, they are behind in their workouts,
+Health Advice Group will give the user advice in order to meet their goal.
+I got the idea of creating a feature like this from personal health tracking apps
+that are found in apple and android stores that can be seen in my appendix.
+Health Advice Group could benefit from several features which I plan on
+including, to aid sufficient advice to the user, I will be including a feature where
+the user can add in their personalised location. This ensures the user gets
+appropriate advice on where they are located.
+To ensure that my digital solution is completed on time, I will be using an agile
+methodology. By using an agile methodology, it reduces the amount of time it
+will take to complete my project, it also improves flexibility so I’m able to get
+the most prioritised tasks completed first. A negative impact on using an agile
+approach is that it can become overwhelming, and it is easy to fall off track
+because my work may become disorganised. To prevent this from happening, I
+will create a Gannt chart and check off my tasks as I complete them.
+In-order to create my digital solution, I will be using Django. The reason for this
+is because Django is a high-level python web frame that enables rapid
+development of secure and maintainable websites. When using Django, I will
+get a visual representation of what my website will look like, if I would like to
+change the design of a feature, I'm able to do that.
+Key performance indicators
+     • The average amount of time users spends on the website
+Keeping track of the average amount of time users spend on Health Advice
+Group will give the clients an estimate of how well the website is coping in
+different circumstances
+     • How many users making accounts after clicking onto Health Advice
+        Group
+Keeping track of this will allow the clients to see how many users are being lost
+from initial impressions of the website; if there are many users creating
+accounts then the initial impressions are good, if the users aren’t creating
+accounts, then the initial impressions are bad. This will be feedback to the
+clients so they can make improvements.
+     • Employee productivity
+     • How many users use the customisable option when it comes to the
+        design of the product
+It's important for Health Advice Group to keep track of this because they’re
+able to see how effective this feature having, it also shows them if changes are
+needed.
+     • If features are popular (if having a personal health tracker is popular)
+It is important to keep track of this because you as the client can see if it is
+worth the money to keep this a feature. From this, Health Advice Group can
+see what is in high demand at that time.
+
+Client and user requirements
+The table below is to show all the features/tasks the clients and users should
+be able to do throughout my website
+Client                                       Users
+
+Clients will be able to:                  Users will be able to:
+    • Log into admin credentials             • Log into Health Advice
+    • Receive any form of feedback from         Groups domain
+       users                                 • Access the website without
+    • Change features within the digital        logging in
+       solution                              • View weather forecasting to
+    • Update website                            inform health decisions
+    • View users process                     • Customise their (the users)
+    • Get more detailed data on how             profile
+       well users are doing with their       • Accessibility, being able to
+       health progress                          change features to suit the
+    • Change the text size or use text to       user
+       speech for users that are             • Change the text size or use
+       academically challenged                  text to speech
+                                             • Add other users as friends so
+                                                they can track each other’s
+                                                progress
+
+Mitigation of potential risks
+One potential risk that can occur is that the website could have glitches that
+weren’t found during the testing of the digital solution, there could be issues
+for certain users when trying to access the website. This will be mitigated by
+having a customer support section where any potential problems the user has
+can be reported and then dealt with in a timely manner.
+Another potential risk that can occur is missing features within the website or
+features being in the wrong place, this can cause issues for both the clients and
+users because it can cause the website to fail. This can be mitigated by having a
+user acceptance meeting with the clients to ensure all the features asked for
+are there.
+A problem that can occur during the use of my digital solution is the website
+crashing due to the number of users using the website, this can cause
+problems because this will cause the entire website to crash, this can be
+mitigated by load and stress testing the website to ensure it can take a large
+amount of users at one time. This is an unlikely problem that will occur, but
+load/stress testing is an important part of understanding the website and its
+capacities.
+A problem that can occur when creating a Health Advice Group is sensitive
+data being stolen, this can be detrimental to both user and client. This will be
+mitigated by installing and enabling firewalls, firewalls barricades that sit
+between a private internal network and the public internet. Users are advised
+not to log into Health Advice Group without a secure network (don’t log-in
+using a public network.)
+
+Acceptable user criteria
+
+ User story:
+ (Explain the purpose and process of the feature from the users’ perspective)
+
+
+ Scenario
+Starting point: Logging into Health Advice Groups digital solution
+ Given
+What the user does: The user navigates to the login page
+ When
+At what point in the process does this happen: The process happens once the
+user has navigated the login page
+ And
+If anything, else is happening at that point: The user enters their
+Email/Username then enters their password. If the password or username is
+incorrect, then an invalid message will appear.
+ Then
+The result of the previous steps: If the password and username is correct, the
+user will be directed to a personal account. The digital solution will still work
+without logging in, the only problem that can occur is that the user won’t be
+able to access all the features the digital solution offers.
+
+Functional requirements
+The parts of the product that the user will see and interact with
+ No. Features                  Priority Justification
+ 1. Log-in feature             HIGH     Users will be restricted to certain
+                                        functions if they aren't able to sign
+                                        into Health Advice Group, they won’t
+                                        get the full experience of the digital
+                                        solution.
+2.    Send through an        LOW       This is to check that the system has
+      email for confirmation           the correct credentials for the user.
+      of account being
+      made
+3.    Users can sign up      HIGH      The users won’t have access to all the
+                                       features of the website if they aren’t
+                                       able to log in.
+
+
+Non-functional requirements
+Requirements of the product that make it run effectively
+ No. Features          Priority Justification
+ 1. Use of cookies MEDIUM Cookies allow users to be always logged
+                                  into their account, the use of cookies isn’t
+                                  a high priority because the user can always
+                                  log back into the system. This is good for
+                                  frequent users of the software. The use of
+                                  cookies also allows our clients to keep
+                                  track and make personalised adverts to
+                                  the users.
+ 2. Performance of HIGH           Performance is a high priority indicator,
+      the software                performance has an impact on users
+                                  experience and digital customer journey. A
+                                  high-performing website will help my
+                                  client reduce bounce rate and improve
+                                  visitor retention.
+ 3. Website            HIGH       Website capacity is a key indicator to test
+      capacity                    when creating a digital solution, load and
+                                  stress testing will be done at the end of
+                                  the project of Health Advice Group. If the
+                                  website can’t attract a large number of
+                                  users at the same time then it will crash.
+ 4. Users’ details     HIGH       Users should be able to trust the service
+      (personal data              Health Advice Group is offering, or they
+      is secure)                  will not use the service.
+ 5. Website being HIGH            The website can lose traffic if it’s not
+      always                      available when the user needs it, the user
+      available                   may go to a different website if this one
+                                  isn’t available to them.
+ 6.   Colour scheme     HIGH       User accessibility is important and if the
+      is appropriate               user can’t see the website, then the
+      for a user                   service won’t be of use to them.
+
+
+Guidelines and legal requirements
+The Data Protection Act will be considered when I create my digital solution for
+Health Advice Group. The Data Protection Act empowers individuals to take
+control of their personal data. Health Advice Group must explicitly disclose
+that they are collecting users’ personal data. Health Advice Group must inform
+each individual user about how, why, and where they process and store users’
+data. Users have a right to ask for copies of the data collected from them.
+Users also have the right to ask companies to swipe the data they have
+collected on that user.
+Test strategy
+I’m going to be using black box testing and white box testing when creating my
+digital solution. I will be using black box testing where the inputs and outputs
+of the website, I will be using white box testing to test the backend/internal
+structure of the website.
+Test strategy    Black box testing
+
+Purpose          This test strategy allows for visual representation of all the
+                 testing that can be devised for all inputs and outputs on the
+                 program making sure everything works as intended
+
+Who performs Me
+the test
+
+Test data set    Every action/input and output will be recorded
+
+Test criteria    To ensure the program outputs what's intended
+When to test     Test when a section of the website is completed and the inputs
+                 and outputs need to be tested
+
+Estimated        Each section of the website shouldn’t take more than 30
+time required    minutes to test, this may vary due to the amount of
+                 inputs/outputs there are
+
+Test outcome     The outcome of the inputs/outputs will be compared with the
+                 intended outcome, if they don’t match then any improvements
+                 needed will be made.
+
+
+Date     Component to be tested         Type of       Prerequisites and
+of                                      test to be    dependencies
+test                                    carried
+                                        out
+         Login page: when the           Black box     Need access to the
+         password doesn’t meet          testing       internet for the website
+         the requirements of an                       to work, input a valid
+         error message will show                      message
+         Login page: when the           Black box     Need access to the
+         password and the confirm       testing       website computer
+message don’t match an                   Input a different
+error message will show                  password in confirm
+                                         password to match the
+                                         original written
+                                         password
+Home page: when various Black box        Need access to the
+buttons are pressed, the  testing        website computer
+website take the users                   User needs to login to
+where they’re supposed to                reach certain features
+go
+Main page: (health advice,   Black box   Users need to login then
+ensures that the right       testing     click onto Health Advice
+information is advertised                in order to get to the
+                                         right place
+Customer support page: to Black box
+ensure the comments the testing
+user is making get to the
+clients correctly
+user interface design document
+Code documentation
+Task 2: Test log
+Description Test data Expected outcome              Actual      Comments and
+   of test   to be used                            outcome         intended
+                  (if                                               actions
+              required)
+Testing                  If more than 255       When I entered Date tested:
+                         characters are         more than 255 12/03/2023.
+                         entered when           characters, it There were no
+                         entering a password came up with further intended
+                         then it will output    an error       actions needed.
+                         an error message       message.
+Launch                   This testing is to     When i clicked Date tested:
+applications             ensure that when a onto the           15/03/2023.
+                         user clicks onto the website, it took Launch was
+                         webpage, it takes      me straight to successful so
+                         them to the            the homepage there was no
+                         homepage                              need for any
+                                                               further action.
+Testing      I entered a The average            When the       Date tested:
+phone        4 character character in a phone wrong amount 15/03/2023.
+numbers      phone       number is 11, when of characters      Launch was
+             number      I enter 4 characters were entered, successful so
+                         it should output an there was an      there was no
+                         error message and output message need for any
+                         tell the user to enter given          further action.
+                         a valid phone
+                         number
+Test adding Add          Expected outcome Actual               I have now
+members      member      for adding members outcome, all of added the right
+             Angela      is to add members the information code needed to
+             Wakeman with their personal to the member save the
+                         information            wasn’t added   information
+                                                correctly      correctly
+Code documentation
+Asset   Description          Source   Date I required
+                                      the asset
+        Health Advice        Google   Date completed is
+        Group app logo, I             27/03/2023
+        sourced the
+        website from
+        google and I
+        added the writing
+        myself using paint
+Copyright in this document belongs to, and is used under licence from, the Institute for Apprenticeships and Technical Education,
+© 2023. ‘T-LEVELS’ is a registered trade mark of the Department for Education. ‘T Level’ is a registered trade mark of the Institute
+for Apprenticeships and Technical Education. ‘Institute for Apprenticeships & Technical Education’ and logo are registered trade
+marks of the Institute for Apprenticeships and Technical Education.
+The T Level Technical Qualification in Digital Production, Design and Development is a qualification approved and managed by
+the Institute for Apprenticeships and Technical Education.
+Pearson Education Limited is authorised by the Institute for Apprenticeshisd Technical Education to develop and deliver this
+Technical Qualification.
+Pearson and logo are registered trade marks of Pearson.
+

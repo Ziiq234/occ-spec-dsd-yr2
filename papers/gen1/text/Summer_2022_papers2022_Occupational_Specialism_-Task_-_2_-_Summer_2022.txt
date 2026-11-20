@@ -1,0 +1,144 @@
+                                                                                                                                              Institute for Apprenticeships
+                                                                                                                                              & Technical Education
+
+                               T Level Technical Qualification in Digital Production, Design and
+                               Development (Level 3)
+                               March 2022
+                               Time 30 hours                                                            Paper
+                                                                                                        reference                            19540
+                                Occupational Specialism
+                                Task 2
+                                Developing the solution
+
+
+                                You must have:
+                                Task2_Test_Log_Template.doc
+
+
+
+                      Information
+                      •• The  total mark for this task is 48.
+                         This booklet contains material for the completion of the set task under
+                         supervised conditions.
+                       • This booklet is specific to each series and this material must only be issued to
+                         students who have been entered to undertake the task in the relevant series.
+                       • This booklet should be kept securely until the start of the 4-week
+                         assessment window.
+
+
+
+
+                                                                                                                                                                               Turn over
+
+
+W73774A
+©2022 Pearson Education Ltd.
+1/1/1/1/1
+                                                                    *W73774A*
+                             The T Level Technical Qualification is a qualification approved and managed by the Institute for Apprenticeships and Technical Education, and
+                    Pearson’s development and delivery of the qualification and use of the mark is under the authority of the Institute for Apprenticeships and Technical Education.
+                                           Instructions for students
+                         You must complete ALL activities within the assessment.
+This task is to be completed under supervised conditions during a window of four weeks.
+The window for this task is 07 March 2022 and 01 April 2022.
+Your centre will schedule 30 supervised hours during the four-week window in which
+you will produce the outcomes for this task.
+During this task, you are allowed:
+•       monitored access to the internet
+•       access to a copy of your proposal and design produced in Task 1.
+You are not allowed to make changes to the evidence produced in Task 1.
+Your work will be kept securely during any breaks and between scheduled sessions.
+Template provided for use during this task:
+•       Task2_Test_Log_Template.doc
+During this task, your tutor is permitted to provide general feedback about:
+•       the appropriateness of the solution you designed in Task 1
+•       whether the solution you are developing will function as intended.
+Your tutor is not permitted to provide guidance on how to improve your solution.
+
+
+
+
+    2                                                                                     W73774A
+Set Task Brief
+The software development company you work for has secured a new contract to develop
+a digital solution for GibJohn Tutoring.
+GibJohn Tutoring currently provides customers with:
+•   face-to-face tutoring sessions
+•   access to learning resources
+•   support to develop understanding in different subjects.
+The client (owners of GibJohn Tutoring) would like to develop a digital solution that will:
+•   provide interactive teaching and learning resources in a range of subjects
+•   provide access to digital content to encourage wider learning
+•   support assessment and monitoring of learner progress.
+The client has carried out some market research with existing customers and tutors to
+identify features that could be included in the digital solution. The potential features
+suggested by the client are:
+•   collaborative teaching and learning tools
+•   accessibility features to support a wide range of users
+•   a learning reward system
+•   gamified learning.
+
+
+
+
+W73774A                                                                                             3
+
+                                                                                              Turn over
+Activity
+Developing the prototype
+Develop a functional prototype of your proposed digital solution to meet the
+client’s needs.
+During development, make sure you:
+•       implement secure code in at least two appropriate languages to implement front-end
+        and back-end processes
+•       gather and prepare appropriate assets to be used in the development of your
+        digital solution
+•       make use of, and document, iterative testing
+•       document the iterative development process, including changes made to the
+        solution during development
+•       produce code that can be maintained by a third party
+•       ensure a high-quality user experience
+•       follow legal and regulatory guidelines and standards.
+When gathering assets, you need to record the sources you use in an assets log.
+Your log must:
+•       record all the sources you have used
+•       describe the content and its intended purpose
+•       log the date on which you retrieved the information.
+Your testing documentation does not need to include details of every test carried out.
+However, it should demonstrate:
+•       an iterative approach to testing
+•       understanding of how to test inputs, calculations, validation and processes using
+        appropriate test data.
+                                                                                            (48)
+
+
+
+
+    4                                                                                          W73774A
+Outcomes for submission
+Prototype
+Save copies of key versions of your functional prototype in your folder for submission.
+Use any sensible folder structure and naming convention.
+Development documentation
+Save your development documents as PDF files in your folder for submission. Use this
+naming convention:
+•   Task2_[Document name]_[Registration number #]_[Surname]_[First letter of first name]
+Save your content and assets log as a PDF in your folder for submission. Use this naming
+convention:
+•   Task2_Content_Assets_Log_[Registration number #]_[Surname]_[First letter of first
+    name]
+Test log
+Save your test log as a PDF file in your folder for submission. Use this naming convention:
+•   Task2_Test_Log_[Registration number #]_[Surname]_[First letter of first name]
+Code for prototype solution
+Save your code as PDFs and as .txt files in your folder for submission. Use this naming
+convention:
+•   Task2_Code_[doc #]_[Registration number #]_[Surname]_[First letter of first name]
+
+                                                              TOTAL FOR TASK = 48 MARKS
+
+
+
+
+W73774A                                                                                       5
+

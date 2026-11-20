@@ -1,0 +1,231 @@
+Lead Examiner Report
+
+
+Summer 2022
+
+
+T Level Technical Qualification
+in Digital Production, Design
+and Development-
+Occupational Specialism
+Introduction
+This was the first complete assessed series of the Occupational Specialism that
+took place.
+The tasks set out in the assessment followed the format identified in both the
+Sample Assessment Materials (SAM) and the Additional Sample Assessment
+Materials (ADSAM) published on our website.
+This assessment consisted of four tasks, requiring students to demonstrate
+knowledge of a range of specification topics and apply this knowledge to the
+scenario.
+
+
+Individual questions
+The following section considers each question on the paper, providing examples
+of popular student responses and a brief commentary of why the responses
+gained the marks they did. This section should be considered with the live
+external assessment and corresponding mark scheme.
+
+
+Task 1- Activity A (ii) The Proposal
+In the digital Distinction portfolio, the learner needs to consider the solution and
+provide a comprehensive proposal with the justification.
+The proposal should clearly illustrate relevance to the scenario. It should not
+explain what functional requirements are or define the legislation.
+Decomposition should show the problem to be solved and how it meets the
+client and users needs. The risk associated needs to indicate what they are and
+how they will be mitigate.
+The example below demonstrates some of these focus points and the traits
+associated with a Distinction grade.
+
+
+
+
+V2                                      2
+The learner considered broader issues related to the scenario, the learner has
+functional and non-functional requirements, and it addresses the client needs
+and hence related to the scenario. They have also added justification for each
+requirement.
+
+
+
+
+V2                                     3
+V2   4
+For the ‘User acceptable criteria’ the learner has considered sensible criteria and
+justification of how it applies to the importance of how the solution meets the project
+objectives.
+
+
+
+
+V2                                     5
+The learner has provided evidence of detailed, compelling designs and shows enough for
+a third party to be able to create the whole artefact. The learner has also considered the
+complex structure of the website and page specifications such as background colour, text
+sizes and type. You will notice that the learner has provided layouts, visual hierarchy, and
+standard convention.
+
+Learners that did not perform in this section generally had poor visual designs with little
+consideration of the typical conventions. For example, how would the Web developer
+build the website without knowing text sizes, colours and other descriptive features.
+
+
+
+
+The learner has demonstrated their ability to decompose the problem into smaller sub-
+systems shown as a visual diagram; using stepwise refinement or sensible other notions
+is also acceptable. First, the learners must show the overall breakdown of the problem.
+
+V2                                      6
+From here, they should select one sub-system and break it down in the next stage, which
+would be the algorithm using a flowchart or pseudocode as demonstrated below.
+
+
+
+
+V2                                    7
+V2   8
+V2   9
+The learner has explained the test strategy for the testing phase, in which they have to
+consider a comprehensive range of tests such as Whitebox and Blackbox testing. It should
+be regarded as to which test is used at what stage of the development of the artefact; the
+learner prepares this. The section is not a test plan that will follow in a later section when
+
+V2                                      10
+the test strategy is carried out.
+
+Similarly, lower-marked students tended to create test plans without any consideration of
+the strategy which led to issues such as test plans being developed after testing had been
+taken.
+
+Weaker examples showed little consideration of the impact of any decisions that might
+have been made with apparent omissions of any contextual data.
+
+
+
+
+V2                                     11
+Task 2
+
+In this area, students can demonstrate their understanding by providing reasoned justifications for
+the approaches used. This could include considerations such as their approach to a solution. They
+must use two different programming languages. The most popular languages used for this series
+were Python, PHP, JS and SQL:, which is why specific server option were considered.
+
+Justifications and depth are essential, so not only writing the code on multiple parts of the project;
+this is where learners can justify the decisions by adding comments on the code. It was also
+advantageous if the completed solution was either saved package ready to execute or students
+could provide a video which must be narrated.
+
+Regarding the legal and regulatory guidelines and standards, the learners need to demonstrate
+how the website would be viewed in different browsers. They can validate the code on the W3C
+website. This will let the students know what needs to be added for the website to be viewed as
+expected, no matter which browser.
+
+Security controls we are looking for consideration of using username and password, cookie
+notification, and even two-way authentication. This provides evidence for legal and ethical
+consideration.
+
+Very weak examples tended to describe what had taken place instead of providing clear
+justifications for approaches taken. They tended not to add comments. The code was linear in
+structure with lots of errors and was a partially working solution.
+
+
+
+
+V2                                          12
+V2   13
+The learner has clearly demonstrated efficient functional code using two languages. We
+tested the solution as the learner provided executable files with ‘read me file’. This helped
+focus point on user experience, and were able to test the input handling, error messages
+and outputs.
+
+The student demonstrated well-organised code that includes naming conventions and
+comments that allow third parties to pick up on what the code is doing. It is logical and
+precise.
+
+Lower marks were awarded for lack of detail or no comments, poorly organized code, and
+little evidence of a working solution. In addition, it lacks any consideration for standards
+and guidelines concerning accessibility and compatibility.
+
+
+
+
+V2                                      14
+V2   15
+Testing requires students to demonstrate their knowledge around testing and debugging
+code. To do this, the students use a test plan template and the program’s requirements.
+Students should use these to debug and test the code and try to implement a functioning
+solution.
+
+Weaker examples showed that students relied heavily on the IDE to identify syntactic
+errors but did not go beyond this.
+
+Where more robust examples showed an awareness of the function of the code (testing
+inputs and returns) as well as the role that validations and verification might play in the
+function of the code, with a clear record of actions taken to fix any issues encountered.
+
+
+V2                                      16
+The testing evidence was often mirrored in the attempts to resolve the issues to get the
+code running and make sure it met the user requirements.
+
+Areas for consideration in this task moving forward-
+
+     •   Encourage students to consider the requirements of code as outlined in the task
+         description, to help inform a testing strategy beyond syntax errors
+     •   Encourage students to explore a range of methods of validation and or verification
+         of inputs
+     •   Encourage regression testing of any implemented solutions
+     •   Encourage students to use a range of test data- normal, erroneous and extreme
+         data
+
+
+
+
+V2                                       17
+Task 3a
+
+The learner must show two different techniques for gathering feedback, e.g., survey and
+observations, which help the development of the prototype. The question should be
+directed at technical and non-technical testers. The question should be appropriate so
+that data drawn from it can be used to benefit the artefact and the user. The learner
+should provide a detailed visualization of the data gathered and analysed. This offers the
+opportunity to develop the prototype further.
+
+
+
+
+V2                                     18
+V2   19
+V2   20
+Task 3b
+
+Learners should provide the assets used and how valid the sources are, ensuring that no
+copyright laws have been broken and the reason as to why they chose them; this should
+be related to the scenario and why the object was used on the website page and how it
+would help the user.
+
+Evaluations were appropriate and showed an understanding of the requirements of the
+set task brief. While learners typically at this level provide evaluative comments
+concerning the requirements of the task, at the borderline, user needs were not
+effectively considered.
+
+
+
+
+V2                                    21
+‘T-LEVELS’ is a registered trade mark of the Department for Education.
+‘T Level’ is a registered trade mark of the Institute for Apprenticeships and
+Technical Education.
+The T Level Technical Qualification is a qualification approved and managed by
+the Institute for Apprenticeships and Technical Education.
+‘Institute for Apprenticeships & Technical Education’ and logo are registered
+trade marks of the Institute for Apprenticeships and Technical Education.
+Pearson Education Limited is authorised by the Institute for Apprenticeships and
+Technical Education to develop and deliver this Technical Qualification.
+All the material in this publication is copyright © Pearson Education Limited 2022
+
+
+V2                                              22
+

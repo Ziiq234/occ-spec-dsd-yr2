@@ -99,6 +99,27 @@ Location: OneDrive (Chichester College Group) → `!Classes\exams\`
 
 ---
 
+## 3b. Gen 1 past papers, exemplars and examiner reports
+
+From the college SharePoint folder "Past Projects – Occupational Specialism" — now in the repo under `papers/gen1/`. Full write-ups: `notes/what-gets-a-distinction.md` and `notes/past-briefs-and-patterns.md`.
+
+**Past clients:** 2022 GibJohn Tutoring · 2023 Health Advice Group (weather/air quality/health charity) · 2025 Rolsa Technologies (solar, EV charging, smart homes) · Gen 2 SAM ToKa Fitness · Gen 2 AdSAM Netheret IT Support.
+**Every brief asks for accessibility.** Most need: user accounts with roles, booking/scheduling, a calculator or tracker, a dashboard with charts, content/knowledge base, sometimes an external API, plus legal pages.
+
+**Key lessons from examiners and graded portfolios:**
+- **Apply, don't define.** Don't explain what a functional requirement, KPI or law *is* — write the actual ones for this client, each with a justification. The 2023 Pass student lost marks for defining terms.
+- **The 2023 Distinction prototype wasn't finished** (no admin page, accessibility panel didn't save, placeholder policy pages) — but it was honestly documented, and the designs, testing, feedback and evaluation were strong. Marks come from the whole portfolio.
+- Designs must state **colours, font sizes, fonts**, and show **mobile and desktop**.
+- Data dictionary: **type, size, format, valid range, example** for every field. Plus ERD and data flow diagram.
+- Prototype: justify choices in comments; provide a **packaged build with a read-me** or a **narrated** video; **W3C-validate** the HTML/CSS; test in **different browsers**; cookie notice and **two-factor authentication** were praised.
+- Testing: normal / erroneous / extreme data, test → fix → retest, **regression testing**. Don't stop at IDE syntax errors.
+- Feedback: at least **two techniques** (e.g. survey + observation), separate technical / non-technical questions, **visualise and analyse** the results.
+- Evaluation: keep **user needs** at the centre — that's what held back borderline Distinctions.
+- Gen 1 results: mean ~70/145 (2023), highest 128.
+- Popular stacks: 2023 Distinction = HTML/CSS + PHP + MySQL; 2022 Distinction = Python (Django) + HTML/CSS/JS + SQLite.
+
+---
+
 ## 4. Reference project — Archie Paice, 2023 (Gen 1), graded **Pass**
 
 - Repo: https://github.com/archie-paice/Invisible-Ink (code only, no documentation). C#/WPF booking system for a piercing studio, SQLite/SQL.
@@ -126,7 +147,7 @@ Location: OneDrive (Chichester College Group) → `!Classes\exams\`
 
 ## 7. Still to do
 
-- [ ] Share the **Gen 1** past papers (Digital Production, Design and Development).
+- [x] Gen 1 past papers, exemplars and examiner reports added (`papers/gen1/`).
 - [ ] Confirm with college: allowed languages/IDEs, design tools (draw.io / Figma / Lucidchart?), hosting, Docker on college PCs, and the Task 3 start date.
 - [ ] Practise ERDs, data dictionaries, wireframes and a style guide (on the Netheret or ToKa brief).
 - [ ] Practise an AI log (prompts, then a critical review, then refinement).

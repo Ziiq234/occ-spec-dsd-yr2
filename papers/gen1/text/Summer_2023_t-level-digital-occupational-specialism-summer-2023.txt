@@ -1,0 +1,426 @@
+Lead Examiner Report
+
+
+Summer 2023
+
+
+T Level Technical Qualification
+in Digital Production, Design
+and Development-
+Occupational Specialism
+Introduction
+This was the second complete assessed series of the Occupational Specialism that
+took place.
+The tasks set out in the assessment followed the format identified in both the Sample
+Assessment Materials (SAM) and the Additional Sample Assessment Materials
+(ADSAM) published on our website.
+This assessment consisted of four distinct tasks that required students to
+demonstrate their understanding of a wide range of topics from the prescribed
+curriculum and apply their knowledge to real-life situations.
+The majority of students this series were new students with only one resit student.
+The number of marks available was 145. The lowest mark achieved by students was 0
+and the highest was 128. The mean mark was 70.11 which was a decrease of 2.46
+from the previous series mean mark which was 72.57.
+
+
+Individual questions
+The following section considers each question on the paper, providing examples of
+popular student responses and a brief commentary of why the responses gained
+the marks they did. This section should be considered with the live external
+assessment and corresponding mark scheme.
+
+
+Task 1- Activity A (ii) The Proposal
+When creating a digital Distinction Portfolio, it is important for the student to
+analyse the problem and develop a detailed proposal that is relevant to the
+scenario.
+The proposal should highlight the problem to be solved and how it will benefit the
+client and users. It should not provide explanations of functional requirements or
+legal terms.
+Additionally, the student should identify any risks associated with the proposal and
+propose ways to mitigate them.
+The following example showcases some critical elements and traits associated with
+achieving a Distinction.
+
+
+
+
+  V2                                        2
+V2   3
+Decomposing the problem-
+The student has attained a Distinction level and demonstrated an exemplary ability in
+identifying and methodically dissecting problems. The solutions proposed by this student
+were client-centric and user-oriented, with each decision backed by comprehensive
+justifications. Notably, this student expertly highlighted potential risks associated with the
+development phase and intricately connected these to the legal aspects of the specific
+scenario.
+
+The student exhibited an in-depth understanding of the broader issues related to the given
+scenario. They astutely addressed risk mitigation strategies and weighed the implications of
+legal requirements on the organization. This displayed the student’s adeptness in perceiving
+the larger context and understanding the interconnectedness of various elements. It
+underscored their strategic approach and the ability to anticipate future challenges.
+
+
+
+  V2                                       4
+The Distinction level student showcased their in-depth understanding and good ability to
+construct a detailed and comprehensive data dictionary. This data dictionary was
+meticulously structured and encompassed each data pertinent to the system.
+
+The student demonstrated a knack for data organization and understanding its importance
+in software development. Each data element within the dictionary was precisely defined.
+Including attributes such as data types, size, format, and valid values or range.
+
+
+
+
+  V2                                     5
+This is an example of a strong student who has supplied an array of intricate and persuasive
+design blueprints. This evidence is comprehensive and meticulously detailed, providing
+sufficient guidance for a third party to replicate the artefact from scratch completely. The
+student has extended their deliberation to encompass the complex structure of the website,
+considering multiple web page specifications such as explain the background colour, the
+variation in text sizes, and the nature of typefaces employed.
+
+What stands out in this student’s efforts is their dedication towards providing clear layouts
+establishing a coherent visual hierarchy and abiding by standard conventions. These
+elements are crucial for a seamless user experience and optimal information flow.
+
+
+
+
+It has been observed that some students could have performed better in this section. This
+was mainly due to their poor visual designs, which did not follow typical conventions. To
+create an effective website, web developers must include detailed such as text sizes, colours,
+and other descriptive features in their designs. These omissions highlight the important of a
+detailed and comprehensive approach to website design. Below is an example of a weaker
+student response.
+
+
+
+
+  V2                                      6
+V2   7
+The stronger student below has proficiency in deconstructing the complex problem of
+creating a health application. The student successfully identified key inputs such as User ID,
+specific health metrics (e.g. heart rate, blood pressure, daily steps), and user goals.
+
+They designed the required processes clearly: validating the user, interpreting health
+metrics, comparing data with user goals, and generating health advice based on this data.
+They also accounted for potential outputs like progress reports, health suggestions, error
+messages, or goal achievement notifications.
+
+The student went a step further by converting these elements into a well-structured
+pseudocode, reflecting their solid understanding of decomposing tasks and managing
+different aspects of a health application. This approach enables them to handle the complex
+task of developing a health app with meticulous detail and thoroughness.
+
+
+
+
+  V2                                      8
+The weaker student has primarily attempted to decompose the complex task of developing
+a health application, albeit with somewhat superficial coverage of the required inputs,
+processes, and outputs. The student recognized some primary inputs, such as user
+password, but should have considered other essential data like database, and security.
+
+The processes were partially outlines, with efforts to validate the user and interpret health
+data, but a lack of detailed understanding of these procedures was evident. They managed
+to identify generic outputs like simple login but overlooked the complexity of various system
+responses.
+
+In terms of algorithms, they constructed basic pseudocode that reflected some logic and
+structure, but it appeared inefficient and needed more explaining for a complex application
+like this. Their use of accepted conventions in the pseudocode was evident, but
+inconsistencies still existed.
+
+
+
+
+  V2                                      9
+V2   10
+The leaner, seen below, has proficiently articulated a test strategy for the testing phase,
+demonstrating a deep understanding of comprehensive testing techniques such as
+Whitebox and Blackbox testing.
+
+It was essential to outline which testing method was deployed at what stage during the
+artefact’s development, and the student showcased admirable preparedness in this respect.
+It’s important to note that this segment is not about developing a test plan, an entirely
+separate stage that follows once the testing strategy has been full executed.
+
+However, it was observed that students who scored lower marks often jumped ahead to
+creating test plans without giving due thought to the overall testing strategy. Such an
+approach can lead to problematic situations where the test plans are drafted after the
+testing phased has commenced. This could result in ineffective testing and possibly overlook
+critical issues in the artefact.
+
+
+
+
+  V2                                       11
+The weak example, seen below, was marked by a noticeable lack of consideration towards
+the consequences of any decisions made during the testing phase. In addition, they
+appeared to overlook the inclusion of relevant contextual data. This lack of attention to
+detail and failure to consider all aspects of the testing phase can lead to flawed testing
+strategies that don’t adequately assess the quality of the artefact.
+
+
+
+
+  V2                                     12
+Task 2
+
+In this area, students can demonstrate their understanding by providing reasoned
+justifications for the approaches used. This could include considerations such as their
+approach to a solution. They must use two different programming languages. The most
+popular languages used for this series were Python, PHP, JS and SQL, which is why specific
+server options were considered.
+
+Justifications and depth are essential, so not only writing the code on multiple parts of the
+project; this is where students can justify the decisions by adding comments on the code. It
+was also advantageous if the completed solution was either a saved package ready to
+execute or students could provide a video which must be narrated.
+
+Regarding the legal and regulatory guidelines and standards, students must demonstrate
+how the website would be viewed in different browsers, they can validate the code on the
+W3C website. This will let students know what needs to be added to view the website as
+expected, no matter which browser.
+
+We are considering using usernames and passwords, cookie notification, and two-way
+authentication for security controls. This provides evidence for legal and ethical
+considerations.
+
+Very weak examples tended to describe what had taken place instead of providing clear
+justifications for approaches taken. They tended not to add comments. The code was linear
+in structure with lots of errors and was a partially working solution.
+
+For this task, the stronger student, whose work can be seen below, has demonstrated
+outstanding proficiency in creating a prototype for the health information system, thus
+earning a Distinction. This superior performance is exhibited in their multi-language code
+efficiency, precise use of logic and programming structures, and emphasis on code
+maintainability.
+
+Implementing functional code in at least two languages showcases the student’s versatility
+and breadth of knowledge in programming. Consistent efficiency in this code points to their
+ability to select and use the most appropriate language for other aspects of the system is a
+hallmark of a highly skilled developer.
+
+The use of precise logic and programming structures through the prototype demonstrates
+the students profound understanding of algorithmic thinking and structure programming.
+This precision has resulted in consistently correct outcomes, indicating that the system
+behaves as expected under various conditions, further enhancing its reliability.
+
+Code maintainability has been a clear focus, reflecting the student’s foresight. Their
+consistent use of appropriate naming conventions facilitates understanding the code’s
+purpose and functionality. The logical organization of the code makes it easy for third
+parties to navigate and understand the structure and flow of the program. Informative
+commenting is a valuable tool they have employed proficiently, clarifying the purpose and
+function of complex code segments, making it easier for others to understand, maintain,
+and update the code.
+
+
+
+  V2                                      13
+V2   14
+V2   15
+This is an example of a weaker student. This student has tried to construct a prototype for
+health information system, thus completing the task. This initial effort is visible in their
+attempt to write code in more than one language, use logic and programming structures,
+and give some consideration to code maintainability.
+
+Their attempt to write code in two languages demonstrates the student’s willingness to
+explore different areas of programming. However, there needs to be more efficiency in the
+written code, indicating that they are in the early stages of understanding how to use the
+features of carious languages optimally. Further study and practice will likely enhance their
+ability to select and use the most fitting language for different aspects of a system.
+
+The prototype’s use of basic logic and programming structures suggests the student’s initial
+room for more precision to ensure consistently correct outcomes.
+
+There are some signs that the student knows the importance of code maintainability. Their
+use of naming conventions and code organization is essential and could benefit from further
+refinement for clarity and ease of understanding. The use of comments in the code to
+explain its purpose and function needs to be fully ultilised and should be encouraged as a
+helpful tool to enhance understanding, maintenance, and updates of the code by others.
+
+
+
+
+  V2                                      16
+In the good example below, the student has show exceptional competence in software
+testing, earning a Distinction for their work on the health information system. This
+proficiency is displayed in their selection of tests, their ability to identify and rectify
+problems, and their use of an effective iterative development process.
+
+Their chosen tests show a thorough and detailed understanding of effectively testing the
+system’s inputs, calculations, validations, and processes. They’ve intelligently employed
+different types of test data- normal data to ensure the system functions appropriately
+under usual conditions, erroneous data to check the system’s resilience and error-
+handling capabilities, and extreme data to validate the system’s behaviour under unusual
+or stressful situations.
+
+The student’s comments fully understand how they identified and rectified issues. This is
+evident in their handling of inputs, where they’ve shown a deep understanding of both
+expected and unexpected user inputs. They’ve exhibited excellent debugging skills for
+calculations, ensuring that the application’s logic always provides accurate results.
+Validation and processes have shown the ability to rectify errors, guaranteeing that the
+application checks data integrity and correctly follows the intended operational
+procedures.
+
+
+V2                                       17
+  Furthermore, the student’s testing approach provides evidence of an effective iterative
+  development process. They’ve adopted an incremental development cycle, testing each
+  change, and refining the system based on test results. This approach improves code
+  quality and makes debugging easier, underscoring the student’s understanding of
+  software development.
+
+
+
+
+In this weaker example, it was evident that the leaner leaned heavily on the Integrated
+Development Environment (IDE) to spot syntactic errors, but their efforts often halted at this
+point. This over-reliance on the IDE led to a superficial engagement with the code, limiting
+their ability to identify or rectify deeper functional issues.
+
+They didn’t display an awareness of the broader functionality of the code, such as testing
+inputs and outputs and the integral role of validation and verification processes in assuring
+the codes functionality. The absence of this critical understanding stunted their ability to
+maintain a clear record of the actions undertaken to address the issues they encountered.
+
+
+
+
+  V2                                      18
+V2   19
+Task 3a
+
+This example is of a strong student. Their review of the effectiveness of the selected content
+was comprehensive and meticulous. They demonstrated a profound understanding of the
+importance of choosing appropriate assets and sourcing reliable and valid information.
+Moreover, they understood the legal and ethical implications of using the identified assets.
+
+Their review was well-supported, with practical considerations, comparisons, and
+corroboration across multiple sources, underscoring their analytical skills and attention to
+detail.
+
+The student also conducted a thorough and detailed evaluation of the prototype,
+considering how well it meets the functional and non-functional requirements of the system,
+key performance indicators (KPIs), and user acceptance criteria. This holistic evaluation
+approach indicated the student’s ability to assess their work from multiple perspectives and
+against various criteria. It highlights their ability to not only meet the explicit requirements of
+the system but also to consider broader factors such as user experience, system
+performance, and alignment with project objectives.
+
+
+
+
+  V2                                        20
+V2   21
+The stronger student has successfully developed a prototype and deployed various tools to
+collect high-quality feedback on different system elements. This satisfactory performance
+has allowed for a constructive feedback loop that consistently offers opportunities for
+evidence-based improvements.
+
+Their approach to gathering feedback shows that the student knows the value of continuous
+evaluation and the role of end-user experience in system development. The application of
+various tools has proven successful in facilitating the capture of high-quality feedback,
+demonstrating their competent understanding of user experience testing methods.
+
+  V2                                    22
+The feedback collected has consistently provided the student with valuable insight, driving
+iterative improvements to the prototype. Their capability to integrate feedback and iterative
+on their work underscores a vital strength in modern development environments-
+adaptability. The students focus on evidence-informed enhancements displays a
+commendable commitment to data-driven decision-making and a deep understanding of
+the iterative development process.
+
+This is an example of a weaker student. They have attempted to create a prototype
+incorporating some mechanisms for gathering feedback, although these still need to capture
+high-quality insights effectively. This preliminary step demonstrates an initial understanding
+of the importance of user feedback in system development, but there is room for significant
+improvement.
+
+The tools used by the student in their current approach have resulted in feedback of only
+adequate quality. This suggests that their understanding of the role of end-user experience
+in system development is in its early stages. Further refinement of their feedback-gathering
+methods could result in more insightful and actionable input.
+
+The quality of feedback collected thus far indicates that the student may need to understand
+better and implement practical tools and strategies to gather detailed user responses.
+Focusing on this area would likely lead to more comprehensive feedback and, thus, more
+precise direction for improvements to their prototype.
+
+
+
+
+  V2                                      23
+V2   24
+Task 3b
+
+Students are responsible for providing the resources used in the project and verifying their
+authenticity. They must ensure all assets comply with copyright laws and justify the
+selection. The choices made should be relevant to the scenario provided, explaining why a
+specific asset was used on the website page and how it improves the user experience.
+
+The evaluation process was suitable and revealed a comprehensive understanding of the
+demands outlined in the task brief. Typically, students at this level offer evaluative
+commentary regarding the task requirements. However, on the threshold of distinction, the
+evaluations often needed to be revised to consider the user’s needs effectively.
+
+Students must recognise that user needs should be at the forefront of their design decisions
+and evaluations. The effectiveness of their work hinges on how well it caters to the end
+user’s requirements. So, while understanding the task requirements is crucial,
+understanding and considering the user’s needs in both the design and evaluation stages is
+equally essential.
+
+The student work below is an example of a strong response. The appropriateness of the
+assets selected was duly evaluated. The student displayed an ability to critically analyse the
+relevance and suitability of these resources within the context of the task. Their
+understanding of how each asset contributes to the whole and their ability to select the
+most fitting ones for their project suggests a strong grasp of content curation.
+
+Regarding the validity and reliability of the sources, the student has shown a rigorous
+approach. They have exhibited a good understanding of how to discern credible information
+from less reliable sources, ensuring the data used was current and of a high standard. This
+demonstrated their ability to distinguish between reputable sources and those that may be
+biased or incorrect.
+
+The student also considered the identified assets’ legal and ethical implications. They
+showed an awareness of copyright laws, permissions, and the ethical aspects of using
+others’ work, ensuring that all assets were used legally and ethically in the context of their
+project. This demonstrated a responsible approach towards the use of third-party materials
+and a respect for intellectual property rights.
+
+
+
+
+  V2                                       25
+This response is from a weaker student. This student, with limited expertise, has provided a
+fundamental assessment of the initial model, discussing its compliance with practical and
+non-practical prerequisites, important performance metrics and criteria for user approval.
+
+Regarding functional and non-functional requirements, the student has carried out a cursory
+examination of how the prototype aligns with these factors. They’ve provided an initial
+understanding of how well the system performs specific tasks (functional requirements) and
+evaluated system attributes like reliability and usability (non-functional requirements).
+However, the evaluation could benefit from a more in-depth and nuanced analysis to fully
+understand how well the prototype meets these requirements.
+
+  V2                                     26
+‘T-LEVELS’ is a registered trade mark of the Department for Education.
+‘T Level’ is a registered trade mark of the Institute for Apprenticeships and
+Technical Education.
+The T Level Technical Qualification is a qualification approved and managed by
+the Institute for Apprenticeships and Technical Education.
+‘Institute for Apprenticeships & Technical Education’ and logo are registered
+trade marks of the Institute for Apprenticeships and Technical Education.
+Pearson Education Limited is authorised by the Institute for Apprenticeships and
+Technical Education to develop and deliver this Technical Qualification.
+All the material in this publication is copyright © Pearson Education Limited 2023
+
+
+
+V2                                              27
+

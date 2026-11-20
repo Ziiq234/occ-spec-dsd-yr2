@@ -1,0 +1,759 @@
+T Level Technical Qualification in Digital Production, Design and
+Development
+
+Mark Scheme (Results)
+
+June 2022
+
+Occupational Specialism
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 1 Activity A (ii) – The Proposal
+
+
+ Indicative content and marker guidance
+
+ Students produce a proposal for a digital solution that they could develop to meet the needs of GibJohn Tutoring.
+
+ Students’ proposals should be relevant to key requirements of the                        Students’ proposals should refer to relevant risks and how they will     Students’ rationale should be relevant to current practice and/or
+ brief:                                                                                   mitigate these such as:                                                  emerging tech in the education sector such as:
+      • interactive teaching and learning resources                                            • Malicious/inappropriate use – data input validation                  • Apps and mobile devices
+      • encouraging wider learning                                                             • Intercepting data / man in the middle attacks – use of               • Video/remote instruction
+      • supporting assessment and monitoring                                                      SSL/Encryption/HTTPS.                                               • Use of AR/VR
+      • collaborative teaching and learning tools                                              • Cross site scripting – content security policy/data input
+      • accessibility features to support a wide range of users                                   validation and sanitization.                                   Students rationale should include details of the functional and non-
+      • a learning reward system                                                               • SQL Injection – Sanitising data input.                          functional requirements, key performance indicators, user acceptance
+      • gamified learning.                                                                                                                                       criteria that could be used to judge the success of a solution that they
+                                                                                          Students’ rationale should refer to wider issues which are likely to   will implement. They must be appropriate for a solution that will meet
+The Students’ proposals may refer to:                                                     include:                                                               the needs of GibJohn Tutoring.
+      • How the solution will handle data and pass it between back                            • General issues such as:
+         end and front end                                                                           o Privacy
+      • How they will address issues/needs such as:                                                  o User support
+       o Booking/managing tutoring appointments                                                      o feedback to users-errors (e.g. incorrect completion of
+       o Storing and using data to provide and enable                                                     forms, completion of transaction etc)
+           customisable revision plans
+       o Supporting and providing Digital content teaching                                    •   Potential context-specific issues such as:
+           and learning across different platforms/devices (e.g.                                     o handling of personal data
+       o Collaborative teaching and learning tools-                                                  o users likely be under 18
+           whiteboards                                                                               o copyright/intellectual property relating teaching and
+      • Different learning strategies                                                                    learning materials, videos etc.
+      • Digital content (e.g. audio, video, text, AR)                                                o ensuring materials are at the appropriate
+      • Gamified Learning                                                                                level for each user
+      • Accessibility features (e.g. alt text, resizable fonts, selectable                    •   Relevant regulations and guidelines (e.g. W3C, professional
+         color schemes) – Possible reference to W3C                                               bodies) as well as legal requirements relating to software
+      • ‘Social issues’ – e.g., integration with APIs for social media                            development and the industrial context.
+         sites, developing a website that utilises a back-end database
+         and ‘forum’, etc.
+
+
+
+
+ T Level Technical Qualification in Digital: Digital Production, Design and Development
+ Sample Assessment Material Mark Scheme
+ Pre-publication draft – April 2020
+ Assessment focus                Band 0                                           Band 1                                                       Band 2                                                       Band 3
+
+                                    0                                               1-3                                                          4-6                                                          7-9
+
+ Decomposing the                                  The proposal:                                                      The proposal:                                                The proposal:
+     problem                                           •    identifies some of the problems to be solved                    Identifies most of the problems to be solved             •   Fully identifies the problems to be solved
+                                                       •    Effectively decomposes some of the problems                     Effectively decomposes most of the problems              •   Effectively decomposes the problems identified
+                                                            identified                                                       identified
+                                                                                                                                                                                  The proposed solution would effectively:
+                                                  The proposed solution would effectively:                           The proposed solution would effectively:
+                                                                                                                                                                                      •   meet the full needs of the client and users
+                                                       •    meet some of the needs of the client and users                  meet most of the needs of the client and users           •   mitigate the potential risks
+                                                       •    mitigating some of the potential risks                          mitigate most of the potential risks                     •   address relevant regulatory guidelines and legal
+                                                       •    addressing some of the relevant regulatory guidelines           address most of the relevant regulatory guidelines           requirements, in relation to software development
+                                                            and legal requirements, in relation to software                  and legal requirements, in relation to software              and the industry.
+                                                            development and the industry.                                    development and the industry.
+
+
+                            No rewardable
+                               material
+
+
+                                                                                    1-3                                                          4-6                                                          7-9
+
+    Appreciation                                  The proposal provides limited lines of reasoning that partially    The proposal provides good lines of reasoning that mostly    The proposal provides comprehensive lines of reasoning that
+   of wider issues                                justify how:                                                       justify how:                                                 fully justify how the:
+   in the context                                      •    the recommended solution meets the needs of the              •   the recommended solution meets the needs of the          •   the recommended solution meets the needs of the
+                                                            client and users                                                 client and users                                             client and users
+                                                       •    potential risks will be mitigated                            •   potential risks will be mitigated                        •   potential risks will be mitigated
+                                                       •    the proposed solution will address relevant regulatory       •   the proposed solution will address relevant              •   the proposed solution will address relevant
+                                                            guidelines and legal requirements, in relation to                regulatory guidelines and legal requirements, in             regulatory guidelines and legal requirements, in
+                                                            software development and the industry.                           relation to software development and the industry.           relation to software development and the industry.
+                                                                                    1-2                                                          3-4                                                          5-6
+
+    Appreciation                                  The proposal provides basic definitions of:                        The proposal provides good definitions of:                   The proposal provides comprehensive and perceptive
+   of the business                                    • functional and non-functional requirements                       • functional and non-functional requirements             definitions of:
+       context                                        • key performance indicators                                       • key performance indicators                                 • functional and non-functional requirements
+                                                      • user acceptance criteria                                         • user acceptance criteria                                   • key performance indicators
+                                                                                                                                                                                      • user acceptance criteria
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 1 Activity B – The Design – The Visual/Interface Design
+
+  Indicative content and marker guidance
+
+  The design should provide details of the solution that is to be implemented by the Student. The designs should be usable by third party to implement the intended solution.
+      • layout and white space may include:
+              o clear ‘zones’ which allow user to focus on specific content
+              o Space between lines to aid readability.
+              o related information is close together but do not encroach on each other
+              o sensible breaks/separation of information to avoid overload
+              o details of reactive layouts to suit different screens/devices (e.g. mobile and desktop version)
+      • visual hierarchies may include:
+              o Sensible and appropriate use of sizing if information/items to help optimize user information
+              o Order of design elements (e.g. orders in navbars and menus) to signify significance or ‘route’ through information
+      • common conventions include:
+              o Include details of common design features which may include (but not limited to):
+                   • Common/recognizable icons (e.g. house = home)
+                   • Placement of navigation item (top or left)
+                   • Use of ‘hamburger’ button/collapsible menus for mobile layout.
+
+General ‘good’ design features to consider:
+     • Clear branding for GibJohn Tutoring
+     • Aesthetic and minimalist design
+     • Help and documentation
+     • Feedback- give good error messages, actions need reactions- things to consider error prevention, auto detection of errors, clear error notification and possible hints solving problems
+     • Use of imagery and other media to aid accessibility and understanding.
+     • Avoiding inclusion of information which is irrelevant or rarely needed.
+
+     Assessment                Band 0                                            Band 1                                                  Band 2                                                               Band 3
+        focus
+                                   0                                                1-2                                                     3-4                                                                  5-6
+
+    Effectiveness                               The proposed design interface is adequate as a result of   The proposed design interface is good as a result of the effective   The proposed design interface is excellent as a result of the
+    of the design                               reasonably effective use of:                               use of:                                                              sophisticated and highly effective use of:
+      interface                  No
+                             rewardable             ●    layout and white space                                ●   layout and white space                                           ●   layout and white space
+                               material             ●    visual hierarchies                                    ●   visual hierarchies                                               ●   visual hierarchies
+                                                    ●    common conventions.                                   ●   common conventions.                                              ●   common conventions.
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 1 Activity B – The Design –Algorithm Design
+
+ Indicative content and marker guidance
+
+ Decomposition coverage
+
+ Students should select some key processes that would be appropriate to meet the needs of GibJohn Tutoring.
+
+ Key problems may include:
+     • Handing user access e.g. Setting up an account, logging-in, changing password
+     • Collection and processing of data e.g. registration, tracking student marks, student progress through tasks
+     • Communication/data exchange between different platforms or between front-end and back-end systems e.g. analysing students marks to make recommendations, pulling in assessment data to personalise quizzes
+     • Key calculations e.g. Student log-in/study time, cost of tutoring.
+     • Data filtering and visualization e.g. Student and tutor performance, usage stats
+
+Decomposition may be shown through descriptions or visualization e.g. decomposition diagrams, navigation maps etc.
+
+ Algorithms
+
+ Maybe in the form of flowcharts, pseudocode, data flow diagrams, static and dynamic model diagrams or a combination of all three.
+
+ Expected features of algorithm design may include:
+     • the steps are clearly defined and depend on the input and the result of the preceding steps
+     • the algorithm stops after a finite number of instructions are executed, two key constructs iterate and decide
+     • the value/data for input is clearly identified and can be traced
+     • type of output is clearly defined e.g., display to screen, physical printout, return value from a function
+     • logic of the algorithm is accurate
+     • data flow is complete e.g. flow diagram doesn’t end unexpectedly, loops as appropriate etc.
+     • correct use of symbols
+     • Links to data, libraries and other resources clearly identified e.g. API, CSV, or Database file
+     • Sensible names for functions, variables etc.
+     • Use of keywords e.g. IF…THEN. WHILE….
+     • Indentation to aid readability and show logical dependency
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+  Assessment focus                       Band 0                                            Band 1                                                Band 2                                                Band 3
+
+                                             0                                                1                                                   2-3                                                     4
+
+                                                                    Basic decomposition of the identified problems      Good decomposition of the identified problems           Highly effective decomposition of the identified
+    Decomposition                                                   that superficially cover the required:              that sufficiently cover the required:                   problems that comprehensively cover the
+     of problem                                                         • inputs                                            • inputs                                            required:
+                                                                        • processes                                         • processes                                             • inputs
+                                                                        • outputs                                           • outputs                                               • processes
+                                                                                                                                                                                    • outputs
+                                                                                             1-2                                                  3 -4                                                 5-6
+
+                                                                  Algorithms would produce some correct outcomes as    Algorithms would produce mostly correct outcomes as     Algorithms would produce consistently
+                               No rewardable material
+                                                                  a result of:                                         a result of:                                            correct outcomes as a result of:
+
+                                                                         •   some precise logic                             •   mostly precise logic                                •   precise logic
+    Application of                                                       •   some appropriate structure and sequence        •   appropriate structure and sequence but which        •   efficient structure and sequence.
+   logical thinking                                                          which is likely to be inefficient.                 may lack efficiency.
+   and conventions
+                                                                  Some effective use of accepted conventions           Mostly effective use of accepted conventions though     Effective and consistent use of accepted conventions
+                                                                  although inconsistencies still exist.                some minor inconsistencies may still exist.
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 1 Activity B – The Design – The Data Requirements
+
+ Indicative content and marker guidance
+ Data design maybe in the form of:
+
+      •    data dictionaries,
+      •    entity-relationship diagrams,
+      •    data flow diagrams,
+      •    static and dynamic model diagrams or a combination as appropriate to describe the planned solution
+
+Note – data normalisation may not be required depending on the identified/proposed solution.
+
+Data considered should be appropriate for the needs of GibJohn Tutoring which may include:
+   • Lerner and tor details
+   • Schedules and calendars for lessons
+   • Lerner marks
+   • Tutor mark books
+   • Progress data
+   • Usage stats
+
+
+ The design should show an understanding of error handling procedures which may include:
+   • Data validation rules
+   • Input masks
+   • Type casting
+   • Feedback to user/error messages
+   • Limiting field/variable length
+
+
+    Assessmen                Band 0                                              Band                                                     Band                                                         Band
+       t Focus                                                                     1                                                        2                                                            3
+                                 0                                                1-2                                                      3-4                                                          5-6
+                                              Data requirements for the proposed solution are          Data requirements for the proposed solution are mostly           Data requirements for the proposed solution are fully
+                                              somewhat appropriate, including (as required):           appropriate, including (as required):                            appropriate, including (as required):
+
+                                                   •    variables                                           •   variables                                                   •    variables
+                                                   •    data structures                                     •   data structures                                             •    data structures
+                                                   •    data types                                          •   data types                                                  •    data types
+   The design of              No
+     the data              rewardabl          Naming conventions used are mostly appropriate but       Naming conventions used are appropriate and mostly consistent.   Thoroughly appropriate and consistent naming conventions are
+                                              are inconsistent.                                                                                                         used throughout.
+   requirement             e material
+         s                                    Effective error handling procedures are identified for   Effective error handling procedures are identified for           Thoroughly effective error handling procedures are identified for
+                                              some inputs/processes that require them.                 most inputs/processes that require them.                         the inputs/processes that require them.
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 1 Activity B – The Design – The Test Strategy
+
+  Indicative content and marker guidance
+
+  Students produce a strategy of how they will test the for a digital solution that they intend to develop.
+
+
+The test schedule should cover:
+
+     •       understanding of how components interrelate. This may include:
+                  o   description of modules/functions that feed data into the component being tested
+                  o   understanding of how correct/incorrect data form one part may impact on the component being tested
+                  o   transition between unit testing and integration testing
+                  o   Functional, non-functional and front end testing
+         •    the order in which components should be tested: This may cover:
+                  o   identification of pre-requisites and dependencies
+
+         •    the types of tests/testing techniques that are required to test the student’s solution such as:
+                  o   Acceptance testing.
+                  o   Alpha testing.
+                  o   Beta testing.
+                  o   Black box testing.
+                  o   White box testing/structural testing
+
+  Assessment              Band 0                                             Band 1                                                       Band 2                                                     Band 3
+     focus
+                             0                                                  1-2                                                         3-4                                                       5-6
+
+      Test                                The test strategy demonstrates a basic understanding of:          The test strategy demonstrates a good understanding of:   The test strategy demonstrates a thorough and detailed understanding
+    strategy               No                                                                                                                                         of:
+                                               •    how components interrelate                                  •   how components interrelate
+                       rewardable              •    the order in which components should be tested              •   the order in which components should be tested          •   how components interrelate
+                         material              •    the types of tests that are required.                       •   the types of tests that are required.                   •   the order in which components should be tested
+                                                                                                                                                                            •   the types of tests that are required.
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 1 Activity B – The Design – The Design Documentation
+
+ Indicative content and marker guidance
+
+ Appropriateness of communication of the design:
+
+      •    suitability for the intended audience
+      •    clarity
+      •    use of technical language
+      •    choice of tools / how information is presented.
+
+
+                                                                                    1-2                                                      3-4                                                                 5-6
+
+      Quality of                                Some effective communication of the design as a result of:    Mostly effective communication of the design as a result of:       Communication of the design is consistently effective as a result
+    communication                 No                                                                                                                                             of:
+                              rewardable            •    some use of appropriate techniques, methods and          •   the use of mostly appropriate techniques, methods and
+                                material                 formats                                                      formats                                                        •   the use of consistently appropriate techniques, methods
+                                                    •    some use of technical language that is appropriate       •   the use of technical language that is mostly appropriate           and formats
+                                                         for the intended audience                                    for the intended audience                                      •   the use of technical language that is consistently
+                                                                                                                                                                                         appropriate for the intended audience
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 2 – Developing the solution
+The solution
+
+ Indicative content and marker guidance
+
+ Students demonstrate use of code to produce a solution that includes front-end and back-end processes to meet the needs of GibJohn Tutoring.
+
+ Functionality:
+                                                                                                                      User Experience considerations:
+    ● Must demonstrate the use of two different languages, e.g. JS and PHP or SQL. Python and SQL etc.
+                                                                                                                         ● Inputs form the user are handled appropriately such as:
+    ● Use of logic and programming structure should be appropriate for the chosen language such as:
+                                                                                                                              o invalidation and sanitization
+        o Modularisation
+                                                                                                                              o ease of user input e.g. GUI features, input masks
+        o Appropriate interrelation of arts pf the program e.g. modules pass the correct data between each
+                                                                                                                              o well-designed interface including UI/UX feaures:
+             other, front-end and back-end processes have sufficient separation.
+                                                                                                                                  • Useful – does it meet the needs of the user? Are outputs etc. accurate
+        o Suitable use of programming structures (sequence, selection and iteration) to solve problems in an
+             efficient manner.                                                                                                    • Usable – is it easy to use / intuitive?
+        o complex data models in database interlinking more than one table                                                        • Desirable – is it aesthetically pleasing? Does it represent a brand? Consistency.
+        o Web service APIs and parsing JSON/XML to service a complex client- server model                                         • Findable – is it easy to navigate around and find the required
+    ● Examples of efficiency may include:                                                                                ● user guidance and error messages ensure that the product is easy to use and helpful
+        o Avoidance of very linear structures to more logically and efficient approach e.g. the use of function and          which may include:
+             procedures                                                                                                       o   Short and meaning full error messages (avoid jargon)
+        o OOP design features (classes, inheritance etc.)                                                                     o   Provides information about solution/corrective action that can be taken by the user
+        o Recursive algorithms – reminder that if used in PHP here must be a mechanism (IF statement, etc.) that              o   Help/instructions and/or meaningful feature labels to reduce errors
+             stops the recursion after the desired result has been found                                                 ●   A robust solution which may include:
+        o Loading data only when necessary                                                                                    o   good exception handling that can deal with unexpected or incorrect outputs
+                                                                                                                              o   “fall back” code to deal with different systems and platforms without crashing
+Note – data normalisation may not be required depending on the identified/proposed solution                                   o   Appropriate use of validation
+
+The program should ensure correct outcomes to meet the needs of GibJohn tutoring for example:
+     ● Handing user access e.g. Setting up an account, logging-in, changing password                               Legal and regulatory guidelines and Standards
+     ● Collection and processing of data e.g. registration, tracking student marks, student progress through tasks
+     ● Communication/data exchange between different platforms or between front-end and back-end systems e.g.           ● Accessibility has been considered and there should be evidence that their design takes
+        analysing students marks to make recommendations, pulling in assessment data to personalise quizzes                 different users in to account such as:
+     ● Key calculations e.g. Student log-in/study time, cost of tutoring.                                                    o Selectable accessibility features (e.g. adjustable fonts, colours etc.)
+     ● Data filtering and visualization e.g. Student and tutor performance, usage stats                                      o Sensible font and colour base colour selection
+                                                                                                                      •Compatibility with different platforms has been considered (where appropriate) which may include:
+                                                                                                                             o Creating a standalone/self-contained program
+Code organisation:                                                                                                           o Implementation of web-standards / program is accessible through a web browser
+                                                                                                                             o “fall back” code to deal with different systems and platforms
+     ● Students should avoid multiple pages of nested if clauses and unnecessary repeated code that could more          ● legal and ethical considerations considered as appropriate to their solution which may
+        effectively be implemented as a called function                                                                     include:
+     ● Clear and meaningful indentation                                                                                      o Cookie consent notice
+     ● Code should consist of pieces of logic, classes, or objects, with proper structure.                                   o GDPR considerations
+     ● Comments should be used wherever possible to help explain the logic                                                   o Privacy and data policy/informing the user
+     ● Good use of local variables and minimal use of global variables                                                       o Intellectual property consideration (see asset log)
+     ● Use of constants                                                                                                      o Terms and conditions
+     ● consistent style throughout
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+  Assessment               Band 0                                Band 1                                       Band 2                                       Band 3                                   Band 4
+     focus
+                               0                                   1-2                                          3-4                                         5-6                                       7-8
+
+ Functionality                             The prototype implements code in a            The prototype implements code with        The prototype implements mostly               The prototype implements consistently
+                                           single language with some                     some functionality in at least two        efficient functional code in at least two     efficient functional code in at least two
+                                           functionality but the code lacks              different languages but the code lacks    different languages, but some minor           different languages.
+                                           efficiency and some major errors              efficiency and some major errors          errors still persist.
+                                           persist.                                      persist.
+
+                                           Uses some precise logic and                   Uses sufficient precise logic and         Uses mostly precise logic and                 Uses precise logic and programming
+                                           programming structures which                  programming structures which would        programming structures which would            structures throughout which would
+                                           would result in some correct                  result in adequate correct outcomes.      result in mostly correct outcomes.            result in consistently correct outcomes.
+                            No             outcomes
+                        rewardable
+                          material
+                                                                   1-2                                          3-4                                         5-6                                       7-8
+
+     Code                                  Code is maintainable by a third               Code is maintainable by a third party,    Code is maintainable by a third party, and    Code is easily maintainable by a third
+  organisation                             party, but would present significant          but would present some difficulties       would present only a few minor difficulties   party through the use of consistently
+                                           difficulties through the use of:              through the use of:                       through the useof:                            appropriate:
+
+                                                •     inconsistent naming                    •      somewhat appropriate naming        •   mostly appropriate naming                •    naming conventions.
+                                                      conventions.                                  conventions.                           conventions.
+                                                                                                                                                                                    •    logical organisation
+                                                •     limited logical organisation           •      Some logical organisation          •   mostly logical organisation
+                                                                                                                                                                                    •    informative commenting.
+                                                •     limited informative                    •      some informative commenting.       •   mostly informative commenting.
+                                                      commenting.
+                                                                 1-2                                            3-4                                         5-6                                         7-8
+
+      User                                 Basic user experience is provided             Adequate user experience is provided      Good user experience is provided              Excellent user experience is provided through
+   experience                              through limited effective use of:             through somewhat effective use of:        through mostly effective use of:              consistently effective use of:
+                                                • input handling
+                                                • user guidance and error                    •      input handling                     •   input handling                            •   input handling
+                                                    messages                                 •      user guidance and error            •   user guidance and error messages          •   user guidance and error
+                                                • outputs                                           messages                           •   outputs                                       messages
+                                                                                             •      outputs                                                                          •   outputs
+
+
+                                           The solution is partially robust              The solution is adequately robust and     The solution is largely robust and            The solution is fully robust and
+                                           and effectively handles some                  effectively handles sufficient common     effectively handles most common and           effectively handles common and
+                                           common errors                                 and unexpected errors                     unexpected errors                             unexpected errors
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+                                                                   1-2                                           3-4                                         5-6
+
+    Legal and                              Some effective application of                 Mostly effective application of standards   Consistent and effective application of
+   regulatory                              standards and guidelines in                   and guidelines in relation to:              standards and guidelines in relation to:
+   guidelines
+                                           relation to:
+       and                                                                                   ●   accessibility                           ●   accessibility
+   Standards                                    ●    accessibility
+                                                                                             ●   compatibility                           ●   compatibility
+                                                ●    compatibility
+                                                                                             ●   legal and ethical considerations        ●   legal and ethical considerations
+                                                ●    legal and ethical
+                                                     considerations
+
+                                           Some effective application of                 A mostly effective application of           Thoroughly effective application of
+                                           procedures and security                       procedures and security controls to         procedures and security controls to
+                                           controls to ensure                            ensure confidentiality, integrity and       ensure confidentiality, integrity and
+                                           confidentiality, integrity and                availability.                               availability.
+                                           availability.
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 2 – Developing the solution
+Testing
+
+ Indicative content and marker guidance
+
+
+Test data
+
+      ●    Suitable test data should be demonstrated (as appropriate to the student’s solution) which may include:
+           o test-specific data: influence the system behaviour and reveal the case specifics under the test
+           o test-reference data: have little influence on the test performance
+           o application reference data: irrelevant to the behaviour under test, and are needed to start the application
+           o valid test data does the system functions are in compliance with the requirements, does the system processes and stores the data as intended
+           o invalid test data: check to see if the software correctly processes invalid values, shows the relevant messages, and notifies the user that the data are improper
+           o boundary test data: help to reveal the defects connected with processing boundary values
+           o wrong data: entering the data of inappropriate format, whether it shows the correct error messages thus showing the use of validation if appropriate
+           o absent data: should check that the solution handles entering a blank field
+
+Use of testing to inform the iterative development process
+
+      ●    Learners should demonstrate how testing was used throughout the development to test and refine the solution. This may include reference to:
+           o Runtime errors that occurred when implementing code
+           o Fixing of syntax errors
+           o How logical errors were detected through the use of appropriate test data
+           o Descriptions of how issues were fixed
+           o Refinements made in the code to mitigate issues
+           o Details of regression testing
+           o Comparison of manual calculations against program calculations to ensure logic and outputs are correct
+           o Testing around boundaries to ensure logic of validation is correct
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+    Assessment                   Band 0                                           Band 1                                               Band 2                                               Band 3
+         focus
+                                     0                                              1-2                                                    3-4                                                5-6
+
+    Suitability of test                          Tests selected show a basic understanding of how to     Tests selected show a good understanding of how to       Tests selected show a thorough and detailed
+       data                                      effectively test inputs, calculations, validation and   effectively test inputs, calculations, validation and    understanding of how to effectively test inputs,
+                                                 processes using test data which makes limited use of:   processes using test data which includes:                calculations, validation and processes using test data which
+                                                     • normal data                                           • normal data                                        includes:
+                                                     • erroneous data                                        • erroneous data                                          • normal data
+                                                     • extreme data                                          • extreme data                                            • erroneous data
+                                                                                                                                                                       • extreme data
+
+
+                                                                                    1-2                                                    3-4                                                5-6
+
+    Use of testing                 No            Comments show a basic understanding of how              Comments show a good understanding of how                Comments show a comprehensive understanding of how
+    to inform the             rewardabl          errors/problems were identified and how they were       errors/problems were identified and how they were        errors/problems were identified and how they were
+        iterative             e material         rectified (as appropriate) for:                         rectified (as appropriate) for:                          rectified (as appropriate) for:
+     development
+                                                      ●    inputs                                           ●   inputs                                               ●   inputs
+        process
+                                                      ●    calculations                                     ●   calculations                                         ●   calculations
+                                                      ●    validation and processes                         ●   validation and processes                             ●   validation and processes
+
+
+                                                 Testing shows evidence of a basic iterative             Testing shows evidence of a good iterative development   Testing shows evidence of an effective iterative
+                                                 development process                                     process                                                  development process
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 2 – Developing the solution
+Documentation
+
+ Indicative content and marker guidance
+
+
+      ●    The Student should provide information regarding the development process they followed it may include:
+           o a commentary on the changes they have made and features included in the solution
+           o a change log detailing significant changes at each stage of development
+           o information relating to how testing outcomes impacted on changes made
+
+      ●    The student commentary should provide justification as to why changes where made which may refence:
+           o Outcomes of testing in relation to the needs of GibJohn Tutoring
+           o More efficient solutions that came out a result of development and/or further research
+           o Order in which requirements were dealt with e.g. why V1 focused on a specific functional requirement and other requirements were implemented later, or not implement at all.
+
+      ●    The student demonstrates appropriate use of versioning such as:
+           o Sensible and clear naming convention for each version
+           o Suitable folder structures that make each version easy to find
+           o Each version shows a notable change in the product e.g. additional functionality, error correction etc.
+
+    Assessment                Band 0                                            Band 1                                                           Band 2                                                                 Band 3
+       Focus
+                                 0                                                1-2                                                               3-4                                                                   5-6
+
+                                              A basic iterative development process is demonstrated, including:   An adequate iterative development process is demonstrated, including:   An effective iterative development process is demonstrated,
+    Quality of                                                                                                                                                                            including:
+                               No                  ●    Limited and/or superficial records of changes made            ●   Adequate recording of notable changes made throughout the
+     iterative                                          throughout the development stage                                  development stage                                                   ●   Thorough and detailed recording of notable changes made
+                           rewardable
+   development                                     ●    A superficial or vague rationale for changes made.            ●   a supported rationale for some notable changes made                     throughout the development stage
+                             material
+      process                                      ●    Some effective use of versioning                              ●   mostly effective use of versioning                                  ●   Convincing and perceptive rationales for notable changes
+                                                                                                                                                                                                  made
+                                                                                                                                                                                              ●   fully effective use of versioning
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 3 Part A – Gathering feedback to inform future development
+
+ Indicative content and marker guidance
+
+ Effectiveness of materials to support the feedback process
+                                                                                                        Use of appropriate feedback tools to support the gathering of effective feedback
+ The Student should provide evidence of having produced materials that would allow gathering of
+ effective feedback. This may include (but not limited to):                                             The Student should provide evidence of the feedback they have gathered using their materials/methods.
+                                                                                                        The evidence should show quality materials that would result in good feedback such as:
+      •    screencasts :
+           o demonstrate the prototype to both technical and non-technical audiences/users – may             •   Meaningful e.g. graphs and quantitative data
+               use two different screens (technical/non-technical) or may be in sections.
+           o could be used alongside some method of collecting feedback from the user e.g.                   •   Measurable:
+               questionnaire, interview notes to be completed during/after watching.                             o Specific metrics that can be ‘re-tested’ to measure improvement – e.g. a rating out of 10
+                                                                                                                 o Clear and specific improvements e.g. ‘Add a dark mode’ as opposed to ‘interface could be
+      •    questionnaires:
+                                                                                                                   better’
+           o use of open and closed questions to ensure a range of quantitative and qualitative
+               feedback                                                                                      •   Completeness:
+           o different sections or different questionnaires for different audiences                              o Focuses on specific aspects of the solution as required
+           o relevant questions that consider different aspects of the solution (appropriate for the             o Covers all relevant aspects of the solution
+               targeted tester/user)                                                                             o Systematically works through aspects of the solution to ensure coverage
+      •    records of observation of users:
+           o observation of people using the product                                                         •   Consistency:
+           o identification of ‘pain points’                                                                     o Consistent approach to collecting data e.g. guidance/form so observations are all
+           o Types of observation may include – structured, unstructured, participant observation.                  comparable
+      •    paired coding review records.                                                                         o Use of follow up questions/interviews to ensure validity of responses to remove
+           o Technical review of code from an experienced coder                                                     misinterpretation
+           o Identify issues that may not show up in testing e.g. efficiency, quality of commenting,
+               code structures, alternative solutions                                                   Additional guidance – judgments should be made based on the quality of the materials and not just the
+                                                                                                        quality of the feedback e.g. is the feedback good because the materials ensured it would be of high quality
+                                                                                                        and not because the test user knew how to give good feedback.
+
+
+
+ Different audiences and users.
+The Student should gather feedback form a range of appropriate users and/or testers for the GibJohn services which may include:
+     • range of ages and abilities e.g. primary school, secondary school, tutors
+     • programming professionals
+     • parents
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Assessment focus              Band 0                                Band 1                                         Band 2                                          Band 3                                        Band 4
+
+                                  0                                    1-3                                           4-6                                             7-8                                          9-12
+
+ Effectiveness of                              The materials would allow for the gathering     The materials would allow for the gathering of    The materials would allow for the gathering   The materials would allow for the gathering
+                               No              of limited quality feedback for different       adequate quality feedback for different aspects   of good-quality feedback for different        of high-quality feedback for different
+   materials to
+                           rewardable          aspects of the developed prototype              of the developed prototype                        aspects of the developed prototype            aspects of the developed prototype.
+   support the
+                             material
+feedback process
+
+                                  0                                    1-2                                           3-4                                             5-6
+
+      Use of                                   The use of the tools has resulted in feedback   The use of the tools has resulted in feedback     The use of the tools has resulted in
+   appropriate                                 that provides some opportunity for evidence-    that mostly provides the opportunity for          feedback that consistently provides the
+feedback tools to              No              informed further iteration                      evidence-informed further iteration.              opportunity for evidence-informed further
+                                                                                                                                                 iteration.
+   support the             rewardable
+  gathering of               material
+    effective
+    feedback
+
+                                  0                                    1-2                                          3-4                                             5-6
+
+ Effectiveness of No rewardable                Quality of communication is only                The quality of communication is mostly            The quality of communication is
+ communication material                        sometimes effective for both technical          effective for both technical and non-             effective for both technical and non-
+                                               and non-technical audiences as a result         technical audiences as a result of the use        technical audiences as a result of the
+                                               of limited use of appropriate techniques,       of mostly appropriate techniques,                 consistent use of appropriate
+                                               methods and formats                             methods and format                                techniques, methods and formats
+
+                                               Limited use of technical language that is       The use of technical language that is             The use of technical language that is
+                                               appropriate for the intended audience           mostly appropriate for the intended               consistently appropriate for the
+                                                                                               audience                                          intended audience
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+Task 3 Part B– Evaluating feedback to inform future development
+
+
+ Indicative content and marker guidance
+
+Effectiveness of assets and content                                                                                                 Evaluation of project outcomes
+The Student should provide an evaluation of the assets and content within their prototype.                                          The Student should provide an evaluation of the final product against measurable criteria defined in the proposal
+     • appropriateness of the assets selected which may include:                                                                    generated in Task 1.
+         o 3rd party data (e.g., to simulate customer data)                                                                         The evaluation should include:
+         o Multimedia content (e.g., Tutorial videos, images)                                                                            • Review of
+         o Snippets of pre-written code                                                                                                      o the extent to which functional and non-functional requirements have been met
+         o Any other appropriate information (e.g., tutor information).                                                                      o data to compare outcomes to key performance indicators (as appropriate)
+     • validity and reliability of the sources used which may consider:                                                                      o the extent to which user acceptance criteria have been met
+         o primary and secondary information and data
+         o websites used – e.g. is the subject information likely to be accurate, is it up to date etc                                   •   Consideration of potential developments/improvements supported by:
+         o information that is realistic/suitable for the scenario – e.g tutoring prices                                                     o Identification of how far requirements have been met
+         o consideration of bias                                                                                                             o Feedback form test users
+     • legal and ethical implications of using the identified assets, which may consider:                                                    o Clear explanation of why an improvement should be made (with reference to feedback and the needs
+         o copyright of content and IP                                                                                                          of GibJohn tutoring and its stakeholders).
+         o security and privacy of data and information e.g. GDPR, encryption, Privacy and data policy/informing
+             the user                                                                                                                    •     examples taken form their prototype and specific feedback extracts from feedback provided by test users.
+         o representation – e.g. range of gender, ethnicity, not conforming to/reinforcing stereotypes
+         o Accessibility
+         o Cookie consent notice
+         o Terms and conditions
+
+    Assessment                Band 0                                              Band 1                                                           Band 2                                                                Band 3
+       Focus
+                                 0                                                  1-2                                                              3-4                                                                   5-6
+
+   Effectiveness                              A limited review of the content selected, including superficial     A good review of the effectiveness of the content selected, including   A comprehensive review of the effectiveness of the content
+   of assets and                              consideration of the:                                               good consideration of the:                                              selected, including thorough consideration of the:
+      content
+                                                    ●    appropriateness of the assets selected                       ●   appropriateness of the assets selected                              ●   appropriateness of the assets selected
+                                                    ●    validity and reliability of the sources used                 ●   validity and reliability of the sources used                        ●   validity and reliability of the sources used
+                               No
+                                                    ●    legal and ethical implications of using the identified       ●   legal and ethical implications of using the identified              ●   legal and ethical implications of using the identified
+                           rewardable
+                                                         assets.                                                          assets.                                                                 assets.
+                             material
+                                              The review is only sometimes supported by superficial               The review is mostly supported by good consideration, comparison        The review is well supported by effective consideration,
+                                              consideration, comparison and corroboration across multiple         and corroboration across multiple sources.                              comparison and corroboration across multiple sources.
+                                              sources.
+
+
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+                                                                                    1-3                                                            4-6                                                          7-9
+
+                                              A basic or superficial evaluation of how well the prototype meets:   A good evaluation of how well the prototype meets:          A thorough and detailed evaluation of how well the prototype
+                                                                                                                                                                               meets:
+                                                   ●    functional and non-functional requirements of the              ●   functional and non-functional requirements of the
+                                                        system.                                                            system.                                                 ●    functional and non-functional requirements of the
+                                                   ●    key performance indicators (KPIs)                              ●   key performance indicators (KPIs)                            system.
+                                                   ●    user acceptance criteria for the proposed system.              ●   user acceptance criteria for the proposed system.       ●    key performance indicators (KPIs)
+                                                                                                                                                                                   ●    user acceptance criteria for the proposed system.
+   Evaluation of
+                         No rewardable
+      project                                 Basic and/or simplistic rationale for future iteration is            Good rationale for future iteration is provided.            Convincing and perceptive rationale for future iteration is
+                            material
+    outcomes                                  provided.                                                                                                                        provided.
+
+                                              Points made are supported by limited relevant:                       Points made are supported by mostly relevant:               Points made are supported by an entirely relevant and
+                                                                                                                                                                               perceptive:
+                                                   •    selection of examples                                          •   selection of examples
+                                                   •    consideration of feedback.                                     •   consideration of feedback.                              •    selection of examples
+                                                                                                                                                                                   •    consideration of feedback.
+
+
+
+
+‘T-LEVELS’ is a registered trade mark of the Department for Education.
+‘T Level’ is a registered trade mark of the Institute for Apprenticeships and Technical Education.
+The T Level Technical Qualification is a qualification approved and managed by the Institute for Apprenticeships and Technical Education.
+‘Institute for Apprenticeships & Technical Education’ and logo are registered trade marks of the Institute for Apprenticeships and Technical Education.
+Pearson Education Limited is authorised by the Institute for Apprenticeships and Technical Education to develop and deliver this Technical Qualification.
+All the material in this publication is copyright © Pearson Education Limited 2022
+
+
+T Level Technical Qualification in Digital: Digital Production, Design and Development
+Sample Assessment Material Mark Scheme
+Pre-publication draft – April 2020
+

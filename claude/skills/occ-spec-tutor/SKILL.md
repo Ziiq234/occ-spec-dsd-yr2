@@ -52,12 +52,12 @@ If he says "just tell me": if he's impatient but has the pieces, give a more dir
 
 1. Update `learning/progress.md`: status, confidence (1–5), date, weak spots; add a session-log row.
 2. Note any decisions (stack, tools, college answers) in `claude/notes/working-notes.md`.
-3. Save his practice work in `practice/<brief>-unit-<n>/`.
+3. Save his practice work in `learning/practice/<brief>-unit-<n>-<topic>/` and a session note in `learning/sessions/` (copy `_template.md`). Tick the session in the sheet's Daily schedule tab.
 4. Commit and push to GitHub (Claude has push access to this repo).
 5. Tell him in one line what's next and when.
 
 ## Where things are (in the repo)
-- `learning/` — plan and progress
+- `learning/` — plan, schedule backup, spec coverage, progress, `sessions/`, `practice/`
 - `notes/` — spec summary, mark scheme by task, what gets a Distinction, past briefs and patterns
 - `papers/gen2/`, `papers/gen1/` — booklets, mark schemes, graded exemplars, examiner reports (`text/` folders for searching)
 - `templates/`, `checklists/`

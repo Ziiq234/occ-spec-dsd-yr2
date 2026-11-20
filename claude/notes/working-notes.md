@@ -9,7 +9,7 @@
 - Database idea: Docker instead of phpMyAdmin / full SQL Server install, because a full install clogs the main PC.
 - Wants everything kept for reference; prefers to be given git commands after checking changes.
 
-- Study days: **Tue, Wed, Fri evenings only** (works late Mon/Thu, no weekends). Live schedule: Learning Plan sheet https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg (tabs: Daily schedule, Learning plan, AI rules). First session Tue 24 Nov 2026; mock 2–5 Mar 2027.
+- Study days: **Tue, Wed, Fri evenings only** (works late Mon/Thu, no weekends). Live schedule: Learning Plan sheet https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg (tabs: Daily schedule, Learning plan, Spec coverage, AI rules). First session Tue 24 Nov 2026; mock 2–5 Mar 2027.
 
 ## Facts worth not re-researching
 - Permitted languages: Python 3.10+, C#, SQL, JavaScript, PHP (at least two).
@@ -27,6 +27,10 @@
 - College: allowed IDEs, design tools (draw.io / Figma / Lucidchart?), hosting, Docker on college PCs?
 - Tech stack choice (leaning C# or Python + SQL + a JS front end?) — not decided.
 - Does Gen 2 allow research notes brought into sessions (Gen 1: facts and figures only, submitted as appendix)?
+
+## Learning set-up
+- Tutor skill: occ-spec-tutor (saved). Sessions ~1 hr 30, Tue/Wed/Fri. Practice work → learning/practice/, notes → learning/sessions/.
+- Unit 32 (change, maintenance, user support) added after checking spec 8.1–8.4.
 
 ## Research doc
 https://claude.ai/artifact/VDVWhnZ2MCrRWJzobVTwSo

@@ -1,8 +1,8 @@
 # Occ Spec DSD Yr 2
 
-Everything for my **T Level Digital Software Development (Gen 2) Occupational Specialism** — the three supervised tasks running March–May 2027.
+Prep for my **T Level Digital Software Development (Gen 2) Occupational Specialism**: three supervised **tasks**, March–May 2027, 144 marks. **Aim: Distinction.**
 
-> ⚠️ Keep this repo **private**. The past papers in `papers/` are Pearson / DfE copyright and are here for personal study only.
+> ⚠️ Keep this repo **private**. The past papers in `papers/` are Pearson / DfE copyright, here for personal study only.
 
 ## Key dates (2027)
 
@@ -14,40 +14,59 @@ Everything for my **T Level Digital Software Development (Gen 2) Occupational Sp
 
 \* 24 Apr is a Saturday — check with college whether it's Mon 26 Apr.
 
-**144 marks total · ~50.5 supervised hours · set and marked by Pearson · 50% of the T Level.**
+## Start here
 
-## What's in here
+1. **[`learning/`](learning)** — the learning plan, schedule, progress and practice work. Sessions are Tue/Wed/Fri evenings, ~1 hr 30. Live schedule: [Learning Plan sheet](https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg).
+2. **[`notes/ai-rules.md`](notes/ai-rules.md)** — exactly where AI is and isn't allowed.
+3. **[`notes/what-gets-a-distinction.md`](notes/what-gets-a-distinction.md)** — what examiners reward and what lost marks.
+4. **[`HANDOFF.md`](HANDOFF.md)** — one-page summary of everything; paste into any new Claude chat.
 
-| Folder / file | What it is |
-|---|---|
-| [`HANDOFF.md`](HANDOFF.md) | One-page summary of everything worked out so far — paste into a new Claude chat to pick up where we left off |
-| [`CLAUDE.md`](CLAUDE.md) | Instructions Claude reads automatically when working in this repo |
-| [`papers/gen2/`](papers/gen2) | Gen 2 past papers: **SAM** (ToKa Fitness) and **AdSAM** (Netheret IT Support) — task booklets, mark schemes, Word log templates, plus plain-text copies in `text/` |
-| [`papers/gen1/`](papers/gen1) | Gen 1 papers 2022/2023/2025, mark schemes, **graded Pass and Distinction exemplars**, lead examiner reports, admin guide |
-| [`notes/`](notes) | **What gets a Distinction**, past briefs and patterns, specification summary, mark scheme by task, lessons from a past project, database plan |
-| [`templates/`](templates) | Markdown starters for requirements, data dictionary, style guide, AI log, test log, change and source log, plus file naming rules |
-| [`checklists/`](checklists) | Tick-lists for each task, built from the mark scheme |
-| [`docker/`](docker) | Practice database setup (SQL Server / PostgreSQL in Docker) with a SQLite fallback plan |
-| [`practice/`](practice) | My practice runs on the past briefs |
-| [`learning/`](learning) | **Learning plan to Distinction** (week by week to 9 March) and progress tracker |
-| [`claude/`](claude) | Claude's own space — skills and working notes it keeps for future sessions |
+## How the repo is organised
+
+```
+occ-spec-dsd-yr2/
+├── README.md              ← you are here
+├── HANDOFF.md             ← full summary for any new chat
+├── CLAUDE.md              ← rules Claude follows in this repo
+│
+├── learning/              ← MY LEARNING — plan, schedule, progress, sessions, practice
+│   ├── learning-plan.md       units 0–32 and what "done" looks like
+│   ├── daily-schedule.csv     40 timed sessions (backup of the sheet)
+│   ├── spec-coverage.md       spec 1.1–8.4 → units → where it's marked
+│   ├── progress.md            status + confidence tracker
+│   ├── sessions/              one note per session
+│   └── practice/              my practice work, one folder per unit
+│
+├── notes/                 ← WHAT I NEED TO KNOW — written summaries
+│   ├── ai-rules.md                  exact AI rules per task
+│   ├── what-gets-a-distinction.md   lessons from graded exemplars + examiner reports
+│   ├── mark-scheme-by-task.md       Gen 2 marks, task by task
+│   ├── specification-summary.md     the spec, Gen 1 vs Gen 2, grade boundaries
+│   ├── past-briefs-and-patterns.md  every past client and what they keep asking for
+│   ├── lessons-from-past-project.md Archie's 2023 Pass project reviewed
+│   └── database-plan.md             Docker database + SQLite fallback
+│
+├── papers/                ← SOURCE MATERIAL — official papers (read-only)
+│   ├── gen2/   SAM (ToKa Fitness) + AdSAM (Netheret): booklets, mark schemes, log templates
+│   └── gen1/   2022 GibJohn, 2023 Health Advice, 2025 Rolsa; Pass + Distinction exemplars; examiner reports
+│               (each has a text/ folder of plain-text copies for searching)
+│
+├── templates/             ← STARTERS — requirements, data dictionary, style guide, AI log, test log, change/source log, file names
+├── checklists/            ← TICK-LISTS — one per task, from the mark scheme
+├── docker/                ← PRACTICE DATABASE — docker-compose for SQL Server / PostgreSQL
+│
+└── claude/                ← CLAUDE'S SPACE — working notes, session log, skills
+    ├── notes/
+    └── skills/occ-spec-tutor/
+```
 
 ## The one thing to remember
 
-The **requirements, KPIs and user acceptance criteria written in Task 1** are what Task 3 is marked against. Make them specific and measurable in March, or they cost marks again in May.
-
-## Start here
-
-0. `learning/learning-plan.md` — the plan, and `notes/ai-rules.md` — exactly where AI is allowed
-1. `notes/what-gets-a-distinction.md` — what examiners reward and what lost marks
-2. `notes/past-briefs-and-patterns.md` — every past client and the features they keep asking for
-3. `notes/mark-scheme-by-task.md` — Gen 2 marks task by task
-4. `checklists/task-checklists.md`
+The **requirements, KPIs and acceptance criteria written in Task 1** are what Task 3 is marked against. Make them specific and measurable in March, or they cost marks again in May.
 
 ## To do
 
-- [x] Add Gen 1 past papers to `papers/gen1/`
-- [ ] Confirm with college: languages/IDEs, design tools, hosting, Docker on college PCs, Task 3 start date
-- [ ] Practise ERDs, data dictionary, wireframes and a style guide on a past brief
-- [ ] Practise an AI log (prompts → critical review → refinement)
-- [ ] Set up the Docker database at home with a SQLite fallback
+- [x] Gen 2 and Gen 1 past papers, exemplars and examiner reports
+- [x] Learning plan, timed schedule, spec coverage, tutor skill
+- [ ] Confirm with college: AI tool provided, languages/IDEs, design tools, Docker on college PCs, Task 3 start date, whether research notes can be brought in
+- [ ] First session: Tue 24 Nov — how the Occ Spec works + reading a brief

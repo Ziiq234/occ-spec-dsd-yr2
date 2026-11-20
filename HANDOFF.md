@@ -130,6 +130,27 @@ From the college SharePoint folder "Past Projects – Occupational Specialism" �
 
 ---
 
+## 4b. Learning plan, schedule and AI rules
+
+- **Aim:** Distinction by the time Task 1 starts (Tue 9 Mar 2027).
+- **When:** Tue, Wed and Fri evenings after college only (works late Mon and Thu, no weekends), ~1 hr 30 per session. 40 sessions, ~60 hrs, Tue 24 Nov 2026 → Fri 5 Mar 2027. Rest days: Fri 4 Dec, Fri 22 Jan, 23 and 25 Dec, 1 Jan. The only Christmas sessions are Tue 29 and Wed 30 Dec.
+- **Live schedule:** Learning Plan sheet — https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg
+  - *Daily schedule* tab: every session with a timed plan and a tick box (backup: `learning/daily-schedule.csv`).
+  - *Learning plan* tab: units 0–32 with status and confidence.
+  - *Spec coverage* tab: spec 1.1–8.4 → units → where it's marked (backup: `learning/spec-coverage.md`).
+  - *AI rules* tab.
+- **Plan and tracker in the repo:** `learning/learning-plan.md`, `learning/progress.md`.
+- **Practice brief:** Netheret (Gen 2 AdSAM) throughout; Rolsa (Gen 1 2025) for the mini mock on 2–5 Mar.
+- **Tutor skill:** `occ-spec-tutor` (saved to Jamie's skills; copy in `claude/skills/occ-spec-tutor/`). Start a session with `/occ-spec-tutor` or "let's do tonight's Occ Spec session". `/learn` also works for one-off topics.
+- **Exact AI rules** (`notes/ai-rules.md`, from the Gen 2 booklets):
+  - Task 1: AI **only** in Activity C, where it's **required** (code snippets for max 5 problems, logged with prompts, review and refinement). None for the proposal or designs.
+  - Task 2: AI only to generate **small** sections of code and to **test and debug** your own code. Not whole features, not the log write-ups. Every AI snippet goes in the source log.
+  - Task 3: no AI. 3B also has no internet.
+  - Ask college which AI tool is provided, and whether Copilot/autocomplete counts.
+- **From 9 March:** Claude only helps the way the task booklet allows.
+
+---
+
 ## 5. Decisions and ideas so far
 
 - **Database:** Archie suggested running the DB in **Docker** (e.g. SQL Server, MySQL or PostgreSQL) instead of phpMyAdmin or a full SQL Server install, which bogs down the main PC.
@@ -149,7 +170,7 @@ From the college SharePoint folder "Past Projects – Occupational Specialism" �
 
 - [x] Gen 1 past papers, exemplars and examiner reports added (`papers/gen1/`).
 - [ ] Confirm with college: allowed languages/IDEs, design tools (draw.io / Figma / Lucidchart?), hosting, Docker on college PCs, and the Task 3 start date.
-- [ ] Practise ERDs, data dictionaries, wireframes and a style guide (on the Netheret or ToKa brief).
+- [x] Learning plan and timed schedule made — see section 4b. Practice happens in `learning/practice/`.
 - [ ] Practise an AI log (prompts, then a critical review, then refinement).
 - [ ] Set up a Docker DB at home with a SQLite fallback.
 - [ ] Optional: a weekly prep plan up to 9 March.

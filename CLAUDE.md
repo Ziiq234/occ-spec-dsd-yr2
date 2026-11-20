@@ -28,4 +28,4 @@ Before 9 March 2027, help freely with *practice* on past briefs, teaching, templ
 
 ## Keeping the repo up to date
 
-When a decision is made (tech stack, tools, college answers), record it in `claude/notes/working-notes.md` and update `HANDOFF.md` if it changes the summary. Give Jamie the git commit and push commands once he has checked the change.
+When a decision is made (tech stack, tools, college answers), record it in `claude/notes/working-notes.md` and update `HANDOFF.md` if it changes the summary. Commit and push changes to GitHub (Claude has push access). For any code Jamie runs himself, push only after he has tested it.

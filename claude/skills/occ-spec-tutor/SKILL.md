@@ -53,7 +53,7 @@ If he says "just tell me": if he's impatient but has the pieces, give a more dir
 1. Update `learning/progress.md`: status, confidence (1–5), date, weak spots; add a session-log row.
 2. Note any decisions (stack, tools, college answers) in `claude/notes/working-notes.md`.
 3. Save his practice work in `practice/<brief>-unit-<n>/`.
-4. Commit, then give Jamie the push command (or push if he asks).
+4. Commit and push to GitHub (Claude has push access to this repo).
 5. Tell him in one line what's next and when.
 
 ## Where things are (in the repo)

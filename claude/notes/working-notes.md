@@ -9,6 +9,8 @@
 - Database idea: Docker instead of phpMyAdmin / full SQL Server install, because a full install clogs the main PC.
 - Wants everything kept for reference; prefers to be given git commands after checking changes.
 
+- Study days: **Tue, Wed, Fri evenings only** (works late Mon/Thu, no weekends). Live schedule: Learning Plan sheet https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg (tabs: Daily schedule, Learning plan, AI rules). First session Tue 24 Nov 2026; mock 2–5 Mar 2027.
+
 ## Facts worth not re-researching
 - Permitted languages: Python 3.10+, C#, SQL, JavaScript, PHP (at least two).
 - 144 marks, ~50.5 hrs. Internet allowed except 3b. AI: Task 1C only (required), Task 2 snippets/testing only, Task 3 none.

@@ -1,7 +1,8 @@
 # Occ Spec DSD Yr 2 — Learning plan
 
 **Goal:** walk into Task 1 on **Tue 9 March 2027** able to do every marked skill without help — Distinction standard.
-**Time:** evenings. Aim for **3 sessions a week, ~1 hour each** (≈ 45 hours total). Christmas week is a light week.
+**Time:** evenings after college, **Tuesday, Wednesday and Friday only** (works late Mon and Thu; no weekends), ~1 hour each. Rest/catch-up days and a two-week Christmas break are built in.
+**Day-by-day schedule:** the "Daily schedule" tab of the Learning Plan sheet — https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg (45 dated sessions, 24 Nov 2026 → 5 Mar 2027, with tick boxes). The week headings below are the original outline; the sheet is the live schedule.
 **Practice brief:** use **Netheret IT Support** (Gen 2 AdSAM) as the running practice project, so each unit builds on the last. Use **Rolsa Technologies** (Gen 1, 2025) for the full mock in week 14.
 **Progress:** tracked in `learning/progress.md`.
 

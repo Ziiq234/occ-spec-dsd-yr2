@@ -1,0 +1,174 @@
+                 T Level Technical Qualification in Digital Software Development (Level 3)
+
+                  Additional Specimen Assessment Material
+
+                 Time 20 hours
+                                                                                          Paper
+                                                                                          reference                 XXXXX/XX
+                   Occupational Specialism: Digital
+                   Software Development
+                   TASK 2: Developing the solution
+                   Task Booklet
+                   You must have:
+                   Task2_Netheret_TestLog.docx
+                   Task2_Netheret_ChangeSourceLog.docx
+
+
+              Information
+              •• The  total mark for this set task is 48.
+                 This booklet contains material for the completion of the set task under
+                 supervised conditions.
+               • This booklet is specific to each series and this material must only be issued to
+                 students who have been entered to undertake the task in the relevant series.
+
+
+
+
+                                                                                                                                                           Continue
+
+S89989A
+Version 1.1
+1/1
+
+                                           ‘T-LEVELS’ and ‘T Level’ are registered trade marks of the Department for Education.
+                    Pearson’s development and delivery of this qualification and use of the mark is under the authority of the Department for Education.
+                                        Instructions for Students
+                      You must complete ALL activities within the assessment.
+Read the assessment information carefully.
+You must plan your time and submit all required evidence at the end of the
+supervised period.
+The task must be undertaken at the time and on the date specified by Pearson.
+You will be given 20 hours for producing the outcomes for this task.
+Your provider will advise you of when any supervised breaks have been scheduled.
+The task must be completed under supervised conditions.
+You are allowed monitored access to the internet during the scheduled
+supervised sessions.
+During this task you are not permitted to use AI or any other tool designed to automate
+producing a complete digital solution.
+However, you are permitted to use AI tools to:
+•   generate small sections of code to solve specific problems that can be integrated into
+    a larger solution
+•   automatically test and debug code you have produced.
+Files provided for use during this activity:
+•   Task2_Netheret_TestLog.docx
+•   Task2_Netheret_ChangeSourceLog.docx
+Your work and any material provided must be kept securely at all times.
+
+
+
+
+S89989A                                                                                          2
+
+                                                                                             Continue
+Task 2 Brief
+Your manager has approved you to move into the stage of developing your solution and
+has asked you to produce a prototype of the solution you have designed.
+To help you develop a functional prototype, your manager has told you to refer to the
+information provided in the brief for Task 1 (reproduced here).
+You may draw on your proposal and designs from Task 1, but if you choose to you can
+use a new proposal and designs.
+Task 1 Brief (copied from Task 1)
+Netheret IT Support Solutions currently provides IT technical support services for small
+businesses including:
+•   design and installation of IT infrastructure
+•   help desk services (Tier 1 to Tier 3)
+•   service and maintenance of existing infrastructure.
+The client (Netheret IT Support Solutions) would like to develop a digital solution
+that will:
+•   enable staff to log and manage IT support requests
+•   manage and schedule on-site support and maintenance jobs
+•   use data to provide insights into the performance of systems and teams.
+The client has carried out some research to identify features that their existing staff
+suggested could be included in the digital solution.
+The features the existing staff identified are:
+•   a knowledge base to help Tier 1 support diagnose basic issues
+•   functionality to track job progression and communicate with stakeholders
+•   accessibility features for users with additional needs
+•   customised work schedules and job briefs for Tier 2 and Tier 3 support staff.
+
+
+
+
+S89989A                                                                                        3
+
+                                                                                           Continue
+Activities
+Activity A – Developing the Solution (Suggested Time: 12.5 Hours)
+Develop a functional prototype of your proposed digital solution to meet the
+client’s needs.
+During this activity you may use the designs you generated in Task 1 to help inform the
+development of your prototype.
+You are not restricted to the designs produced in Task 1 and you may develop a
+prototype that expands and improves upon your original design.
+During development make sure that you:
+•   address front-end and back-end processes
+•   implement code in at least two appropriate programming languages
+•   gather and prepare any additional assets required to develop your digital solution
+•   make appropriate use of the code generated by AI in Task 1
+•   produce code that is maintainable by a third party
+•   ensure a high-quality user experience
+•   follow legal and regulatory guidelines.
+                                                                                          (30)
+Activity B – Documenting the Development Process (Suggested Time: 7.5 Hours)
+During development you should document key aspects of the development process.
+You are provided with these templates to help you document the development process:
+•   Task2_Netheret_TestLog.docx
+•   Task2_Netheret_ChangeSourceLog.docx
+You should include:
+•   a record of how content and code produced by others (including generative AI) have
+    been used in the solution
+•   how you used testing methods to ensure the solution met identified requirements
+•   notable changes and improvements, including:
+    –   a change log of notable development milestones
+    –   improvements and iterations made as a result of testing and debugging.
+                                                                                          (18)
+                                                                 (Total for Task 2 = 48 marks)
+
+
+
+
+S89989A                                                                                          4
+
+                                                                                             Continue
+Outcomes for submission
+1. Prototype
+   Save copies of your prototype in formats that show the front-end, back-end and
+   internal workings of your solution, including copies of key versions of:
+   •   exported/packaged/working functional prototype as appropriate to your
+       chosen languages
+   •   the source code for the functional prototype
+   •   a screencast demonstrating the front-end and back-end functionality of the final
+       version of your prototype.
+   Use any sensible folder structure and naming convention.
+2. Development documentation
+   Save your completed change and source log as a PDF in your folder for submission.
+   Use this naming convention:
+   •   Task2_ChangeSource_log_[Registration number]_[surname]_[first letter of first
+       name]
+3. Test log
+   Save your completed test log as a PDF file in your folder for submission. Use this
+   naming convention:
+   •   Task2_TestLog_[Registration number]_[surname]_[first letter of first name]
+
+
+
+
+S89989A                                                                                   5
+                                                     BLANK PAGE
+
+
+
+
+Copyright and Acknowledgements
+
+Copyright in this document belongs to, and is used under licence from the Department for Education, © 2026.
+
+‘T-LEVELS’ and ‘T Level’ are registered trade marks of the Department for Education.
+
+Pearson Education Limited is authorised by the Department for Education to develop and deliver this
+T Level Technical Qualification.
+
+Pearson and logo are registered trade marks of Pearson.
+
+S89989A                                                                                                       6
+

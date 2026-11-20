@@ -1,0 +1,206 @@
+                 T Level Technical Qualification in Digital Software Development (Level 3)
+
+                  Additional Specimen Assessment Material
+
+                 Time 18 hours
+                                                                                          Paper
+                                                                                          reference                 XXXXX/XX
+                   Occupational Specialism: Digital Software
+                   Development
+                   TASK 1: Analysing the problem and designing a solution
+                   Task Booklet
+
+                   You must have:
+                   Task1_Netheret_AILog.docx
+
+
+
+              Information
+              •• The  total mark for this set task is 54.
+                 This booklet contains material for the completion of the set task under
+                 supervised conditions.
+               • This booklet is specific to each series and this material must only be issued to
+                 students who have been entered to undertake the task in the relevant series.
+
+
+
+
+                                                                                                                                                           Continue
+
+S89988A
+Version 1.1
+1/1
+
+                                           ‘T-LEVELS’ and ‘T Level’ are registered trade marks of the Department for Education.
+                    Pearson’s development and delivery of this qualification and use of the mark is under the authority of the Department for Education.
+                                        Instructions for Students
+                      You must complete ALL activities within the assessment.
+Read the assessment information carefully.
+You must plan your time and submit all required evidence at the end of the
+supervised period.
+The task must be undertaken at the time and on the date specified by Pearson.
+You will be given 18 hours for producing the outcomes for this task.
+Your provider will advise you of when any supervised breaks have been scheduled.
+The task must be completed under supervised conditions.
+You are allowed monitored access to the internet during the scheduled
+supervised sessions.
+During this task you are only permitted to use AI during Activity C.
+You are not permitted to use AI or any other tool designed to automate producing a
+response for any other activity during this task.
+Files provided for use during this activity:
+•   Task1_Netheret_AILog.docx
+Your work and any material provided must be kept securely at all times.
+
+
+
+
+S89988A                                                                                  2
+
+                                                                                     Continue
+Task 1 Brief
+The software development company that you work for has secured a new contract to
+develop a digital solution for Netheret IT Support Solutions.
+Netheret IT Support Solutions currently provides IT technical support services for small
+businesses including:
+•   design and installation of IT infrastructure
+•   help desk services (Tier 1 to Tier 3)
+•   service and maintenance of existing infrastructure.
+The client (Netheret IT Support Solutions) would like to develop a digital solution
+that will:
+•   enable staff to log and manage IT support requests
+•   manage and schedule on-site support and maintenance jobs
+•   use data to provide insights into the performance of systems and teams.
+The client has carried out some research to identify features that their existing staff
+suggested could be included in the digital solution.
+The features the existing staff identified are:
+•   a knowledge base to help Tier 1 support diagnose basic issues
+•   functionality to track job progression and communicate with stakeholders
+•   accessibility features for users with additional needs
+•   customised work schedules and job briefs for Tier 2 and Tier 3 support staff.
+
+
+
+
+S89988A                                                                                        3
+
+                                                                                           Continue
+Activities
+Quality of Communication
+When producing evidence in these activities, you should use high-quality
+communication that:
+•   uses appropriate technical vocabulary
+•   is suitable for the target audience
+•   ensures the different elements of your documentation are clear, allowing a third party
+    to interpret them easily.
+                                                                                              (6)
+Activity A – Proposal (Suggested Time: 9 Hours)
+Produce a detailed proposal for a digital solution you would develop to meet the
+needs of:
+•   the client (Netheret IT Support Solutions)
+•   existing and potential customers.
+Your proposed solution must be of sufficient scope and complexity to demonstrate the
+ability to implement a coded solution for front-end and back-end processes.
+You are advised to carry out research on digital solutions, current practice and emerging
+technology in the IT support (Tier 1 to Tier 3) sector to support your proposal.
+Your proposal should provide a rationale for the solution you are proposing and include:
+•   the business context
+•   the functional and non-functional requirements of the solution
+•   decomposition of the problems that will need to be solved to implement the
+    functional and non-functional requirements
+•   the key performance indicators (KPIs) and user acceptance criteria for the
+    proposed solution
+•   a description of the proposed solution
+•   justification of:
+    –   how the recommended solution meets the needs of the client and users
+    –   how potential risks will be mitigated
+    –   how relevant regulatory guidelines and legal requirements, in relation to software
+        development and the industry, will be addressed
+•   an appendix containing any relevant notes made during your research.
+                                                                                             (24)
+
+
+
+
+S89988A                                                                                             4
+
+                                                                                                Continue
+Activity B – Visual Interface and Data Designs (Suggested Time: 4.5 Hours)
+Produce a set of design documents for the digital solution that you are proposing. The
+design documentation must include:
+•   visual/interface designs
+•   data requirements.
+Your design documents should be of sufficient detail to:
+•   effectively communicate the intended solution to both technical and
+    non‑technical stakeholders
+•   allow the client to make informed decisions
+•   allow a third-party developer to use the design documents to create the
+    proposed solution.
+                                                                                            (12)
+Activity C – Use of Generative AI (Suggested Time: 4.5 Hours)
+Use generative AI to create code snippets that could be used to address specific areas of
+functionality in your solution for Netheret IT Support Solutions.
+The code generated for this activity should help solve a maximum of five
+different problems.
+During this activity:
+•   do not try to generate a complete digital solution
+•   produce code that can be integrated into a larger solution
+•   address individual problems and areas of functionality that will be integrated into
+    your final solution so that you can meet the requirements of the Task 1 brief.
+When using generative AI for this task you must document the process you have
+followed. You must:
+•   record the prompts you entered into the AI model
+•   review the code generated by the AI model, including:
+    –   positives and negatives of the code generated
+    –   refinements that may need to be made to the code and the prompts that
+        you used
+•   demonstrate an iterative process to improve the quality and appropriateness of the
+    code generated.
+You are provided with this template to help you document the process:
+•   Task1_Netheret_AILog.docx
+                                                                                            (12)
+                                                              (Total for Task 1 = 54 marks)
+                   (this includes 48 task marks and 6 marks for quality of communication)
+
+S89988A                                                                                            5
+
+                                                                                               Continue
+Outcomes for submission
+1.	A proposal for the designed solution, including appendices of relevant research notes
+    to support the rationale
+   Save your proposal as PDF files in your folder for submission. Use this
+   naming convention:
+   Task1_Proposal_[Registration number]_[surname]_[first letter of first name]
+2. A set of design documents
+   Save your completed design documents as PDF files in your folder for submission.
+   Use this naming convention:
+   Task1_DesignDocs_[Document name]_[Registration number]_[surname]_[first letter
+   of first name]
+3. A log of your use of generative AI
+   Save your completed AI log as a PDF file in your folder for submission. Use this
+   naming convention:
+   Task1_AILog_[Registration number]_[surname]_[first letter of first name]
+Where there are multiple files, number them sequentially using _01, _02 etc at the end of
+the file name.
+
+
+
+
+S89988A                                                                                     6
+                                                     BLANK PAGE
+
+
+
+
+Copyright and Acknowledgements
+
+Copyright in this document belongs to, and is used under licence from the Department for Education, © 2026.
+
+‘T-LEVELS’ and ‘T Level’ are registered trade marks of the Department for Education.
+
+Pearson Education Limited is authorised by the Department for Education to develop and deliver this
+T Level Technical Qualification.
+
+Pearson and logo are registered trade marks of Pearson.
+
+S89988A                                                                                                       7
+

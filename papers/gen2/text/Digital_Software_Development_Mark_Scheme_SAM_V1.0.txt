@@ -1,0 +1,841 @@
+T Level Technical Qualification in Digital Software
+Development
+Mark Scheme
+Specimen Assessment Materials
+
+Occupational Specialism
+
+
+
+
+                                1
+General Marking Guidance
+●   All students must receive the same treatment. Examiners must mark the first student in exactly the same way as they mark the last.
+●   Mark schemes should be applied positively. Students must be rewarded for what they have shown they can do rather than penalised
+    for omissions.
+●   Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
+●   All marks on the mark scheme should be used appropriately.
+●   All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved.
+    Examiners should also be prepared to award zero marks if the student's response is not rewardable according to the mark scheme.
+●   Where judgement is required, a mark scheme will provide the principles by which marks will be awarded.
+●   When examiners are in doubt regarding the application of the mark scheme to a student's response, a senior examiner should
+    be consulted.
+●   Crossed out work should be marked unless the student has replaced it with an alternative response.
+●   Accept incorrect/phonetic spelling (as long as the term is recognisable) unless instructed otherwise.
+Levels-Based Mark Scheme Guidance
+Levels-based mark schemes (LBMS) have been designed to assess students’ work holistically. They consist of two parts:
+1. Indicative content
+   Indicative content reflects content-related points that a student might make but is not an exhaustive list. Nor is it a model answer.
+   Students may make some or none of the points included in the indicative content as its purpose is as a guide for the relevance and
+   expectation of the responses. Students must be credited for any appropriate response.
+2. Levels-based descriptors
+   Each level is made up of a number of traits which when combined together articulate the quality of response that a student needs to
+   demonstrate. The traits progress across the levels to demonstrate the different expectations of each level. When using a levels-based
+   mark scheme, the ‘best fit’ approach should be used.
+
+
+
+
+                                                                   2
+Applying the levels-based descriptors
+Examiners should take a ‘best fit’ approach to determining the mark.
+● Examiners should first make a holistic judgement on which level most closely matches the student’s response. Students will be placed
+  in the level that best describes their answer. Answers can display characteristics from more than one level, and where this happens
+  markers must use any additional guidance (e.g. weighting of traits) and their professional judgement to decide which level is most
+  appropriate.
+● The mark awarded within the level will be decided based on the quality of the answer and will be modified according to how securely
+  all traits are displayed at that level:
+  o Marks will be awarded at the top of that level if the student has evidenced each of the descriptor traits securely.
+  o Where the response does not securely meet all traits, the marks should be awarded based on how closely the descriptor has
+       been met.
+
+
+
+
+                                                                   3
+Task 1: Activity A – Proposal
+
+Indicative content and marker guidance
+Students’ proposals should be relevant to key requirements of the brief:
+• interactive resources to support healthy living, fitness and exercise
+• encouraging users to make use of ToKa Fitness’s services which could include:
+     – personal training sessions
+     – facilities in the gym
+  o making a distinction between paid-for and free content
+  o providing access to customisable workout and eating plans
+  o social features.
+Students’ proposals may refer to:
+• how the solution will handle data and pass it between back end and front end including:
+  o client- and server-side storage requirements (e.g. all stored on ToKa Fitness’s system versus potentially storing customised plans
+     etc on the user’s computer)
+  o APIs to integrate ToKa Fitness materials with other systems (e.g. YouTube videos, social media integration)
+• how they will address issues/needs, such as:
+  o interactive resources and functionality to support healthy living (e.g. BMI calculators, exercise/activity logs)
+  o booking/managing personal training sessions
+  o booking/managing gym classes
+  o managing user accounts
+  o storing and tracking users’ personal data (e.g. fitness goals, weight and performance metrics)
+  o storing and using data to provide and enable customisable training and eating plans
+  o supporting and providing digital content across different platforms/devices (e.g. use of videos of exercises posted by trainers,
+     clients posting videos for a remote trainer to analyse and provide feedback)
+  o collaborative systems, such as trainer and client editing training and meal plans, setting goals
+
+                                                                  4
+• accessibility features (e.g. alt text, resizable fonts, selectable colour schemes) – possible reference to W3C
+• ‘social’ features such as:
+  o integration with APIs for social media sites or fitness-specific platforms such as Strava
+  o accessing and using data from fitness trackers/smart watches to utilise personal training data.
+Students’ proposals should refer to relevant risks and how they will mitigate these, such as:
+• malicious/inappropriate use – data input validation
+• intercepting data/man-in-the-middle attacks – use of SSL/encryption/HTTPS
+• cross-site scripting – content security policy/data input validation and sanitisation
+• SQL injection – sanitising data input.
+Students’ rationale should refer to wider issues which are likely to include:
+• general issues, such as:
+  o privacy
+  o user support
+  o feedback on user errors (e.g. incorrect completion of forms, completion of transactions)
+  o handling payment details
+• potential context-specific issues such as:
+  o handling of personal data
+     (e.g. training data, health metrics) demonstrating an understating of the sensitive nature of this data
+  o personal privacy and safety concerns, such as the location and route data that is captured by GPS tracked activities such as
+     running and cycling)
+  o legal and ethical issues such as:
+     – dangers associated with reducing/gaining weight and calorie intake and the need to provide support and warnings for users
+     – potential for injury if attempting a workout plan/exercise without appropriate supervision/training
+• copyright/intellectual property issues relating to videos and plans
+• ensuring materials are at the appropriate level for each user
+• ensuring only authorised users access paid-for content
+
+                                                                 5
+• relevant regulations and guidelines (e.g. W3C, professional bodies) as well as legal requirements relating to software development
+   and the industrial context.
+Students’ rationale should be relevant to current practice and/or emerging tech in the leisure (health and fitness) sector, such as:
+• apps and mobile devices
+• fitness trackers
+• at-home training and online classes (e.g. Peloton®)
+• video/remote instruction (e.g. YouTube videos)
+• use of AR/VR to enhance training.
+Students’ rationale should include details of the functional and non-functional requirements, key performance indicators and user
+acceptance criteria that could be used to judge the success of a solution that they will implement. They must be appropriate for a
+solution that will meet the needs of ToKa Fitness.
+Students’ proposals should, where appropriate, provide justification for why a particular feature of design consideration works.
+They could refer to considerations they discovered during research, which may include (but may not be limited to):
+• established conventions (e.g. layouts, icons)
+• common functionality which users would expect
+• improving poor functionality/common complaints about other apps/platforms
+• providing unique functionality.
+
+
+
+
+                                                                  6
+Assessment      Band 0                  Band 1                             Band 2                             Band 3
+   focus
+                   0                      1–3                                4–6                                7–9
+Decomposing        No       The proposal:                      The proposal:                      The proposal:
+ the problem   rewardable   • identifies some of the           • identifies most of the           • fully identifies the problems
+                 material     problems to be solved              problems to be solved                to be solved
+                            • basic decomposition of           • adequate decomposition           • effective decomposition
+                              the problems identified.           of the problems identified.          of the problems identified.
+                            The proposed solution would        The proposed solution would        The proposed solution would
+                            partially:                         mostly:                            fully:
+                            • meet the needs of the client     • meet the needs of the client     • meet the needs of the client
+                              and users                          and users                            and users
+                            • mitigate the potential risks     • mitigate the potential risks     • mitigate the potential risks
+                            • address the relevant             • address the relevant             • address relevant regulatory
+                              regulatory guidelines and          regulatory guidelines and            guidelines and legal
+                              legal requirements in relation     legal requirements in relation       requirements in relation to
+                              to software development and        to software development and          software development and
+                              the industry.                      the industry.                        the industry.
+
+
+
+
+                                                               7
+Assessment       Band 0                   Band 1                             Band 2                              Band 3
+   focus
+                    0                       1–3                                4–6                                 7–9
+Appreciation        No       The proposal provides limited       The proposal provides good         The proposal provides
+   of wider     rewardable   lines of reasoning that partially   lines of reasoning that mostly     comprehensive lines of
+issues in the     material   justify how:                        justify how:                       reasoning that fully justify how:
+   context                   • the recommended solution          • the recommended solution         • the recommended solution
+                                meets the needs of the client       meets the needs of the client      meets the needs of the client
+                                and users                           and users                          and users
+                             • potential risks will be           • potential risks will be          • potential risks will be
+                                mitigated                           mitigated                          mitigated
+                             • the proposed solution will        • the proposed solution will       • the proposed solution will
+                                address relevant regulatory         address relevant regulatory        address relevant regulatory
+                                guidelines and legal                guidelines and legal               guidelines and legal
+                                requirements in relation to         requirements in relation to        requirements in relation to
+                                software development and            software development and           software development and
+                                the industry.                       the industry.                      the industry.
+                    0                       1–2                                3–4                                 5–6
+Appreciation        No       The proposal provides basic         The proposal provides good         The proposal provides
+   of the       rewardable   definitions of:                     definitions of:                    comprehensive and perceptive
+ business         material   • functional requirements           • functional requirements          definitions of:
+  context                                                                                           • functional requirements
+                             • non-functional requirements       • non-functional requirements
+                             • user acceptance criteria.         • user acceptance criteria.        • non-functional requirements
+                                                                                                    • user acceptance criteria.
+
+
+
+
+                                                                 8
+Task 1: Activity B – Visual Interface and Data Designs
+
+Indicative content and marker guidance
+The designs should provide details of the solution that the student will implement.
+The designs should be usable by a third party to implement the intended solution:
+• layout and white space may include:
+  o clear ‘zones’ which allow users to focus on specific content
+  o space between lines to aid readability
+  o related information which is close together but does not encroach on other information
+  o sensible breaks/separation of information to avoid overload
+  o details of reactive layouts to suit different screens/devices (e.g. mobile and desktop versions)
+• visual hierarchies may include:
+  o sensible and appropriate use of sizing of information/items to help optimise user information
+  o order of design elements (e.g. orders in navbars and menus) to signify significance or ‘route’ through information
+• common conventions including common design features which may include (but not be limited to):
+  o common/recognisable icons (e.g. house = home)
+  o placement of navigation item (top or left)
+  o use of ‘hamburger’ button/collapsible menus for mobile layout.
+The designs should also consider the following factors:
+  o consistency and standards
+  o aesthetic and minimalist design
+  o help and documentation
+  o consistent fonts, colours and imagery which help users know that all pieces of the solution are working together and are pieces of
+     a consistent whole
+
+
+
+                                                                  9
+  o use of space:
+     – space between lines, called leading, is important for readability
+     – the space should not be too small to avoid making it harder for readers to follow the line properly
+     – if there is too much space, readers can wander away from the text. Check for lots of white space – depending on the design,
+        this is not necessarily wasted space
+• use of imagery on the websites or apps to help users skim content and digest material quickly and easily.
+
+
+Assessment         Band 0                   Band 1                            Band 2                               Band 3
+   focus
+                      0                       1–2                               3–4                                  5–6
+Effectiveness        No         The proposed design interface     The proposed design interface       The proposed design interface
+of the design    rewardable     is simplistic.                    is good.                            is excellent.
+  interface        material     There is partially effective      There is mostly effective use of:   There is fully effective use of:
+                                use of:                           • layout and white space            • layout and white space
+                                • layout and white space          • visual hierarchies                • visual hierarchies
+                                • visual hierarchies              • common conventions.               • common conventions.
+                                • common conventions.
+
+
+
+
+                                                                10
+Task 1: Activity B – The Data Requirements
+
+Indicative content and marker guidance
+Data design in the form of, for example:
+• data dictionaries
+• entity-relationship diagrams
+• data flow diagrams
+• static and dynamic model diagrams
+• a combination as appropriate to describe the planned solution.
+Note: data normalisation may not be required depending on the identified/proposed solution.
+Data considered should be appropriate for the needs of ToKa Fitness, which may include:
+• client and trainer accounts
+• schedules and calendars for classes and personal training sessions
+• sport/fitness metrics, e.g. number of activities/sessions completed in a week, level of demand, duration of exercise,
+  type of exercise
+• personal and health data, e.g. age/DOB, weight (current and target), heart rate, other medical issues
+• progress data – identification of filtered data for public and private use, e.g. comparing times and progress with friends,
+  such as improvements in max weight, distance covered, vs personal goals and info
+• usage stats, click-through/conversion from free to paid-for, uptake of personal training sessions, classes etc.
+The design should show an understanding of error-handling procedures which may include:
+• data validation rules
+• input masks
+• type casting
+• feedback to user/error messages
+• limiting field/variable length.
+
+
+
+                                                                    11
+Assessment       Band 0                  Band 1                            Band 2                          Band 3
+   focus
+                    0                      1–2                               3–4                             5–6
+The design of       No       Data requirements for the          Data requirements for the      Data requirements for the
+  the data      rewardable   proposed solution are partially    proposed solution are mostly   proposed solution are fully
+requirements      material   appropriate, including             appropriate, including         appropriate, including
+                             (as required):                     (as required):                 (as required):
+                             • variables                        • variables                    • variables
+                             • data structures                  • data structures              • data structures
+                             • data types.                      • data types.                  • data types.
+                             Limited error-handling             Adequate error-handling        Effective error-handling
+                             procedures are identified.         procedures are identified.     procedures are identified.
+                             Naming conventions used are        Naming conventions used are    Fully appropriate and consistent
+                             partially appropriate but are      mostly appropriate and         naming conventions are used
+                             inconsistent.                      consistent.                    throughout.
+
+
+
+
+                                                               12
+Task 1: Activity C – Use of Generative AI
+
+Indicative content and marker guidance
+Problems that could be addressed – students should use AI to generate some code for some key problems to be solved, such as:
+• validating a telephone number/email address against specific requirements
+• communication/data exchange between different platforms, front end and back end
+• key domain-specific functionality and calculations, such as calorie intake tracking, BMI calculator
+• data filtering and visualisation
+• providing access to paid-for and free content, such as:
+  o APIs for user login (e.g. join with Facebook/Google)
+  o APIs for payment services
+  o storing and protecting data in the back end (e.g. generating and writing to tables, password hashing)
+• providing access to customisable workout and eating plans
+• social features, such as:
+  o internal message boards/forums.
+  o linking to other platforms such as social media and/or fitness-specific platforms such as Strava.
+Recording the process – students should record the process they followed to generate code that can be used in their solution,
+which should include:
+• record of the prompts entered to generate the output (including a clear indication of how these have been altered to refine the
+  appropriateness of the AI models’ output)
+• review of the code the AI has output, including:
+  o strengths and weaknesses of the code produced, such as:
+     – how well it implements the required functionality (e.g. does it fulfil a specific required functionality such as BMI calculation or
+        activity tracking?)
+     – robustness of code (e.g. divide by zero errors, validation of a range of reasonable exceptions, SQL injections/input sanitation
+        for back-end processes)
+
+
+                                                                     13
+   o the extent to which it meets students’ needs, including details of any further refinement required, such as:
+      – use of adapted prompts within the AI model to further refine the code
+      – manual adjustments and additions to the code (e.g. altering variable names, adding additional functionality that the AI model
+         did not include).
+Problem solving
+Level of coverage of the problem should be judged by the range and complexity of the identified problems to be solved.
+Simplistic coverage is likely to consider only basic front-end processes, with little consideration of how these may relate to other
+components within the solution. Students are likely to limit their exploration to a single programming language.
+At the higher end, the coverage is likely to consider a range of processes related to other components within the solution. Students will
+address individual problems and areas of functionality that address different types of problem appropriate to the specific demands of
+the context of the set task brief.
+Use of prompts
+Quality of the prompts should be judged based on the conciseness and accuracy of the language used.
+Lower-attaining students are likely to use more generic terms, with little consideration of the specific task/problem they are trying
+to solve.
+At the higher end, the prompts will be concise and will concentrate on specific problems with a narrower scope. Students will refine
+their prompts after each iteration of the code in order to produce a more appropriate outcome.
+Output review
+Lower-attaining students are likely to review the code in more general terms, such as the overall functionality of the code produced.
+They are likely to show a much more limited technical understanding of the code and/or focus on just positives or negatives of the
+code. Their review will likely be very narrow in scope.
+At the higher end, students will consider strengths and weaknesses in relation to their prompts and the task at hand. They will review
+the output in a more granular fashion, identifying specific refinements that will need to be made.
+
+
+
+
+                                                                   14
+Assessment        Band 0                   Band 1                             Band 2                             Band 3
+   focus
+                     0                        1                                  2                                  3
+   Problem           No       Superficial coverage of the task    Good coverage of the task          Effective coverage of the task
+   solving       rewardable   requirements.                       requirements.                      requirements.
+                   material
+                     0                        1                                  2                                  3
+Use of prompts       No       Prompts would allow a model to      Prompts would allow a model to     Prompts would allow a model
+                 rewardable   produce some correct outcomes       produce mostly correct             to produce consistently correct
+                   material   as a result of:                     outcomes as a result of:           outcomes as a result of:
+                              • some precise language             • mostly precise language          • highly precise language
+                              • limited consideration of the      • mostly appropriate               • effective consideration of the
+                                 requirements of the task.           consideration of the               requirements of the task.
+                                                                     requirements of the task.
+                     0                       1–2                                3–4                                5–6
+Output review        No       A basic review of how well the      A good review of how well the      An effective review of how well
+                 rewardable   generated code meets their          generated code meets their         the generated code meets their
+                   material   needs as a result of superficial    needs as a result of appropriate   needs as a result of thorough
+                              consideration of:                   consideration of:                  consideration of:
+                              • positives and negatives of        • positives and negatives of       • positives and negatives of
+                                the code generated                  the code generated                  the code generated
+                              • the refinements that may          • the refinements that may         • the refinements that may
+                                need to be made.                    need to be made.                    need to be made.
+
+
+
+
+                                                                 15
+Task 1: Quality of Communication
+
+Indicative content and marker guidance
+The quality of communication should be assessed across Task 1 Activity A, Activity B and Activity C. This includes the following:
+• appropriateness of communication:
+  o uses appropriate technical vocabulary
+  o is suitable for the target audience
+  o ensures the different elements of the documentation are clear, allowing a third party to easily interpret them
+  o use of common vocabulary:
+     – there is good use of specific data-related technical vocabulary
+     – there is good use of terms commonly used within the digital industry.
+• specific examples may include:
+  o proposal:
+     – clear presentation of functional/non-functional requirements, e.g. use of tables and/or bullet points to present the specific
+       measurable requirements, with expansion and explanations given in a separate part/paragraph
+     – specific and measurable requirements
+     – use of technical language, including an appropriate balance between technical language for some areas of the designs and
+       technical specifications, with less technical language to explain and justify decisions made to the client
+  o visual designs:
+     – clear outline/wireframe drawing
+     – inclusion of specific style and design decisions – higher-attaining students may provide a detailed style guide covering aspects
+       of the design that will be applied across the design, providing greater clarity than littered/excessive annotation on the layout
+       design itself
+  o data designs:
+     – combination of visual and written (e.g. ERD and data dictionary)
+     – use of accepted conventions, such as notation for relationships on ERD, combined with suitable descriptions on the data
+       dictionary for less technical audiences.
+
+
+                                                                  16
+Assessment       Band 0                  Band 1                           Band 2                          Band 3
+   focus
+                    0                      1–2                             3–4                              5–6
+  Quality of        No       Superficial communication that    Good communication that uses   Effective communication that
+communication   rewardable   uses partially appropriate:       mostly appropriate:            uses consistently appropriate:
+                  material   • techniques, methods and         • techniques, methods and      • techniques, methods and
+                               formats                           formats                         formats
+                             • technical language for the      • technical language for the   • technical language for the
+                               intended audience.                intended audience.              intended audience.
+
+
+
+
+                                                              17
+Task 2: Activity A – Developing the Solution
+
+Indicative content and marker guidance
+Functionality
+• Must demonstrate the use of two different languages, JS and PHP or SQL, or Python and SQL.
+• The techniques used are appropriate and demonstrate a level of technical skill.
+• May be complex data model in database interlinking more than one table.
+• Recursive algorithms – reminder that if used in PHP there must be a mechanism (IF statement etc.) that stops the recursion after the
+  desired result has been found.
+• Server-side scripting using request and response objects and server-side extensions for a complex client-server model.
+• Web service APIs and parsing JSON/XML to service a complex client-server model.
+• Use of MySQL, the use of DML and DDL.
+• Various outcomes which may be basic in terms of very linear structure to more logical and with an efficient approach. The use of
+  function, procedures and classes.
+• The solution will be well structured and modular in nature.
+The program should ensure correct outcomes to meet the needs of ToKa Fitness. For example:
+• handling user access, e.g. setting up an account, logging in, changing password
+• collection and processing of data, e.g. starting weight/physical measurements, target weight and/or target performance goal
+• communication/data exchange between different platforms or between front-end and back-end systems, e.g. analysing exercise
+  data provided manually or from a fitness tracker, measurement of progress from starting point to make recommendations and
+  provide encouragement, pulling in data to personalise meals and/or training
+• key calculations, e.g. performance improvements, rate of weight gain/loss to ensure healthy progress, calculate BMI or other
+  measurement benchmarks
+• data filtering and visualisation, e.g. performance progress, usage stats.
+
+
+
+
+                                                                 18
+Code organisation
+• Students should avoid multiple pages of nested if clauses and for loops with a lot of copy-pasted procedural code.
+• Clear and meaningful indentation.
+• Code should consist of pieces of logic, classes or objects, with proper structure.
+• Comments should be used wherever possible to help explain the logic.
+• Good use of local variables and minimal use of global variables.
+• Use of constants.
+• Well-designed interface.
+• Consistent style throughout.
+• Defensive programming.
+• Good exception handling.
+User experience considerations
+• Inputs from the user are handled appropriately, such as:
+• validation and sanitisation
+• ease of user input, e.g. GUI features, input masks
+• well-designed interface including UI/UX features:
+  o useful – does it meet the needs of the user? Are outputs etc. accurate?
+  o usable – is it easy to use/intuitive?
+  o desirable – is it aesthetically pleasing? Does it represent a brand? Consistency?
+  o findable – is it easy to navigate and find the required data/info/functionality?
+• user guidance and error messages ensure that the product is easy to use and helpful, which may include:
+  o short and meaning full error messages (avoid jargon)
+  o provides information about solution/corrective action that the user can take
+  o help/instructions and/or meaningful feature labels to reduce errors
+
+
+
+                                                                  19
+• a robust solution which may include:
+  o good exception handling that can deal with unexpected or incorrect outputs
+  o ‘fall back’ code to deal with different systems and platforms without crashing
+  o appropriate use of validation.
+Legal and regulatory guidelines and standards
+• Accessibility has been considered and there should be evidence that the design takes different users into account, such as:
+  o selectable accessibility features (e.g. adjustable fonts, colours)
+  o sensible font and colour base colour selection.
+• Compatibility with different platforms has been considered (where appropriate), which may include:
+  o creating a standalone/self-contained program
+  o implementation of web standards/program is accessible through a web browser
+  o ‘fall back’ code to deal with different systems and platforms.
+• Legal and ethical aspects have been considered as appropriate to their solution, which may include:
+  o issues around providing advice relating to health and wellbeing, concerns of negative impacts of training plans and advice on
+     weight loss etc.
+  o cookie consent notice
+  o GDPR considerations
+  o privacy and data policy/informing the user
+  o intellectual property considerations (see asset log)
+  o terms and conditions.
+
+
+
+
+                                                                 20
+Assessment       Band 0                Band 1                      Band 2                       Band 3                      Band 4
+   focus
+                     0                   1–2                         3–4                          5–6                         7–8
+Functionality       No     The prototype                  The prototype                The prototype               The prototype
+                rewardable implements code in at          implements code              implements mostly           implements highly
+                  material least one language with        with partial functionality   efficient functional code   efficient functional code
+                           basic functionality.           in at least two different    in at least two different   in at least two different
+                           The code lacks                 languages.                   languages.                  languages.
+                           efficiency and some            The code lacks               Some minor errors           Any errors that exist
+                           major errors persist.          efficiency and some          persist.                    are minimal.
+                           Uses basic precise             major errors persist.        Uses mostly precise         Uses fully precise
+                           logic and programming          Uses sufficient precise      logic and programming       logic and programming
+                           structures which would         logic and programming        structures which would      structures throughout
+                           result in some correct         structures which would       result in mostly correct    which would result in
+                           outcomes.                      result in adequate           outcomes.                   consistently correct
+                                                          correct outcomes.                                        outcomes.
+                     0                   1–2                         3–4                          5–6                         7-8
+   Code             No     Code would present             Code is maintainable by      Code is maintainable by     Code is easily
+organisation    rewardable significant difficulties for   a third party, but would     a third party and would     maintainable by a third
+                  material maintainability through        present some difficulties    present only a few minor    party through the use of
+                           the use of inconsistent        through the use of           difficulties through the    consistently appropriate:
+                           and limited:                   somewhat appropriate:        use of mostly               • naming conventions
+                           • naming conventions           • naming conventions         appropriate:
+                                                                                                                   • logical organisation
+                           • logical organisation         • logical organisation       • naming conventions        • informative
+                           • commenting.                  • commenting.                • logical organisation        commenting.
+                                                                                       • commenting.
+
+
+
+                                                                     21
+Assessment    Band 0             Band 1                     Band 2                    Band 3                    Band 4
+   focus
+                 0                 1–2                        3–4                      5–6                        7–8
+   User          No     Basic user experience is    Adequate user             Good user experience is   Excellent user
+experience   rewardable provided through limited    experience is provided    provided through mostly   experience is provided
+               material effective use of:           through some effective    effective use of:         through consistently
+                        • input handling            use of:                   • input handling          effective use of:
+                        • user guidance and         • input handling          • user guidance and       • input handling
+                           error messages           • user guidance and          error messages         • user guidance and
+                        • outputs.                     error messages         • outputs.                   error messages
+                        The solution is basic and   • outputs.                The solution is mostly    • outputs.
+                        effectively handles some    The solution is           robust and effectively    The solution is fully
+                        common errors.              adequately robust         handles most common       robust and effectively
+                                                    and effectively handles   and unexpected errors.    handles most common
+                                                    some common and                                     and unexpected errors.
+                                                    unexpected errors.
+
+
+
+
+                                                              22
+Assessment       Band 0              Band 1                     Band 2                       Band 3              Band 4
+   focus
+                    0                 1–2                         3–4                          5–6
+  Legal and       No      Superficial application      Adequate application         Effective application
+  regulatory   rewardable of standards and             of standards and             of standards and
+guidelines and material   guidelines in relation to:   guidelines in relation to:   guidelines in relation to:
+  standards               • accessibility              • accessibility              • accessibility
+                          • compatibility              • compatibility              • compatibility
+                          • legal and ethical          • legal and ethical          • legal and ethical
+                             considerations.              considerations.              considerations.
+                          Partially effective          Mostly effective             Fully effective
+                          application of               application of               application of
+                          procedures and security      procedures and security      procedures and security
+                          controls to ensure           controls to ensure           controls to ensure
+                          confidentiality, integrity   confidentiality, integrity   confidentiality, integrity
+                          and availability.            and availability.            and availability.
+
+
+
+
+                                                                 23
+Task 2: Activity B – Documenting the Development Process
+
+Indicative content and marker guidance
+Suitability of testing
+Students should demonstrate they have tested different aspects of their solution. Testing may include:
+• use of automated testing tools – expected to see evidence of the initial setup of the tools and the results produced by the tools,
+  including commentary on how the results of the test will be actioned. Automated testing could be used for:
+  o performance testing
+  o stress testing
+  o load testing
+  o testing validations
+  o unit testing
+• use of AI – e.g. sections of code copied into ChatGPT/Google Gemini along with suitable prompts to identify issues, or use of other
+  AI tools that check wider aspects of the solution
+• manual testing and debugging, including:
+  o visual debugging
+  o functionality/black box testing
+  o paired code reviews
+  o compatibility testing
+• wide range of tests and utilising a number of different tools to test most/all aspects of their solution.
+
+
+
+
+                                                                  24
+Use of testing to inform iteration
+• There should be evidence that where testing has identified potential errors, refinements and improvements to the solution,
+  these have been considered and where appropriate actioned. Iteration may include:
+  o errors – evidence that incorrect syntax or logic that would lead to runtime errors, or unreliable output, have been identified
+     and corrected
+  o refinements – identification of where code is functional but could be refined (e.g. more efficient code, better use of agreed
+     standards, reduced data redundancy)
+  o improvements – identification of ways that would improve the overall quality of the solution from a user and/or business
+     perspective, e.g. additional or improved functionality, improved user experience (e.g. usability, accessibility, efficiency).
+Use of content produced by others
+• Students should provide a change and source log of where they have utilised content that has been created by others
+  (including content generated using AI tools). The student should consider a range of different content, including:
+  o code snippets
+  o synthetic test data
+  o information content (e.g. training plans, workout/exercise information)
+  o assets and media (e.g. videos, images).
+Students should provide a record of the source of the information and any relevant intellectual property considerations.
+• The log should include details of how the content and code were used and any changes that were made from the original source,
+  such as:
+  o the page/screen it will be integrated with
+  o how a code snippet will be integrated into a larger function (e.g. for checking an email has been generated, describing how this
+     has been integrated into a larger format/data-collection process)
+  o any other functions or data these will be dependent on (e.g. BMI calculator would need stored personal data (weight, height)
+     passing from another function; calorie calculator would need user input/stored data of the food eaten that day/week by the user
+     and stored/online nutritional data)
+  o any legal considerations that may arise, e.g. is the code based on proprietary technology, how was written or image-based
+     content generated (and what was used to seed the AI model that developed them), is there a potential IP infringement?
+
+                                                                  25
+Change log
+Students should provide a brief summary of notable/important changes made during the development of the solution. The change log
+should not be a step-by-step guide/narrative of how the solution was created.
+The log should include:
+• the date of the changes
+• a brief description of what has changed
+• a record of the file name and version number that the change applies to.
+
+
+
+
+                                                               26
+Assessment         Band 0                  Band 1                              Band 2                             Band 3
+   focus
+                      0                      1–2                                 3–4                                5–6
+ Suitability of       No       Tests selected show a basic         Tests selected show a good         Tests selected show a thorough
+     tests        rewardable   understanding of how to             understanding of how to            and detailed understanding of
+                    material   effectively test inputs,            effectively test inputs,           how to effectively test inputs,
+                               calculations, validation            calculations, validation           calculations, validation and
+                               and processes.                      and processes.                     processes.
+                      0                       1                                   2                                  3
+Use of testing        No       Testing shows evidence of a         Testing shows evidence of a        Testing shows evidence of an
+  to inform       rewardable   basic iterative development         good iterative development         effective iterative development
+   iteration        material   process.                            process.                           process.
+                      0                      1–2                                 3–4                                5–6
+Use of content        No       Basic description of how content    Adequate description of how        Comprehensive description of
+ produced by      rewardable   created by others has been          content created by others has      how content created by others
+    others          material   used in the solution, including     been used in the solution,         has been used in the solution,
+                               superficial consideration of:       including appropriate              including thorough and detailed
+                               • legal and ethical implications    consideration of:                  consideration of:
+                               • the requirements of the task.     • legal and ethical implications   • legal and ethical implications
+                                                                   • the requirements of the task.    • the requirements of the task.
+                      0                       1                                   2                                  3
+ Change log           No       Superficial records of changes      Adequate records of changes        Thorough and detailed records
+                  rewardable   made throughout development.        made throughout development.       of changes made throughout
+                    material                                                                          development.
+
+
+
+
+                                                                  27
+Task 3: Activity A – Gathering Feedback
+
+Indicative content and marker guidance
+Types of feedback and materials used to support the gathering of feedback might include:
+• screencasts:
+  o demonstrate the prototype to both technical and non-technical audiences/users – may use two different screens (technical/
+     non-technical) or may be in sections
+  o could be used alongside some method of collecting feedback from the user, e.g. questionnaire, interview notes to be completed
+     during/after watching
+• questionnaires:
+  o use of open and closed questions to ensure a range of quantitative and qualitative feedback
+  o different sections or different questionnaires for different audiences
+  o relevant questions that consider different aspects of the solution (appropriate for the targeted tester/user)
+• records of observation of users:
+  o observation of people using the product
+  o identification of ‘pain points’
+  o types of observation, which may include structured, unstructured, participant observation
+• paired coding review records:
+  o technical review of code from an experienced coder
+  o identification of issues that may not show up in testing, e.g. efficiency, quality of commenting, code structures,
+     alternative solutions.
+Testers/feedback users might include:
+• range of ages and abilities
+• gym users
+• programming professionals.
+
+
+                                                                28
+Assessment         Band 0              Band 1                     Band 2                     Band 3                     Band 4
+   focus
+                      0                  1–3                        4–6                        7–9                       10–12
+Effectiveness         No       The materials would        The materials would        The materials would        The materials would
+of materials to   rewardable   allow for the gathering    allow for the gathering    allow for the gathering    allow for the gathering
+ support the        material   of limited-quality         of adequate-quality        of good-quality            of high-quality feedback
+   feedback                    feedback for different     feedback for different     feedback for different     for different aspects of
+    process                    aspects of the             aspects of the             aspects of the             the developed
+                               developed prototype.       developed prototype.       developed prototype.       prototype.
+                      0                  1–2                        3–4                        5–6
+      Use of          No       The use of the tools has   The use of the tools has   The use of the tools has
+  appropriate     rewardable   resulted in feedback       resulted in feedback       resulted in feedback
+feedback tools      material   that provides partial      that mostly provides       that fully provides
+ to support the                opportunity for            the opportunity for        the opportunity for
+  gathering of                 evidence-informed          evidence-informed          evidence-informed
+     effective                 further iteration.         further iteration.         further iteration.
+    feedback
+
+
+
+
+                                                                  29
+ Assessment         Band 0              Band 1                    Band 2                    Band 3            Band 4
+    focus
+                       0                 1–2                       3–4                       5–6
+Effectiveness of       No       Quality of                The quality of            The quality of
+communication      rewardable   communication is          communication is          communication is
+                     material   partially effective for   mostly effective for      fully effective for
+                                both technical and        both technical and        both technical and
+                                non-technical             non-technical             non-technical
+                                audiences as a result     audiences as a result     audiences as a result
+                                of the use of partially   of the use of mostly      of the use of fully
+                                appropriate techniques,   appropriate techniques,   appropriate techniques,
+                                methods and formats.      methods and formats.      methods and formats.
+                                The use of technical      The use of technical      The use of technical
+                                language is partially     language is mostly        language is fully
+                                appropriate for the       appropriate for the       appropriate for the
+                                intended audience.        intended audience.        intended audience.
+
+
+
+
+                                                                 30
+Task 3: Activity B – Evaluation
+
+Indicative content and marker guidance
+Effectiveness of assets and content
+The student should provide an evaluation of the assets and content within their prototype:
+• appropriateness of the assets selected which may include:
+   o third-party data (e.g. to simulate customer data)
+   o multimedia content (e.g. training videos, images)
+   o snippets of pre-written code
+   o any other appropriate information (e.g. trainer information, demand of different activities, e.g. the number of calories
+     per hour burned)
+• validity and reliability of the sources used, which may consider:
+   o primary and secondary information and data
+   o websites used, e.g. is the subject information likely to be accurate, is it up to date etc.
+   o information that is realistic/suitable for the scenario, e.g. subscription or personal trainer session prices
+   o potential bias
+• legal and ethical implications of using the identified assets, which may consider:
+   o copyright of content and IP
+   o security and privacy of data and information, e.g. GDPR, encryption, privacy and data policy/informing the user
+   o representation, e.g. range of gender, ethnicity, not conforming to/reinforcing stereotypes
+   o accessibility
+   o cookie consent notice
+   o terms and conditions.
+
+
+
+
+                                                                    31
+Evaluation of the digital solution
+The student should provide an evaluation of the final product against measurable criteria defined in the proposal generated in Task 1.
+The evaluation should include a review of:
+• the extent to which functional and non-functional requirements have been met
+• data to compare outcomes to key performance indicators (as appropriate)
+• the extent to which user acceptance criteria have been met.
+Consideration of potential developments/improvements
+The student should provide a rationale supported by:
+• identification of how far requirements have been met
+• feedback from test users
+• clear explanation of why an improvement should be made (with reference to feedback and the needs of ToKa Fitness
+  and its stakeholders).
+• examples taken from their prototype and specific extracts from feedback provided by test users.
+
+
+
+
+                                                                  32
+Assessment       Band 0                   Band 1                                Band 2                               Band 3
+   focus
+                    0                       1–2                                   3–4                                  5–6
+Effectiveness       No       A basic review of the                 A good review of the                 A comprehensive review of the
+of assets and   rewardable   effectiveness of the content          effectiveness of the content         effectiveness of the content
+   content        material   selected.                             selected.                            selected.
+                             There is superficial                  There is good consideration          There is thorough consideration
+                             consideration of the:                 of the:                              of the:
+                             • appropriateness of the assets       • appropriateness of the assets      • appropriateness of the assets
+                                selected                              selected                             selected
+                             • validity and reliability of the     • validity and reliability of the    • validity and reliability of the
+                                sources used                          sources used                         sources used
+                             • legal and ethical implications      • legal and ethical implications     • legal and ethical implications
+                                of using the identified assets.       of using the identified assets.      of using the identified assets.
+                             The review is partially supported     The review is mostly supported       The review is fully supported by
+                             by superficial consideration,         by adequate consideration,           effective consideration,
+                             comparison and corroboration          comparison and corroboration         comparison and corroboration
+                             across multiple sources.              across multiple sources.             across multiple sources.
+                    0                       1–2                                   3–4                                  5–6
+Evaluation of       No       A basic evaluation of how well        A good evaluation of how well        A comprehensive evaluation of
+ the digital    rewardable   the prototype meets:                  the prototype meets:                 how well the prototype meets:
+  solution        material   • functional and non-functional       • functional and non-functional      • functional and non-functional
+                                requirements of the system            requirements of the system          requirements of the system
+                             • user acceptance criteria for        • user acceptance criteria for       • user acceptance criteria for
+                                the proposed system.                  the proposed system.                the proposed system.
+
+
+                                                                  33
+Assessment     Band 0                 Band 1                          Band 2                          Band 3
+   focus
+                  0                     1–2                             3–4                             5–6
+  Further         No       A basic rationale for future    A good rationale for future    A comprehensive rationale for
+development   rewardable   iteration is provided.          iteration is provided.         future iteration is provided.
+                material   Points made are supported by    Points made are supported by   Points made are supported by
+                           partially relevant:             mostly relevant:               fully relevant and perceptive:
+                           • selection of examples         • selection of examples        • selection of examples
+                           • consideration of feedback.    • consideration of feedback.   • consideration of feedback.
+
+
+
+
+                                                          34
+Copyright and Acknowledgements
+‘T-LEVELS’ is a registered trademark of the Department for Education.
+‘T Level’ is a registered trademark of the Institute for Apprenticeships and Technical Education.
+The T Level Technical Qualification is a qualification approved and managed by the Institute for Apprenticeships and Technical
+Education.
+‘Institute for Apprenticeships & Technical Education’ and logo are registered trademarks of the Institute for Apprenticeships and
+Technical Education.
+Pearson Education Limited is authorised by the Institute for Apprenticeships and Technical Education to develop and deliver this
+Technical Qualification.
+Pearson and logo are registered trademarks of Pearson.
+Copyright in this document belongs to, and is used under licence from, the Institute for Apprenticeships and Technical Education, © 2025
+
+
+
+
+                                                                    35
+

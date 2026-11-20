@@ -1,0 +1,1 @@
+-- Put CREATE TABLE and seed scripts here. They run the first time the postgres container starts.

@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.env.local
+
+# Local databases
+*.db
+*.sqlite
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vs/
+.vscode/
+.idea/
+
+# Build output
+bin/
+obj/
+__pycache__/
+node_modules/
+dist/

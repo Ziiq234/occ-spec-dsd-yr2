@@ -1,0 +1,50 @@
+Task 2: Activity B – Test Log
+
+  -----------------------------------------------------------------------
+  Description of    Expected outcome  Actual outcome    Comments and
+  test                                                  intended actions
+  (including                                            
+  purpose of test,                                      
+  tools to be used                                      
+  and any specific                                      
+  data required)                                        
+  ----------------- ----------------- ----------------- -----------------
+                                                        
+
+                                                        
+
+                                                        
+
+                                                        
+
+                                                        
+
+                                                        
+
+                                                        
+  -----------------------------------------------------------------------
+
+[Add additional rows as needed then delete this instruction]
+
+Copyright and Acknowledgements
+
+‘T-LEVELS’ is a registered trademark of the Department for Education.
+
+‘T Level’ is a registered trademark of the Institute for Apprenticeships
+and Technical Education.
+
+The T Level Technical Qualification is a qualification approved and
+managed by the Institute for Apprenticeships and Technical Education.
+
+‘Institute for Apprenticeships & Technical Education’ and logo are
+registered trademarks of the Institute for Apprenticeships and Technical
+Education.
+
+Pearson Education Limited is authorised by the Institute for
+Apprenticeships and Technical Education to develop and deliver this
+Technical Qualification.
+
+Pearson and logo are registered trademarks of Pearson.
+
+Copyright in this document belongs to, and is used under licence from,
+the Institute for Apprenticeships and Technical Education, © 2025

@@ -1,0 +1,38 @@
+# Practice database for Occ Spec DSD Yr 2
+# Start:  docker compose up -d sqlserver     (or: postgres)
+# Stop:   docker compose down
+# Reset:  docker compose down -v            (deletes the data volume)
+#
+# Copy .env.example to .env and set your own password first. Never commit .env.
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: occspec-sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: ${MSSQL_SA_PASSWORD}
+      MSSQL_PID: Developer
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    profiles: ["sqlserver"]
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: occspec-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: occspec
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./init:/docker-entrypoint-initdb.d:ro
+    profiles: ["postgres"]
+
+volumes:
+  sqlserver-data:
+  postgres-data:

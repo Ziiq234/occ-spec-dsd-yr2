@@ -1,0 +1,18 @@
+Task 2: Activity B – Test Log
+ Description of test              Expected outcome                                                    Actual outcome                                                    Comments and intended
+ (including purpose of test,                                                                                                                                            actions
+ tools to be used and any
+ specific data required)
+
+
+
+
+[Add additional rows as needed then delete this instruction]
+
+
+
+
+                                  Copyright in this document belongs to, and is used under licence from the Department for Education, © 2026.
+                                  ‘T-LEVELS’ and ‘T Level’ are registered trademarks of the Department for Education. Pearson is authorised by the Department for Education to develop and deliver this T Level Technical Qualification.
+                                  Pearson and logo are registered trademarks of Pearson.          1
+

@@ -1,0 +1,139 @@
+                 T Level Technical Qualification in Digital Software Development (Level 3)
+
+                  Additional Specimen Assessment Material
+
+                 Time 12 hours 30 minutes
+                                                                                          Paper
+                                                                                          reference                 XXXXX/XX
+                   Occupational Specialism: Digital Software
+                   Development
+                   TASK 3: Gathering and evaluating feedback to inform future development
+                   Task Booklet
+
+
+                   You must have:
+                   A ‘read only’ copy of the evidence produced in Task 1.
+                   A ‘read only’ copy of the evidence produced in Task 2.
+
+
+              Information
+              •• The  total mark for this set task is 42.
+                 This booklet contains material for the completion of the set task under
+                 supervised conditions.
+               • This booklet is specific to each series and this material must only be issued to
+                 students who have been entered to undertake the task in the relevant series.
+
+
+
+
+                                                                                                                                                           Continue
+
+S89990A
+Version 1.1
+1/1
+
+                                           ‘T-LEVELS’ and ‘T Level’ are registered trade marks of the Department for Education.
+                    Pearson’s development and delivery of this qualification and use of the mark is under the authority of the Department for Education.
+                                      Instructions for Students
+                     You must complete ALL activities within the assessment.
+Read the assessment information carefully.
+You must plan your time and submit all required evidence at the end of the
+supervised period.
+The task must be undertaken at the time and on the date specified by Pearson.
+You will be given 10 hours for producing the outcomes for Task 3 Activity A.
+You will be given 2 hours and 30 minutes for producing the outcomes for Task 3
+Activity B.
+Your provider will advise you of when any supervised breaks have been scheduled.
+The task must be completed under supervised conditions.
+For Task 3 Activity A you are permitted access to the internet during feedback
+preparation and gathering activities.
+For Task 3 Activity B you are not allowed access to the internet during the 2 hours and 30
+minutes scheduled supervised session.
+During this task you are not permitted to use AI or any other tool designed to automate
+producing a response.
+You are allowed access to:
+•   a ‘read only’ copy of the evidence produced in Task 1
+•   a ‘read only’ copy of the evidence produced in Task 2
+•   feedback materials that are created during this assessment.
+Your work and any material provided must be kept securely at all times.
+
+
+
+
+S89990A                                                                                          2
+
+                                                                                             Continue
+Task 3 Brief
+Your manager has asked you to prepare and gather structured feedback on your digital
+solution prototype and evaluate its effectiveness based on the feedback received.
+This task is divided into two activities.
+Activity A – Gathering Feedback (10 Hours)
+Produce materials to support the gathering of feedback on the quality of your prototype.
+You must gather feedback from a technical and a non-technical audience that could be
+used to inform future iterations of your prototype.
+You need to:
+•   use appropriate tools, methods and techniques to prepare demonstrations of the
+    prototype’s functionality to:
+    –   a technical audience (e.g. programming professionals)
+    –   a non-technical audience (e.g. the client, the users)
+•   use the materials you produce to gather feedback
+•   record the feedback received in a format(s) suitable for analysis.
+                                                                                           (24)
+Activity B – Evaluation (2 Hours and 30 Minutes)
+Produce a report that evaluates the effectiveness of the prototype digital solution you
+have developed.
+Your evaluation should justify:
+•   how effective the assets and content used are, including:
+    –   why the chosen assets and content were selected and other content was rejected
+    –   the validity and reliability of the sources of information you used
+    –   any legal and ethical implications of the assets and content selected
+•   how well the digital solution you planned and produced meets:
+    –   functional and non-functional requirements of the solution
+    –   user acceptance criteria for the proposed solution
+•   how the prototype could be further developed.
+Your evaluations should draw upon your own judgements and feedback you received
+during Activity A.
+                                                                                           (18)
+                                                                  (Total for Task 3 = 42 marks)
+
+
+
+
+S89990A                                                                                           3
+
+                                                                                              Continue
+Outcomes for Submission
+1. Feedback materials and records
+   Save the materials you have created and the feedback received using any suitable file
+   type in your folder for submission. Use this naming convention:
+   •   Task3_Feedback_[document name]_[Registration number]_[surname]_[first letter
+       of first name]
+2. Feedback evaluation report
+   Save your report as a PDF file in your folder for submission. Use this naming
+   convention:
+   •   Task3_Evaluation_[Registration number]_[surname]_[first letter of first name]
+Where there are multiple files, number them sequentially using _01, _02 etc at the end of
+the file name.
+
+
+
+
+S89990A                                                                                     4
+                                                     BLANK PAGE
+
+
+
+
+Copyright and Acknowledgements
+
+Copyright in this document belongs to, and is used under licence from the Department for Education, © 2026.
+
+‘T-LEVELS’ and ‘T Level’ are registered trade marks of the Department for Education.
+
+Pearson Education Limited is authorised by the Department for Education to develop and deliver this
+T Level Technical Qualification.
+
+Pearson and logo are registered trade marks of Pearson.
+
+S89990A                                                                                                       5
+

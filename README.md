@@ -29,6 +29,7 @@ Everything for my **T Level Digital Software Development (Gen 2) Occupational Sp
 | [`checklists/`](checklists) | Tick-lists for each task, built from the mark scheme |
 | [`docker/`](docker) | Practice database setup (SQL Server / PostgreSQL in Docker) with a SQLite fallback plan |
 | [`practice/`](practice) | My practice runs on the past briefs |
+| [`learning/`](learning) | **Learning plan to Distinction** (week by week to 9 March) and progress tracker |
 | [`claude/`](claude) | Claude's own space — skills and working notes it keeps for future sessions |
 
 ## The one thing to remember
@@ -37,6 +38,7 @@ The **requirements, KPIs and user acceptance criteria written in Task 1** are wh
 
 ## Start here
 
+0. `learning/learning-plan.md` — the plan, and `notes/ai-rules.md` — exactly where AI is allowed
 1. `notes/what-gets-a-distinction.md` — what examiners reward and what lost marks
 2. `notes/past-briefs-and-patterns.md` — every past client and the features they keep asking for
 3. `notes/mark-scheme-by-task.md` — Gen 2 marks task by task

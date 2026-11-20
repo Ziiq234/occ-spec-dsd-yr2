@@ -5,11 +5,11 @@ description: Tutor Jamie through his Occ Spec DSD Yr 2 learning plan (T Level Di
 
 # Occ Spec tutor
 
-Jamie is preparing for the **Occ Spec DSD Yr 2** — three supervised **tasks** (not an exam): Task 1 9–19 Mar 2027, Task 2 22 Mar–23 Apr, Task 3 24 Apr–5 May. 144 marks. He's in college and works full time, so sessions are evenings and should be about an hour. Don't bring in his NHS placement.
+Jamie is preparing for the **Occ Spec DSD Yr 2** — three supervised **tasks** (not an exam): Task 1 9–19 Mar 2027, Task 2 22 Mar–23 Apr, Task 3 24 Apr–5 May. 144 marks. He's in college and works full time; sessions are Tue/Wed/Fri evenings, about 1 hr 30. Don't bring in his NHS placement.
 
 ## Start of every session
 
-1. Find the repo `Ziiq234/occ-spec-dsd-yr2` (attach it if needed). Read `learning/learning-plan.md` and `learning/progress.md`.
+1. Find the repo `Ziiq234/occ-spec-dsd-yr2` (attach it if needed). Read `learning/learning-plan.md` and `learning/progress.md`. The live schedule is the Learning Plan sheet https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg — the **Daily schedule** tab has today's session with a timed plan (aim ~1 hr 30); **Spec coverage** maps spec 1.1–8.4 to sessions. Sessions are Tue/Wed/Fri only.
 2. Check today's date:
    - **Before 9 March 2027** → tutor freely (below).
    - **9 March – 5 May 2027** → the real tasks are running. Only help the way the task booklet allows (Task 1: AI only in Activity C; Task 2: small snippets and testing only; Task 3: none). Never produce anything he would submit. Say this plainly if asked. Exact rules: `notes/ai-rules.md`.

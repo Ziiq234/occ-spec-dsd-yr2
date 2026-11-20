@@ -1,8 +1,8 @@
 # Occ Spec DSD Yr 2 — Learning plan
 
 **Goal:** walk into Task 1 on **Tue 9 March 2027** able to do every marked skill without help — Distinction standard.
-**Time:** evenings after college, **Tuesday, Wednesday and Friday only** (works late Mon and Thu; no weekends), ~1 hour each. Rest/catch-up days and a two-week Christmas break are built in.
-**Day-by-day schedule:** the "Daily schedule" tab of the Learning Plan sheet — https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg (45 dated sessions, 24 Nov 2026 → 5 Mar 2027, with tick boxes). The week headings below are the original outline; the sheet is the live schedule.
+**Time:** ~1 hr 30 per session (planned total ≈ 60 hrs over 40 sessions, average 91 mins). Evenings after college, **Tuesday, Wednesday and Friday only** (works late Mon and Thu; no weekends), ~1 hour each. Rest/catch-up days and a two-week Christmas break are built in.
+**Day-by-day schedule:** the "Daily schedule" tab of the Learning Plan sheet — https://claude.ai/artifact/GfsJi25JqVVjFyuV1D1fLg (40 timed sessions + rest days, 24 Nov 2026 → 5 Mar 2027, each with a minute-by-minute plan and a tick box). The **Spec coverage** tab maps every specification content area (1.1–8.4) to the session that teaches it and where it's marked. Sessions on Tue 29 and Wed 30 Dec are the only ones over Christmas; drop them if needed and the plan slides by two sessions. The week headings below are the original outline; the sheet is the live schedule.
 **Practice brief:** use **Netheret IT Support** (Gen 2 AdSAM) as the running practice project, so each unit builds on the last. Use **Rolsa Technologies** (Gen 1, 2025) for the full mock in week 14.
 **Progress:** tracked in `learning/progress.md`.
 
@@ -109,6 +109,7 @@ A unit is **done** when Jamie can produce the piece without notes to at least th
 |---|---|---|
 | 29 | **Feedback materials** — questionnaires (open + closed), observation, paired code review, technical vs non-technical | Feedback pack for the practice build |
 | 30 | **Analysing feedback** — tables, charts, deciding what to change | Turns 5 fake responses into charts + 3 actions |
+| 32 | **Change, maintenance and user support** — drivers of change, change management, release notes, user guide/FAQ, issue resolution (spec 8.1–8.4, PO3 18 marks) | Writes release notes + FAQ and explains the issue-resolution process |
 | 31 | **Evaluation under task conditions** — assets and sources, each requirement met/partly/not, further development backed by quotes | Writes an evaluation in **2.5 hours, no internet, no AI** |
 
 ## Phase 5 — Mock and ready (week 14–15)

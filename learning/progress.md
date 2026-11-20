@@ -37,6 +37,7 @@ Confidence: 1 (new) – 5 (could teach it)
 | 28 | Packaging and screencast | 12 | ⬜ | | | |
 | 29 | Feedback materials | 13 | ⬜ | | | |
 | 30 | Analysing feedback | 13 | ⬜ | | | |
+| 32 | Change, maintenance and user support | 13 | ⬜ | | | |
 | 31 | Evaluation under task conditions | 13 | ⬜ | | | |
 | M | Timed Task 1 mock (Rolsa) | 14 | ⬜ | | | |
 
